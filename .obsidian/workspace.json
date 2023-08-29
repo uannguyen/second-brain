@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "b9fd70b8d3d29db4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b691abde90670a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ddbceab13e30287",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Markdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b1e86d53ffea2347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Data Structures & Algorithm/Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66cc03a3cc2fc7ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4387824724a1d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3bba1077fec0ed3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96d5b8c6dbdc9232",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "index",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "411240aed59c0408",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "right": {
+    "id": "337706b808fe28a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b798dfb612760b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd5f893b8150a7cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge/Data Structures & Algorithm/Algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e073d295b26b6ee3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge/Data Structures & Algorithm/Algorithm.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bc1c2a143d863bab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "14a3aace677de986",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Knowledge/Data Structures & Algorithm/Algorithm.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1e86d53ffea2347",
+  "lastOpenFiles": [
+    "README.md",
+    "Knowledge/Markdown.md",
+    "Knowledge/Data Structures & Algorithm/Algorithm.md",
+    "Knowledge/Data Structures & Algorithm/Data Structure.md",
+    "Knowledge/Data Structures & Algorithm/Data Types.md",
+    "Knowledge/Data Structures & Algorithm/Untitled.canvas",
+    "Knowledge/Internet.md",
+    "Knowledge/Data Structures & Algorithm",
+    "Knowledge/Commands.md",
+    "Knowledge/VS Code.md",
+    "Projects/FINVIET/Eco Web App/Giải thích -Flow Thanh Toán.md",
+    "References/index.md",
+    "Images/tree.png",
+    "Images/tree2 (1).png.crdownload",
+    "Knowledge/Untitled.canvas",
+    "Untitled.md",
+    "Temp.md",
+    "Knowledge/BE Roadmap",
+    "Projects/FINVIET/Finviet - index.md",
+    "Folder Structure Explain.md",
+    "Untitled 1.md",
+    "Images/folder.png",
+    "CyHome-flow-cash.drawio.png.md",
+    "assets/images/san-juan-mountains.jpg.md",
+    "assets/images",
+    "assets",
+    "Knowledge/index.md",
+    "Projects/FINVIET/Eco Web App/Giải thích - Flow Cash.md",
+    "Projects/FINVIET/Eco Web App/Flow Cash.canvas",
+    "Projects/FINVIET/Eco Web App/Flow Thanh toán.canvas",
+    "Images/CyHome-flow-cash.drawio.png",
+    "Images/CyHome-flow-payment.drawio.png",
+    "Images",
+    "Screenshot from 2023-08-16 13-31-15.png",
+    "markdown-mark-white.svg",
+    "Projects/FINVIET/Loyalty",
+    "Inboxs/index.md",
+    "Knowledge/Nestjs",
+    "Knowledge/TS",
+    "Knowledge/JS",
+    "Images/photo_8_2023-08-10_21-34-27.jpg",
+    "Images/photo_7_2023-08-10_21-34-27.jpg",
+    "Images/photo_6_2023-08-10_21-34-27.jpg",
+    "Images/photo_5_2023-08-10_21-34-27.jpg",
+    "Plugins.md",
+    "test.md",
+    "Test/Untitled.md",
+    "Projects/FINVIET/Eco Game/Sync-UserGame.canvas",
+    "Basic.md",
+    "2023-08-11.md",
+    "2023-08-09.md"
+  ]
+}

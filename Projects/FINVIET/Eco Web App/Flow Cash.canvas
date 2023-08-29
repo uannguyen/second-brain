@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"file","file":"Images/CyHome-flow-cash.drawio.png","id":"460dfa236d1b531b","x":-340,"y":-640,"width":1199,"height":459},
+		{"type":"text","text":" * Mỗi đối tác thanh toán qua cổng **Eco Pay** sẽ được cấu hình một **Store Account** khác nhau để nhận diện.\n * Mỗi đối tác sẽ được cấu hình một **Partner Account** riêng biệt ở máy chủ **BE Merchant B2B**.","id":"2d20a4d517a18ea6","x":120,"y":-146,"width":424,"height":212,"color":"1"},
+		{"type":"text","text":"Mục 1.1:\n- Khi User của CyHome App thông qua **Eco Web App** thực hiện thanh toán qua cổng **Eco Pay**, tiền từ ví của User sẽ chuyển đến ví của **ECO Pay**.\n\n\t=> **Eco Pay** giữ tiền và tiền nhận được sẽ được tính cho **Store Account** của đối tác CyHome.","id":"a73099e38c28f027","x":-340,"y":140,"width":400,"height":420,"color":"2"},
+		{"type":"text","text":"Mục 1.2:\n- Khi User thanh toán ở cổng **Eco Pay** thành công và máy chủ **BE Eco Web App** xác nhận giao dịch đã thành công, máy chủ **BE Eco Web App** sẽ tiến hành gửi yêu cầu đến máy chủ **BE Merchant B2B** để thực hiện xử lý dịch vụ(**VAS**) tương ứng.","id":"515c321a6b2ba20b","x":120,"y":140,"width":340,"height":420,"color":"3"},
+		{"type":"text","text":"Mục 1.3: \n- Khi nhận được yêu cầu từ máy chủ **Eco Web App**, máy chủ **Merchant B2B** thực hiện giao dịch thanh toán các dịch vụ(**VAS**) tương ứng với máy chủ nhà cung cấp **BE Provider**. Tiền từ ví của **Merchant** sẽ chuyển đến ví của **Nhà cung cấp**\n\n=> **BE Merchant B2B** sử dụng tiền từ **Partner Account**  tương ứng để thanh toán cho bên nhà cung cấp.","id":"80e664155640d2e5","x":544,"y":140,"width":376,"height":460,"color":"4"}
+	],
+	"edges":[]
+}

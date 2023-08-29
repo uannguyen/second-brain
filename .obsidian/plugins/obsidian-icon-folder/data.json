@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "AlGeneticAlgorithmSvgrepoCom",
+      "VcVsCodeSvgrepoCom",
+      "DaDatabaseSvgrepoCom",
+      "DaDataAllSvgrepoCom",
+      "InInternetSvgrepoCom",
+      "RoRoadSvgrepoCom(1)",
+      "RoRoadSvgrepoCom",
+      "ImImagesSvgrepoCom",
+      "ExBusinessPersonToExplainRightHandSvgrepoCom",
+      "TrRecycleBinTrashSvgrepoCom"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Knowledge/Markdown.md": "MaMarkdownMarkWhite",
+  "Folder Structure Explain.md": "ExBusinessPersonToExplainRightHandSvgrepoCom",
+  "Trash": "TrRecycleBinTrashSvgrepoCom",
+  "Projects": "PrPlanListSvgrepoCom",
+  "Knowledge": "KnKnowledgeSvgrepoCom",
+  "References": "ReInformationBookLearningSvgrepoCom",
+  "Knowledge/JS": "JsJsSvgrepoCom",
+  "Knowledge/Nestjs": "NeNestjsIcon",
+  "Knowledge/TS": "TsTypescriptlangIcon",
+  "Projects/FINVIET": "FiFinvietLogo",
+  "Images": "ImImagesSvgrepoCom",
+  "Knowledge/Commands.md": "CoTerminalSvgrepoCom",
+  "Knowledge/Internet.md": "InInternetSvgrepoCom",
+  "Knowledge/VS Code.md": "VcVsCodeSvgrepoCom",
+  "Knowledge/Data Structures & Algorithm": "DaDatabaseSvgrepoCom",
+  "Knowledge/Data Structures & Algorithm/Data Structure.md": "DaDatabaseSvgrepoCom",
+  "Knowledge/Data Structures & Algorithm/Data Types.md": "DaDatabaseSvgrepoCom",
+  "Knowledge/Data Structures & Algorithm/Algorithm.md": "AlGeneticAlgorithmSvgrepoCom"
+}
