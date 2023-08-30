@@ -6,19 +6,39 @@ Nó là cái gì ?
 
 # ==Array== - Mảng
 
-## Element - Phần tử
+![[ds-array.png]]
 
-## Index - Chỉ mục
+*Mảng là một tập hợp các phần tử có cùng kiểu dữ liệu, được sắp xếp theo thứ tự== và có thể truy cập thông qua chỉ số (index)*
 
-## Size - Kích thước
+## Properties of array - Thuộc tính: 
 
-## Truy cập và sửa đổi
+- Cùng kiểu dữ liệu, mỗi phần tử có cùng kích thước là 4 byte
+- Các phần tử được lưu trữ tại các vị trí có bộ nhớ liền kề, phần tử đầu tiền được lưu ở vị trí bộ nhớ nhỏ nhất
+- Có thể truy cập ngẫu nhiên (ex: arr[0], arr[1], ...)
 
-## Multidimensional Arrays - Mảng đa chiều
+## Why are arrays required ?  - Tại sao cần có mảng?
 
-## Thao tác cơ bản
-=> 
+- Sắp xếp & tìm kiếm dễ dàng
+- Xử lý nhiều giá trị cùng lúc nhanh chóng, dễ dàng
+- Lưu nhiều giá trị chỉ với một biến duy nhất
 
+## Memory allocation of an array - Cấp phát bộ nhớ của mảng
+
+![[ds-array2.png]]
+
+=> Mảng 5 phần tử, địa chỉ cơ sở của mảng là 100 byte (arr[0]), kích thước dữ liệu là 4 byte 
+
+- Cách tính Base Address của một mảng:
+
+```
+ Cho arr = [2,4,5,7,9]
+
+ Công thức:
+ Byte address of element arr[i]  = base_address + size * (i - first_index)  
+
+=> arr[2] = 100 + 4 * (2 - 0)
+
+```
 
 ---
 

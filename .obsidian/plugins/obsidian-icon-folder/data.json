@@ -6,16 +6,16 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "ReInformationBookLearningSvgrepoCom",
+      "IsReportIssueSvgrepoCom",
+      "PlPlanListSvgrepoCom",
+      "TaTaskSvgrepoCom",
       "AlGeneticAlgorithmSvgrepoCom",
       "VcVsCodeSvgrepoCom",
       "DaDatabaseSvgrepoCom",
       "DaDataAllSvgrepoCom",
       "InInternetSvgrepoCom",
-      "RoRoadSvgrepoCom(1)",
-      "RoRoadSvgrepoCom",
-      "ImImagesSvgrepoCom",
-      "ExBusinessPersonToExplainRightHandSvgrepoCom",
-      "TrRecycleBinTrashSvgrepoCom"
+      "RoRoadSvgrepoCom(1)"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -41,8 +41,12 @@
   "Knowledge/Commands.md": "CoTerminalSvgrepoCom",
   "Knowledge/Internet.md": "InInternetSvgrepoCom",
   "Knowledge/VS Code.md": "VcVsCodeSvgrepoCom",
-  "Knowledge/Data Structures & Algorithm": "DaDatabaseSvgrepoCom",
-  "Knowledge/Data Structures & Algorithm/Data Structure.md": "DaDatabaseSvgrepoCom",
-  "Knowledge/Data Structures & Algorithm/Data Types.md": "DaDatabaseSvgrepoCom",
-  "Knowledge/Data Structures & Algorithm/Algorithm.md": "AlGeneticAlgorithmSvgrepoCom"
+  "Projects/FINVIET/Eco Consumer": "PlPlanListSvgrepoCom",
+  "Projects/FINVIET/Eco Consumer/Tasks.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Consumer/Issues.md": "IsReportIssueSvgrepoCom",
+  "Knowledge/Algorithm": "AlGeneticAlgorithmSvgrepoCom",
+  "Knowledge/Data Structures": "DaDatabaseSvgrepoCom",
+  "Knowledge/Data Structures/Data Structure.md": "DaDatabaseSvgrepoCom",
+  "Knowledge/Data Structures/Data Types.md": "DaDatabaseSvgrepoCom",
+  "Knowledge/Algorithm/Base Concept.md": "AlGeneticAlgorithmSvgrepoCom"
 }

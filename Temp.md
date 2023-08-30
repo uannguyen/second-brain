@@ -4,3 +4,5 @@ Data structure and algorithms, database, design pattern , object orient programm
 
 
 
+---
+Check web-app-portal => call api get-card ko cần thiết
