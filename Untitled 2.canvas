@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"162e7997d49ea7cc","x":-440,"y":-250,"width":50,"height":60,"type":"text","text":"1"},
+		{"id":"e70ad7cc8bbbf181","x":-320,"y":-250,"width":51,"height":60,"type":"text","text":"2"},
+		{"id":"33aaf52a5d1e7fb4","type":"text","text":"3","x":-180,"y":-250,"width":51,"height":60},
+		{"id":"9cb0c47088c9fdfa","type":"text","text":"4","x":-40,"y":-250,"width":51,"height":60},
+		{"id":"8a20ba13edf68200","type":"text","text":"5","x":109,"y":-250,"width":51,"height":60},
+		{"id":"e5192ac1e1ada0c9","type":"text","text":"6","x":260,"y":-250,"width":51,"height":60},
+		{"id":"00adca68016599f3","x":-540,"y":-400,"width":250,"height":60,"color":"3","type":"text","text":"Front"},
+		{"id":"9135ff00f202a3a2","type":"text","text":"Rear (tail)","x":160,"y":-400,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"bbcac200e23723af","fromNode":"162e7997d49ea7cc","fromSide":"top","toNode":"00adca68016599f3","toSide":"bottom","color":"3"},
+		{"id":"2756929616c534ad","fromNode":"e5192ac1e1ada0c9","fromSide":"top","toNode":"9135ff00f202a3a2","toSide":"bottom","color":"3"}
+	]
+}

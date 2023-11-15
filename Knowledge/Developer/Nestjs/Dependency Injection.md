@@ -1,0 +1,2 @@
+
+tôi đang dùng nestjs và gặp phải một vấn đề như sau: Tôi có class "BaseService", và nhiều class con kế thừa từ nó, tuy nhiên mỗi khi tôi adjust contructor của BaseService thì những class cũng phải sửa theo ? điều này rất bất tiện cho tôi, có cách nào khác giải quyết không ?

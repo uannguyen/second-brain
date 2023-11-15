@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"050f2805447e845e","type":"text","text":"**GetCustomerFeeInfo**","x":-448,"y":20,"width":328,"height":80},
+		{"id":"0662f0abc8806b0d","type":"text","text":"**PayBillFeesByCustomerCode**","x":-496,"y":260,"width":424,"height":80},
+		{"id":"edddd96e561ea80d","type":"text","text":"**GetPhieuThuTienCSPK**","x":-240,"y":536,"width":399,"height":80},
+		{"id":"9c68381ad2a82887","type":"text","text":"**GetCustomerFeeInfo**","x":1058,"y":-61,"width":354,"height":83},
+		{"id":"1571d5b2010d1285","type":"text","text":"**PayBillFeesByCustomerCode**","x":1069,"y":147,"width":333,"height":113},
+		{"id":"0c08b379577cd2a9","type":"text","text":"2. Quy trình thanh toán các loại chi phí","x":1046,"y":-300,"width":379,"height":126},
+		{"id":"6ce0c1be20dad959","type":"text","text":"GetBillByBank","x":1767,"y":379,"width":250,"height":133},
+		{"id":"5cfcd0c3be263d0e","type":"text","text":"**CancelBillFeesByCustomerCode**","x":287,"y":265,"width":323,"height":115},
+		{"id":"94a803a0bdfed58e","type":"text","text":"**GetPhieuThuTienDichVu**","x":1040,"y":409,"width":390,"height":105},
+		{"id":"b4f3c34f7798abe1","type":"text","text":"Quy trình hủy thanh toán","x":1767,"y":-288,"width":250,"height":93},
+		{"id":"808ec8ca8b789229","type":"text","text":"GetPaymentInfos","x":1750,"y":-61,"width":286,"height":74},
+		{"id":"eee9ed7a0ab2eb42","type":"text","text":"CancelBillFeesByCustomerCode","x":1759,"y":147,"width":269,"height":122},
+		{"id":"8c13273630a4d25e","type":"text","text":"1. Quy trình thanh toán tiền điện và cspk","x":-488,"y":-288,"width":408,"height":168},
+		{"id":"c04ecb38cf735b11","type":"text","text":"**GetPhieuThuTienDien**","x":-720,"y":514,"width":329,"height":104},
+		{"id":"519dffb4e5d97993","type":"text","text":"**GetBillByBank**","x":346,"y":504,"width":250,"height":124},
+		{"id":"e8636f0c102d0a83","type":"text","text":"**GetPaymentInfos**","x":284,"y":-19,"width":330,"height":77},
+		{"id":"657e8e825708a922","type":"text","text":"**Quy trình hủy thanh toán**","x":261,"y":-242,"width":375,"height":122}
+	],
+	"edges":[
+		{"id":"771dda18f8d86ace","fromNode":"8c13273630a4d25e","fromSide":"bottom","toNode":"050f2805447e845e","toSide":"top"},
+		{"id":"6c8fb83c9a13ccb0","fromNode":"050f2805447e845e","fromSide":"bottom","toNode":"0662f0abc8806b0d","toSide":"top"},
+		{"id":"221576882aecc6fd","fromNode":"0662f0abc8806b0d","fromSide":"bottom","toNode":"c04ecb38cf735b11","toSide":"top"},
+		{"id":"f2a0a366cad23873","fromNode":"0662f0abc8806b0d","fromSide":"bottom","toNode":"edddd96e561ea80d","toSide":"top"},
+		{"id":"99c3d9e0f94c2152","fromNode":"657e8e825708a922","fromSide":"bottom","toNode":"e8636f0c102d0a83","toSide":"top"},
+		{"id":"62743bef26094397","fromNode":"e8636f0c102d0a83","fromSide":"bottom","toNode":"5cfcd0c3be263d0e","toSide":"top","label":"thỏa đk"},
+		{"id":"b34c9fd267d32982","fromNode":"0c08b379577cd2a9","fromSide":"bottom","toNode":"9c68381ad2a82887","toSide":"top"},
+		{"id":"328aa65a65ac2ca4","fromNode":"9c68381ad2a82887","fromSide":"bottom","toNode":"1571d5b2010d1285","toSide":"top"},
+		{"id":"b8c2834909152592","fromNode":"1571d5b2010d1285","fromSide":"bottom","toNode":"94a803a0bdfed58e","toSide":"top"},
+		{"id":"90a42841ca3f4f68","fromNode":"b4f3c34f7798abe1","fromSide":"bottom","toNode":"808ec8ca8b789229","toSide":"top"},
+		{"id":"25e53dab9e8f0a41","fromNode":"808ec8ca8b789229","fromSide":"bottom","toNode":"eee9ed7a0ab2eb42","toSide":"top"}
+	]
+}

@@ -1,12 +1,12 @@
 
-
 # ==Logo free==
 
 Logo của Branch
 https://www.vectorlogo.zone/
 
-Logo 
+Logo svg
 https://www.svgrepo.com/
+https://www.freepik.com/
 
 ---
 
@@ -22,6 +22,3 @@ https://github.com/everthis/leetcode-js
 
 ---
 
-# Golang for Node.js Developers
-
-https://github.com/miguelmota/golang-for-nodejs-developers

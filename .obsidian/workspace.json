@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9b691abde90670a9",
+        "id": "d6f78547c70d5837",
         "type": "tabs",
         "children": [
           {
-            "id": "9ddbceab13e30287",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Markdown.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f1120304a4fd8663",
+            "id": "54951f810cc19b76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,11 +44,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tuyến tính",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -84,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 406.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -100,13 +81,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,8 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b556c6d351020a4a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "Temp.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -161,57 +148,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1120304a4fd8663",
+  "active": "d3bba1077fec0ed3",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Knowledge/Data Structures/Data Structure.md",
-    "Knowledge/Algorithm/Base Concept.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "References/index.md",
-    "Projects/FINVIET/Eco Consumer/Tasks.md",
-    "Knowledge/Algorithm",
-    "Knowledge/Data Structures & Algorithm/Untitled",
-    "Knowledge/Markdown.md",
-    "Temp.md",
-    "Projects/FINVIET/Eco Consumer/Issues.md",
-    "Projects/FINVIET/Finviet - index.md",
-    "Knowledge/Data Structures/Data Types.md",
-    "Projects/FINVIET/Eco Consumer",
-    "Images/ds-array2.png",
-    "Images/ds-array2.png.crdownload",
-    "Images/ds-array.png",
-    "Images/ds-array.png.crdownload",
-    "README.md",
-    "Knowledge/Data Structures & Algorithm/Untitled.canvas",
-    "Knowledge/Internet.md",
-    "Knowledge/Data Structures",
-    "Knowledge/Commands.md",
-    "Knowledge/VS Code.md",
+    "References/Golang.md",
+    "References",
+    "Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Projects/FINVIET/Backend/S-Invoice/notes.md",
+    "Projects/FINVIET/Backend/S-Invoice/data-explain.md",
+    "Projects/FINVIET/Eco Web App/index.md",
+    "Projects/FINVIET/Eco Web App/Shoppage note.md",
+    "Projects/FINVIET/Eco Web App/Portal.md",
+    "Projects/FINVIET/Eco Web App/Issues.md",
     "Projects/FINVIET/Eco Web App/Giải thích -Flow Thanh Toán.md",
-    "Images/tree.png",
-    "Images/tree2 (1).png.crdownload",
-    "Knowledge/Untitled.canvas",
-    "Knowledge/BE Roadmap",
-    "Folder Structure Explain.md",
-    "Untitled 1.md",
-    "Images/folder.png",
-    "CyHome-flow-cash.drawio.png.md",
-    "assets/images/san-juan-mountains.jpg.md",
-    "assets/images",
-    "assets",
-    "Knowledge/index.md",
     "Projects/FINVIET/Eco Web App/Giải thích - Flow Cash.md",
-    "Projects/FINVIET/Eco Web App/Flow Cash.canvas",
     "Projects/FINVIET/Eco Web App/Flow Thanh toán.canvas",
-    "Images/CyHome-flow-cash.drawio.png",
-    "Images/CyHome-flow-payment.drawio.png",
-    "Screenshot from 2023-08-16 13-31-15.png",
-    "markdown-mark-white.svg",
-    "Inboxs/index.md",
-    "Images/photo_8_2023-08-10_21-34-27.jpg",
-    "Images/photo_7_2023-08-10_21-34-27.jpg",
-    "Plugins.md",
-    "test.md",
-    "Test/Untitled.md",
-    "Projects/FINVIET/Eco Game/Sync-UserGame.canvas"
+    "Projects/FINVIET/Eco Web App/Flow Cash.canvas",
+    "Projects/FINVIET/Eco Game/index.md",
+    "Projects/FINVIET/Eco Game/Sync-UserGame.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel",
+    "Projects/FINVIET/Eco Consumer/Vinaid.md",
+    "Projects/FINVIET/Eco Consumer/Noti.md",
+    "Projects/FINVIET/Eco Consumer/Auto Payment.md",
+    "Projects/FINVIET/Backend/index.md",
+    "Projects/FINVIET/Backend/evnspc.md",
+    "Projects/FINVIET/Backend/S-Invoice",
+    "Projects/FINVIET/Backend/Forgot Password.md",
+    "Projects/FINVIET/Backend/Forgot Password.canvas",
+    "Projects/FINVIET/Loyalty",
+    "Projects/FINVIET/Finviet - index.md",
+    "Projects/FINVIET/Eco Web App",
+    "Projects/FINVIET/Eco Game",
+    "Projects/FINVIET/Eco Consumer",
+    "Projects/FINVIET/Backend",
+    "Projects/FINVIET",
+    "Projects",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Tree.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Stack.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Queue.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Linked-List.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Heap.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Hash-Table.md",
+    "Images/FINVIET/photo_2023-10-31_16-43-03.jpg",
+    "Images/FINVIET/CyHome-flow-payment.drawio.png",
+    "Images/FINVIET/photo_2023-10-31_16-36-43.jpg",
+    "Images/FINVIET/CyHome-flow-cash.drawio.png",
+    "Images/tree.png",
+    "Images/stack.webp",
+    "Images/skip-list-in-data-structure.png",
+    "Images/queue.webp",
+    "Images/queue.png",
+    "Images/linked-list-application-polynomial.png",
+    "PERSONAL/Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas",
+    "PERSONAL/Projects/FINVIET/Eco Web App/Flow Thanh toán.canvas",
+    "PERSONAL/Projects/FINVIET/Eco Web App/Flow Cash.canvas"
   ]
 }
