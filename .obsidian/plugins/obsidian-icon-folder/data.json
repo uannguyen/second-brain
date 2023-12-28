@@ -6,6 +6,9 @@
     "emojiStyle": "none",
     "iconColor": "#efebeb",
     "recentlyUsedIcons": [
+      "LiLinuxSvgrepoCom",
+      "NoNoteSvgrepoCom",
+      "DiDiagramHierarchySvgrepoCom",
       "TaTaskSvgrepoCom",
       "PlPlanListSvgrepoCom",
       "PrPlanListSvgrepoCom",
@@ -17,10 +20,7 @@
       "QuLetterQSvgrepoCom",
       "LlLinkedListsSvgrepoCom",
       "HeHeapSvgrepoCom",
-      "HaHashSvgrepoCom",
-      "GrGraphUpSvgrepoCom",
-      "DiBookDictionaryEducationSvgrepoCom",
-      "ArArraySvgrepoCom"
+      "HaHashSvgrepoCom"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -67,5 +67,22 @@
   "Projects/FINVIET/Eco Web App": "PlPlanListSvgrepoCom",
   "Projects/FINVIET/Loyalty": "PlPlanListSvgrepoCom",
   "Projects/FINVIET/Eco Consumer/Noti.md": "TaTaskSvgrepoCom",
-  "Knowledge/Developer/Fundamentals/Data Structures/Base.md": "SiStructureOrganizationSvgrepoCom"
+  "Knowledge/Developer/Fundamentals/Data Structures/Base.md": "SiStructureOrganizationSvgrepoCom",
+  "Projects/FINVIET/Eco Consumer/Tab-noti.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Game/LuckyWheel": "PrPlanListSvgrepoCom",
+  "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Backend/evnspc.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Backend/Forgot Password.canvas": "DiDiagramHierarchySvgrepoCom",
+  "Projects/FINVIET/Backend/Forgot Password.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Backend/index.md": "NoNoteSvgrepoCom",
+  "Projects/FINVIET/Backend/noti.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Consumer/Referral.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Game/index.md": "NoNoteSvgrepoCom",
+  "Projects/FINVIET/Eco-Cms/index.md": "NoNoteSvgrepoCom",
+  "Projects/FINVIET/Eco-Cms/Untitled.md": "NoNoteSvgrepoCom",
+  "Projects/FINVIET/Eco Web App/index.md": "NoNoteSvgrepoCom",
+  "Projects/FINVIET/Eco Web App/Issues.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Web App/Portal.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Web App/Shoppage note.md": "TaTaskSvgrepoCom",
+  "Knowledge/Linux-Command.md": "LiLinuxSvgrepoCom"
 }

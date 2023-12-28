@@ -9,5 +9,22 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "legacyEditor": false
+  "legacyEditor": false,
+  "livePreview": false,
+  "focusNewTab": true,
+  "spellcheck": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "vimMode": false,
+  "autoConvertHtml": true,
+  "propertiesInDocument": "visible",
+  "showInlineTitle": true
 }

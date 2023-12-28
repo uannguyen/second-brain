@@ -1,4 +1,12 @@
 {
   "accentColor": "",
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "cssTheme": "",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
 }
