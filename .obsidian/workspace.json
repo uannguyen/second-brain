@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "30da6b551eff6eca",
+        "id": "77fc1402e28c87da",
         "type": "tabs",
         "children": [
           {
-            "id": "e73956af7f8faa72",
+            "id": "f3267824817957a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/English/Phương pháp học.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 428.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -97,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/English/Phương pháp học.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Knowledge/English/Phương pháp học.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,11 +139,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e73956af7f8faa72",
+  "active": "f3267824817957a3",
   "lastOpenFiles": [
+    "Plan/Untitled.md",
+    "Đang làm dở dang.md",
+    "Knowledge/English/Phương pháp học.md",
     "Knowledge/github-recovery-codes.txt",
     "Knowledge/github-recovery-codes.txt.crdownload",
-    "Plan/Untitled.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Consumer/Auto Payment.md",
@@ -159,7 +153,6 @@
     "Projects/FINVIET/Backend/index.md",
     "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
-    "Đang làm dở dang.md",
     "Knowledge/Linux-Command.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Books/Dive Into Design Pattern/Relations Between Objects.md",
@@ -170,7 +163,6 @@
     "Images/BOOKS/Screenshot from 2024-02-23 10-35-54.png",
     "References/index.md",
     "References/Golang.md",
-    "Knowledge/English/Phương pháp học.md",
     "Knowledge/Developer/Commands.md",
     "Knowledge/Developer/Internet.md",
     "Knowledge/Developer/JS/ForEach.md",
@@ -199,7 +191,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Books/Dive Into Design Pattern",
     "Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas",
     "Projects/FINVIET/Eco Web App/Flow Thanh toán.canvas",
     "Projects/FINVIET/Eco Web App/Flow Cash.canvas",
