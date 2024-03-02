@@ -3,7 +3,7 @@
   "baseFontSize": 24,
   "cssTheme": "",
   "theme": "obsidian",
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "showViewHeader": true,
   "nativeMenus": false,
   "interfaceFontFamily": "",

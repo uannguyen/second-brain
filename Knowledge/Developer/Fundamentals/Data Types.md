@@ -6,7 +6,7 @@
 
 => 0 ---> 9
 ![[Knowledge/Data Structures/Untitled.canvas]]
-## Floating-point number - Số thực, số thập phân
+## Floating - Số thực, số thập phân
 
 => 0,1 ...
 
@@ -18,7 +18,7 @@
 
 => `True/False`
 
-# String - Chuỗi
+## String - Chuỗi
 
 => `"Hello World !"`
 
@@ -33,7 +33,7 @@
 
 => `{ key: value, ... }`
 
-# **Special Data Types**
+## **Special Data Types**
 
 ## Null và Undefined
 

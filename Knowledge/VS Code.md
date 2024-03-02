@@ -38,7 +38,9 @@ Alt + Click
 => Nhấn Alt + Click chuột trái để bôi đen và chọn.
 ```
 
-
+```
+Ctrl + Shift
+```
 # Tạo nhiều con trỏ trên nhiều hàng
 
 ```

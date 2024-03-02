@@ -4,32 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2510baba30b42c31",
+        "id": "30da6b551eff6eca",
         "type": "tabs",
         "children": [
           {
-            "id": "ea858bec6742b4a8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6f214fba0cf27db8",
+            "id": "e73956af7f8faa72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Developer/Fundamentals/Data Structures/DS-Stack.md",
+                "file": "Knowledge/English/Phương pháp học.md",
                 "mode": "source",
-                "source": true
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -47,21 +34,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3bba1077fec0ed3",
+            "id": "e9e879b4f5a74a3d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "5ab2aeb30d9dfd35",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           },
           {
@@ -78,12 +57,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "88beac909926e7f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 292.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -94,46 +81,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e073d295b26b6ee3",
+            "id": "e26c17319e1ffcaa",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "tag",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "14a3aace677de986",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md"
-              }
-            }
-          },
-          {
-            "id": "b556c6d351020a4a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "7d2a411e63295515",
+            "id": "5ebaf0685a496f41",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+                "file": "Knowledge/English/Phương pháp học.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,13 +109,24 @@
             }
           },
           {
-            "id": "e26c17319e1ffcaa",
+            "id": "d682489f9144bc5b",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outline",
+              "state": {
+                "file": "Knowledge/English/Phương pháp học.md"
+              }
+            }
+          },
+          {
+            "id": "5385b8b0765a3335",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -164,73 +139,71 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "templates:Insert template": false,
-      "publish:Publish changes...": false,
-      "markdown-importer:Open format converter": false
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "e073d295b26b6ee3",
+  "active": "e73956af7f8faa72",
   "lastOpenFiles": [
-    "Knowledge/Developer/Fundamentals/Data Structures/DS-Stack.md",
-    "Knowledge/Linux-Command.md",
-    "Knowledge/Telegram Tips.md",
-    "Knowledge/Markdown.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-    "Knowledge/Developer/JS/ForEach.md",
-    "Untitled.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-    "Untitled 1.canvas",
-    "Projects/FINVIET/Eco-Cms/index.md",
+    "Knowledge/github-recovery-codes.txt",
+    "Knowledge/github-recovery-codes.txt.crdownload",
+    "Plan/Untitled.md",
     "Projects/FINVIET/Backend/evnspc.md",
-    "References/index.md",
-    "References/Golang.md",
-    "Untitled.canvas",
-    "Projects/FINVIET/Eco Web App/index.md",
-    "Projects/FINVIET/Eco Web App/Shoppage note.md",
-    "Projects/FINVIET/Eco Web App/Issues.md",
-    "Projects/FINVIET/Eco Game/index.md",
-    "Projects/FINVIET/Backend/index.md",
+    "Projects/FINVIET/Common Noted.md",
+    "Projects/FINVIET/Eco Consumer/Auto Payment.md",
     "Projects/FINVIET/Backend/noti.md",
-    "Projects/FINVIET/Eco Consumer/Referral.md",
-    "Projects/FINVIET/Eco-Cms/Untitled.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas",
+    "Projects/FINVIET/Backend/index.md",
     "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
-    "Projects/FINVIET/Eco Consumer/Noti.md",
-    "Projects/FINVIET/Eco Consumer/Tab-noti.md",
-    "Projects/FINVIET/Eco Consumer/Vinaid.md",
-    "Knowledge/VS Code.md",
-    "Knowledge/Tips/Learning-steps-Learn.md",
-    "Knowledge/Tips/index.md",
+    "Đang làm dở dang.md",
+    "Knowledge/Linux-Command.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Books/Dive Into Design Pattern/Relations Between Objects.md",
+    "Books/Dive Into Design Pattern/Pillars of OOP.md",
+    "Books/Dive Into Design Pattern/Catalog.md",
+    "Images/BOOKS/dive-into-design-pattern.png.jpg",
+    "Images/BOOKS/oop-7.png",
+    "Images/BOOKS/Screenshot from 2024-02-23 10-35-54.png",
+    "References/index.md",
+    "References/Golang.md",
+    "Knowledge/English/Phương pháp học.md",
+    "Knowledge/Developer/Commands.md",
+    "Knowledge/Developer/Internet.md",
+    "Knowledge/Developer/JS/ForEach.md",
+    "Knowledge/Developer/JS/Promis_Async_Await.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Issues.md",
+    "Books/Dive Into Design Pattern/Basic of OOP.md",
+    "Images/BOOKS/oop-6.png",
+    "Images/BOOKS/Screenshot from 2024-02-16 11-54-26.png",
+    "Images/BOOKS/oop-4.png",
+    "Images/BOOKS/oop-5.png",
+    "Knowledge/Markdown.md",
+    "Projects/FINVIET/Eco-Cms/Untitled.md",
+    "Projects/FINVIET/Eco-Cms/index.md",
+    "Plan",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+    "Images/BOOKS/oop-3.png",
+    "Images/BOOKS/oop-1.png",
+    "Images/BOOKS/oop-2.png",
+    "Knowledge/English",
+    "Images/BOOKS/Unconfirmed 554298.crdownload",
+    "Images/BOOKS/Unconfirmed 482971.crdownload",
+    "Images/BOOKS",
+    "Images/PROJECT",
+    "Images/KNOWLEDGE",
+    "Images/FINVIET/CONSUMER",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Projects/FINVIET/Eco-Cms",
-    "Images/ch1.6-sequence-process.png",
-    "Images/ch1.6-sequence-process.png.crdownload",
-    "Images/ch1.6-concurrent-process.png",
-    "Images/ch1.6-concurrent-process.png.crdownload",
-    "Images/ch1-5-parallelprograming.png",
-    "Images/ch1-5-parallelprograming.png.crdownload",
-    "Images/ch1-5-sequence-programming.png",
-    "Images/ch1-5-sequence-programming.png.crdownload",
-    "Images/b-tree.png",
-    "Images/b-tree.png.crdownload",
-    "Images/avl-tree.png",
-    "Images/avl-tree.png.crdownload",
-    "Images/binary-tree (1).png",
-    "Images/binary-tree (1).png.crdownload",
-    "Images/binary-tree.png",
-    "Images/binary-tree.png.crdownload",
-    "Projects/FINVIET/test",
+    "Books/Dive Into Design Pattern",
+    "Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas",
     "Projects/FINVIET/Eco Web App/Flow Thanh toán.canvas",
     "Projects/FINVIET/Eco Web App/Flow Cash.canvas",
     "Projects/FINVIET/Eco Game/Sync-UserGame.canvas",
-    "Images/FINVIET/photo_2023-10-31_16-43-03.jpg",
-    "Images/FINVIET/CyHome-flow-payment.drawio.png",
     "PERSONAL/Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas"
   ]
 }

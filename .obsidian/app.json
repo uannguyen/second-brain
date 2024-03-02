@@ -10,9 +10,9 @@
     "downscalePercent": 100
   },
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "focusNewTab": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "showLineNumber": false,
   "readableLineLength": true,
   "foldHeading": true,
@@ -26,5 +26,7 @@
   "vimMode": false,
   "autoConvertHtml": true,
   "propertiesInDocument": "visible",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true
 }
