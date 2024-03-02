@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 24,
     "emojiStyle": "none",
@@ -23,14 +23,27 @@
       "MeMemory1SvgrepoCom"
     ],
     "recentlyUsedIconsSize": 15,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "PaPaperTextTextsSvgrepoCom(1)",
+        "rule": "Books/Dive Into Design Pattern/Catalog.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
       "bottom": 0,
       "left": -2
     },
-    "iconInTabsEnabled": true
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
   "Trash": "TrRecycleBinTrashSvgrepoCom",
   "Projects": "PrPlanListSvgrepoCom",
@@ -97,9 +110,6 @@
   "Plan": "PlPlanSvgrepoCom",
   "Books/Dive Into Design Pattern/Basic of OOP.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/Pillars of OOP.md": "PaPaperTextTextsSvgrepoCom(1)",
-  "Books/Dive Into Design Pattern/Catalog.md": {
-    "iconName": "CaCatalogueCatalogSvgrepoCom",
-    "inheritanceIcon": "PaPaperTextTextsSvgrepoCom(1)"
-  },
-  "Books/Dive Into Design Pattern/Relations Between Objects.md": "PaPaperTextTextsSvgrepoCom(1)"
+  "Books/Dive Into Design Pattern/Relations Between Objects.md": "PaPaperTextTextsSvgrepoCom(1)",
+  "Books/Dive Into Design Pattern/Catalog.md": "CaCatalogueCatalogSvgrepoCom"
 }
