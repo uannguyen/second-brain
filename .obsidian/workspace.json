@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc60daf9d269d9de",
+        "id": "8942e2580e23005e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc0cffb68baa8c38",
+            "id": "4eb25051a9acc09c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan/Kế hoạch cá nhân.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "markdo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Kế hoạch cá nhân.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Kế hoạch cá nhân.md"
+                "file": "Knowledge/English/Videos/Video 1.md"
               }
             }
           },
@@ -147,12 +147,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fc0cffb68baa8c38",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
-    "Projects/FINVIET/Common Noted.md",
+    "Knowledge/Markdown.md",
+    "Knowledge/English/Videos/Video 1.md",
+    "Knowledge/English/Dách sách.md",
+    "Knowledge/English/Videos",
+    "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt",
+    "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt.crdownload",
+    "References/Youtube.md",
+    "Plan/Đọc sách.md",
     "Plan/Kế hoạch cá nhân.md",
-    "Đang làm dở dang.md",
     "Knowledge/English/Phương pháp học.md",
+    "Projects/FINVIET/Common Noted.md",
+    "Đang làm dở dang.md",
     "Knowledge/github-recovery-codes.txt",
     "Knowledge/github-recovery-codes.txt.crdownload",
     "Projects/FINVIET/Backend/evnspc.md",
@@ -176,14 +184,10 @@
     "Knowledge/Developer/JS/ForEach.md",
     "Knowledge/Developer/JS/Promis_Async_Await.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Issues.md",
-    "Books/Dive Into Design Pattern/Basic of OOP.md",
     "Images/BOOKS/oop-6.png",
     "Images/BOOKS/Screenshot from 2024-02-16 11-54-26.png",
     "Images/BOOKS/oop-4.png",
     "Images/BOOKS/oop-5.png",
-    "Knowledge/Markdown.md",
-    "Projects/FINVIET/Eco-Cms/Untitled.md",
-    "Projects/FINVIET/Eco-Cms/index.md",
     "Plan",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Images/BOOKS/oop-3.png",
@@ -193,9 +197,6 @@
     "Images/BOOKS/Unconfirmed 554298.crdownload",
     "Images/BOOKS/Unconfirmed 482971.crdownload",
     "Images/BOOKS",
-    "Images/PROJECT",
-    "Images/KNOWLEDGE",
-    "Images/FINVIET/CONSUMER",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

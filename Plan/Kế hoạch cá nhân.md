@@ -1,5 +1,5 @@
 
-# Mục tiêu hằng ngày
+# Kế hoạch hằng ngày
 
  - Học 30-60p tiếng anh
 - Đọc ít nhất 5 trang sách
@@ -7,7 +7,8 @@
 
 # Kế hoạch ngắn hạn
 
-
+- Tìm ra mục tiêu, mong muốn thực sự của bản thân
+- 
 
 
 # Kế hoạch dài hạn
