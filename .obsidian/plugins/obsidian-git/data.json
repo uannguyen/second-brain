@@ -1,9 +1,9 @@
 {
   "commitMessage": "second brand backup: {{date}}",
   "commitDateFormat": "HH:mm DD-MM-YYYY ",
-  "autoSaveInterval": 1,
+  "autoSaveInterval": 60,
   "autoPushInterval": 0,
-  "autoPullInterval": 1,
+  "autoPullInterval": 0,
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
