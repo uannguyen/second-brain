@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "77fc1402e28c87da",
+        "id": "bc60daf9d269d9de",
         "type": "tabs",
         "children": [
           {
-            "id": "f3267824817957a3",
+            "id": "fc0cffb68baa8c38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Đang làm dở dang.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Đang làm dở dang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Đang làm dở dang.md"
+              }
             }
           },
           {
@@ -139,7 +147,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f3267824817957a3",
+  "active": "fc0cffb68baa8c38",
   "lastOpenFiles": [
     "Plan/Untitled.md",
     "Đang làm dở dang.md",
