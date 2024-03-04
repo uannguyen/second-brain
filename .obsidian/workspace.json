@@ -10,6 +10,7 @@
           {
             "id": "e8cd906196e3fbe6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markdo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,6 +151,12 @@
   },
   "active": "e8cd906196e3fbe6",
   "lastOpenFiles": [
+    "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/Relations Between Objects.md",
+    "Images/BOOKS/oop-10.png",
+    "Images/BOOKS/Screenshot from 2024-03-04 09-51-40.png",
+    "Books/Dive Into Design Pattern/Catalog.md",
+    "Knowledge/Linux-Command.md",
     "Images/BOOKS/oop-9.png",
     "Images/BOOKS/Screenshot from 2024-03-04 08-40-37.png",
     "Images/BOOKS/oop-8.png",
@@ -160,7 +168,6 @@
     "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt",
     "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt.crdownload",
     "References/Youtube.md",
-    "Plan/Đọc sách.md",
     "Plan/Kế hoạch cá nhân.md",
     "Knowledge/English/Phương pháp học.md",
     "Projects/FINVIET/Common Noted.md",
@@ -173,11 +180,8 @@
     "Projects/FINVIET/Backend/index.md",
     "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
-    "Knowledge/Linux-Command.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-    "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Books/Dive Into Design Pattern/Pillars of OOP.md",
-    "Books/Dive Into Design Pattern/Catalog.md",
     "Images/BOOKS/dive-into-design-pattern.png.jpg",
     "Images/BOOKS/oop-7.png",
     "Images/BOOKS/Screenshot from 2024-02-23 10-35-54.png",
@@ -188,9 +192,6 @@
     "Knowledge/Developer/JS/ForEach.md",
     "Knowledge/Developer/JS/Promis_Async_Await.md",
     "Images/BOOKS/oop-6.png",
-    "Images/BOOKS/Screenshot from 2024-02-16 11-54-26.png",
-    "Images/BOOKS/oop-4.png",
-    "Images/BOOKS/oop-5.png",
     "Plan",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Knowledge/English",
