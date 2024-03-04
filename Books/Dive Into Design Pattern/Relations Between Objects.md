@@ -123,6 +123,6 @@ car.start(); // Output: Engine started, Car started
 - Trong ví dụ trên, class Car chứa một object của class Engine. Car được xem như là bộ chứa (container) và Engine là thành phần (component). Mối quan hệ giữa Car và Engine là mối quan hệ composition, vì Engine chỉ tồn tại như một phần của Car. Nếu Car bị xóa, Engine cũng sẽ bị xóa theo.
 
 
-
+# 
 
 
