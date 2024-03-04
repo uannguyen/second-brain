@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1a8d39e42792f1bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md",
+                "file": "Books/Dive Into Design Pattern/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md"
+                "file": "Books/Dive Into Design Pattern/Untitled.md"
               }
             }
           },
@@ -149,15 +163,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e8cd906196e3fbe6",
+  "active": "1a8d39e42792f1bf",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/Catalog.md",
+    "Books/Dive Into Design Pattern/Untitled.md",
+    "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Images/BOOKS/oop-11.png",
     "Images/BOOKS/Screenshot from 2024-03-04 14-18-09.png",
     "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Images/BOOKS/oop-10.png",
     "Images/BOOKS/Screenshot from 2024-03-04 09-51-40.png",
-    "Books/Dive Into Design Pattern/Catalog.md",
     "Knowledge/Linux-Command.md",
     "Images/BOOKS/oop-9.png",
     "Images/BOOKS/Screenshot from 2024-03-04 08-40-37.png",
@@ -186,7 +201,6 @@
     "Books/Dive Into Design Pattern/Pillars of OOP.md",
     "Images/BOOKS/dive-into-design-pattern.png.jpg",
     "Images/BOOKS/oop-7.png",
-    "Images/BOOKS/Screenshot from 2024-02-23 10-35-54.png",
     "References/index.md",
     "References/Golang.md",
     "Knowledge/Developer/Commands.md",

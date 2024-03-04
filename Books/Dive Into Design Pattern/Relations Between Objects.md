@@ -123,6 +123,14 @@ car.start(); // Output: Engine started, Car started
 - Trong ví dụ trên, class Car chứa một object của class Engine. Car được xem như là bộ chứa (container) và Engine là thành phần (component). Mối quan hệ giữa Car và Engine là mối quan hệ composition, vì Engine chỉ tồn tại như một phần của Car. Nếu Car bị xóa, Engine cũng sẽ bị xóa theo.
 
 
-# 
+# Aggregation - MQH tổng hợp
 
 
+![[oop-11.png]]
+
+
+- Là biến thể ít nghiêm ngặt hơn của Composition , trong đó 1 object chỉ chứa 1 tham chiếu đến 1 object khác
+
+- Container không kiểm soát life cycle của component
+
+- Component có thể tồn tại mà không có container, nó có thể linked với nhiều container một lúc.
