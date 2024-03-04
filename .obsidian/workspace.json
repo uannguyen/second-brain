@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8942e2580e23005e",
+        "id": "6bac7923f1fcabe8",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb25051a9acc09c",
+            "id": "e8cd906196e3fbe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/English/Videos/Video 1.md",
+                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/English/Videos/Video 1.md",
+                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/English/Videos/Video 1.md"
+                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md"
               }
             }
           },
@@ -147,10 +147,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "e8cd906196e3fbe6",
   "lastOpenFiles": [
-    "Knowledge/Markdown.md",
+    "Images/BOOKS/oop-9.png",
+    "Images/BOOKS/Screenshot from 2024-03-04 08-40-37.png",
+    "Images/BOOKS/oop-8.png",
+    "Images/BOOKS/Screenshot from 2024-03-04 08-39-05.png",
     "Knowledge/English/Videos/Video 1.md",
+    "Knowledge/Markdown.md",
     "Knowledge/English/Dách sách.md",
     "Knowledge/English/Videos",
     "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt",
@@ -183,16 +187,12 @@
     "Knowledge/Developer/Internet.md",
     "Knowledge/Developer/JS/ForEach.md",
     "Knowledge/Developer/JS/Promis_Async_Await.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Issues.md",
     "Images/BOOKS/oop-6.png",
     "Images/BOOKS/Screenshot from 2024-02-16 11-54-26.png",
     "Images/BOOKS/oop-4.png",
     "Images/BOOKS/oop-5.png",
     "Plan",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-    "Images/BOOKS/oop-3.png",
-    "Images/BOOKS/oop-1.png",
-    "Images/BOOKS/oop-2.png",
     "Knowledge/English",
     "Images/BOOKS/Unconfirmed 554298.crdownload",
     "Images/BOOKS/Unconfirmed 482971.crdownload",
