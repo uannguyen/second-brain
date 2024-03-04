@@ -83,12 +83,44 @@ userManager.addUser("Alice"); // Output: [LOG] Adding user: Alice
 ```
 
 
-# Composition - MQH hợp thành
+# Composition - MQH toàn phần
 
 
 ![[oop-10.png]]
 
-- Kiểu 
+\* University là container và Department là component
+
+- Là mqh toàn phần giữa 2 objects
+
+- Component tồn tại như một phần của container, nếu container bị delete, stop hoặc không tồn tại thì components cũng bị delete, stop.
+
+
+```ts
+class Engine {
+  start() {
+    console.log("Engine started");
+  }
+}
+
+class Car {
+  engine: Engine;
+
+  constructor() {
+    this.engine = new Engine();
+  }
+
+  start() {
+    this.engine.start();
+    console.log("Car started");
+  }
+}
+
+const car = new Car();
+car.start(); // Output: Engine started, Car started
+
+```
+
+- Trong ví dụ trên, class Car chứa một object của class Engine. Car được xem như là bộ chứa (container) và Engine là thành phần (component). Mối quan hệ giữa Car và Engine là mối quan hệ composition, vì Engine chỉ tồn tại như một phần của Car. Nếu Car bị xóa, Engine cũng sẽ bị xóa theo.
 
 
 
