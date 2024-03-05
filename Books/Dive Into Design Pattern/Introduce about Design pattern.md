@@ -45,3 +45,216 @@
 
 
 
+### **Creational Patterns:**
+- Cung cấp cơ chế tạo object để tăng tính linh hoạt và tái sử dụng code hiện có
+
+```ts
+--- Factory Pattern
+
+/*
+	Một method hoặc class được sử dụng để tạo ra các object mà không cần phải chỉ định rõ class cụ thể của object đó
+*/
+
+// Abstract Product
+interface Product {
+  operation(): string;
+}
+
+// Concrete Products
+class ConcreteProduct1 implements Product {
+  operation(): string {
+    return "ConcreteProduct1";
+  }
+}
+
+class ConcreteProduct2 implements Product {
+  operation(): string {
+    return "ConcreteProduct2";
+  }
+}
+
+// Creator
+abstract class Creator {
+  abstract factoryMethod(): Product;
+
+  someOperation(): string {
+    const product = this.factoryMethod();
+    return `Creator: The same creator's code has just worked with ${product.operation()}`;
+  }
+}
+
+// Concrete Creators
+class ConcreteCreator1 extends Creator {
+  factoryMethod(): Product {
+    return new ConcreteProduct1();
+  }
+}
+
+class ConcreteCreator2 extends Creator {
+  factoryMethod(): Product {
+    return new ConcreteProduct2();
+  }
+}
+
+// Client Code
+function clientCode(creator: Creator) {
+  console.log(creator.someOperation());
+}
+
+clientCode(new ConcreteCreator1());
+clientCode(new ConcreteCreator2());
+
+```
+
+
+### **Structural patterns:** 
+
+- Giải thích cách lắp ráp objects & class thành các cấu trúc lớn hơn, trong khi vẫn giữ cho các cấu trúc linh hoạt và hiệu quả
+
+
+```ts
+--- Composite Pattern
+/*
+ Một object có thể bao gồm một hoặc nhiều objects khác theo cùng một interface chung, tạo thành một cấu trúc cây
+*/
+
+// Component
+interface Component {
+  operation(): string;
+}
+
+// Leaf
+class Leaf implements Component {
+  operation(): string {
+      return 'Leaf';
+  }
+}
+
+// Composite
+class Composite implements Component {
+  protected children: Component[] = [];
+
+  add(component: Component): void {
+      this.children.push(component);
+  }
+
+  remove(component: Component): void {
+      const componentIndex = this.children.indexOf(component);
+      if (componentIndex !== -1) {
+          this.children.splice(componentIndex, 1);
+      }
+  }
+
+  operation(): string {
+      const results: string[] = [];
+      this.children.forEach(child => {
+          results.push(child.operation());
+      });
+      return `Branch(${results.join('+')})`;
+  }
+}
+
+// Client Code
+const leaf1 = new Leaf();
+const leaf2 = new Leaf();
+const composite = new Composite();
+const composite2 = new Composite();
+
+composite.add(leaf1);
+composite.add(leaf2);
+composite2.add(composite);
+console.log(composite2.operation());
+
+```
+
+
+
+### **Behavioral patterns:**
+
+- Chăm sóc giao tiếp hiệu quả và phân công trách nhiệm giữa các objects.
+
+
+```ts
+--- Observer Pattern
+
+/*
+	Nơi một object (được gọi là Subject) duy trì danh sách các đối tượng quan sát (Observers) và thông báo cho chúng khi trạng thái của nó thay đổi. Điều này giúp các đối tượng liên quan đến nhau có thể tương tác mà không cần biết đến sự tồn tại của nhau
+*/
+
+
+// Subject
+interface Subject {
+  attach(observer: Observer): void;
+  detach(observer: Observer): void;
+  notify(): void;
+}
+
+// Concrete Subject
+class ConcreteSubject implements Subject {
+  private observers: Observer[] = [];
+
+  attach(observer: Observer): void {
+      this.observers.push(observer);
+  }
+
+  detach(observer: Observer): void {
+      const observerIndex = this.observers.indexOf(observer);
+      if (observerIndex !== -1) {
+          this.observers.splice(observerIndex, 1);
+      }
+  }
+
+  notify(): void {
+      console.log('ConcreteSubject: Notifying observers...');
+      this.observers.forEach(observer => {
+          observer.update(this);
+      });
+  }
+
+  someBusinessLogic(): void {
+      console.log('\nConcreteSubject: I\'m doing something important.');
+      this.notify();
+  }
+}
+
+// Observer
+interface Observer {
+  update(subject: Subject): void;
+}
+
+// Concrete Observer
+class ConcreteObserverA implements Observer {
+  update(subject: Subject): void {
+      if (subject instanceof ConcreteSubject) {
+          console.log('ConcreteObserverA: Reacted to the event.');
+      }
+  }
+}
+
+class ConcreteObserverB implements Observer {
+  update(subject: Subject): void {
+      if (subject instanceof ConcreteSubject) {
+          console.log('ConcreteObserverB: Reacted to the event.');
+      }
+  }
+}
+
+// Client Code
+const subject = new ConcreteSubject();
+const observerA = new ConcreteObserverA();
+const observerB = new ConcreteObserverB();
+
+subject.attach(observerA);
+subject.attach(observerB);
+
+subject.someBusinessLogic();
+subject.detach(observerB);
+
+subject.someBusinessLogic();
+
+```
+
+
+# Why Should I Learn Patterns?
+
+- Các mẫu thiết kế là một bộ công cụ gồm các giải pháp đã được thử nghiệm và thử nghiệm cho các vấn đề phổ biến trong thiết kế phần mềm
