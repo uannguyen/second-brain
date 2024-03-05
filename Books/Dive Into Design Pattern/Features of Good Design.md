@@ -1,5 +1,5 @@
 
-# Code reuse
+# Code reuse - Tái sử dụng mã
 
 - Chi phí và thời gian là hai trong số các số liệu có giá trị nhất khi phát triển bất kỳ sản phẩm phần mềm nào.
 - Ít time để dev hơn => đẩy SP ra thị trường sớm hơn so với đối thủ cạnh tranh
@@ -11,8 +11,52 @@
 
 - Tuy nhiên, đôi khi apply design pattern sẽ làm cho các thành phần trở nên phức tạp hơn.
 
-# 3 level Reuse code
+### 3 level Reuse code
+
+- **Cấp độ thấp nhất**: Tái sử dụng lớp: thư viện lớp, bộ chứa, có thể là một số "nhóm" lớp như bộ chứa / trình lặp.
+
+- **Cấp độ cao nhất**: Framework.
+	- rút ngắn các quyết định thiết kế
+	- Xác định các khái niệm trừu tượng chính để giải quyết vấn đề, đại diện cho chúng bằng các classes và xác định các mối quan hệ giữa chúng
+
+```ts
+// Cấp độ thấp nhất: Tái sử dụng lớp
+// Ta có một lớp đơn giản thể hiện một hình dạng hình vuông
+class Square {
+  constructor(sideLength) {
+      this.sideLength = sideLength;
+  }
+
+  calculateArea() {
+      return this.sideLength * this.sideLength;
+  }
+}
+
+// Cấp độ cao nhất: Framework
+// Ta tạo ra một framework đơn giản để thực hiện các phép kiểm tra đơn vị với Jest
+const { test, expect } = require('@jest/globals');
+
+test('Calculate square area', () => {
+  // Tạo một hình vuông có cạnh là 5
+  const square = new Square(5);
+  // Kiểm tra xem phương thức tính diện tích của hình vuông hoạt động đúng không
+  expect(square.calculateArea()).toBe(25);
+});
+
+```
+
+- **Cấp độ middle**:
+	- Chính là design patterns, nó nhỏ hơn và trừu tượng hơn Framework
+	- Reuse ít rủi ro hơn frameworks
+	- Patterns cho phép reuse các design ideas & các khái niệm độc lập với code cụ thể
 
 
+# Extensibility - Khả năng mở rộng
+
+
+Giả sử:
+- Thường là khi hoàn thành first version của app, lúc đó chúng ta có cái nhìn tổng quan hơn về code, hiểu được nhiều khía cạnh hơn nên quay lại nhìn code cũ thì thấy tào lao vl.
+- Thay đổi ngoài tầm kiểm soát, thay đổi ý tưởng, ...
+- Muốn upgrade app lên 1 tầm cao mới mặc dù vesion hiện tại cũng ổn
 
 

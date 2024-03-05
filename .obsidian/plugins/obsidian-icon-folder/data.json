@@ -6,6 +6,8 @@
     "emojiStyle": "none",
     "iconColor": "#efebeb",
     "recentlyUsedIcons": [
+      "RoRoadSvgrepoCom(1)",
+      "YoYoutubeColorSvgrepoCom",
       "PrPlanListSvgrepoCom",
       "CaCatalogueCatalogSvgrepoCom",
       "NoNoteSvgrepoCom",
@@ -13,14 +15,10 @@
       "PaPaperTextTextsSvgrepoCom",
       "PlPlanSvgrepoCom",
       "CoTerminalSvgrepoCom",
-      "InInternet-svgrepo-com",
-      "NeInternet",
       "EnEnglishSvgrepoCom",
       "BoBookSvgrepoCom",
       "BoBookBookmarkSvgrepoCom",
-      "ReInformationBookLearningSvgrepoCom",
-      "InInternetSvgrepoCom",
-      "PrPrincipleColorSvgrepoCom"
+      "ReInformationBookLearningSvgrepoCom"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [
@@ -107,5 +105,7 @@
   "Books/Dive Into Design Pattern/Relations Between Objects.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/Catalog.md": "CaCatalogueCatalogSvgrepoCom",
   "Books/Dive Into Design Pattern/Introduce about Design pattern.md": "PaPaperTextTextsSvgrepoCom(1)",
-  "Books/Dive Into Design Pattern/Features of Good Design.md": "PaPaperTextTextsSvgrepoCom(1)"
+  "Books/Dive Into Design Pattern/Features of Good Design.md": "PaPaperTextTextsSvgrepoCom(1)",
+  "Knowledge/English/Videos": "YoYoutubeColorSvgrepoCom",
+  "Knowledge/English/Videos/Video 1.md": "YoYoutubeColorSvgrepoCom"
 }
