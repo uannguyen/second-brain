@@ -257,4 +257,6 @@ subject.someBusinessLogic();
 
 # Why Should I Learn Patterns?
 
-- Các mẫu thiết kế là một bộ công cụ gồm các giải pháp đã được thử nghiệm và thử nghiệm cho các vấn đề phổ biến trong thiết kế phần mềm
+- **Design patterns**: là một bộ công cụ gồm các giải pháp đã được thử nghiệm và kiểm tra cho các vấn đề phổ biến trong sofware design
+- Giúp giải quyết tất cả các vấn đề bằng cách sử dụng principles của object-oriented design.
+- Các mẫu thiết kế xác định một ngôn ngữ chung mà bạn và đồng đội của bạn có thể sử dụng để giao tiếp hiệu quả hơn. Bạn có thể nói, "Ồ, chỉ cần sử dụng Singleton cho điều đó", và mọi người sẽ hiểu ý tưởng đằng sau đề xuất của bạn. Không cần phải giải thích singleton là gì nếu bạn biết mẫu và tên của nó

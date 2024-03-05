@@ -7,6 +7,8 @@
 
 ## 1. S (Single Responsibility Principle)
 
+> ***Nguyên tắc trách nhiệm duy nhất***
+
 - Mỗi class hoặc module nên chỉ có một trách nhiệm duy nhất. Điều này giúp dễ bảo trì và hiểu mã nguồn.
 
 ```js
@@ -39,6 +41,8 @@ ResultDisplayer.display(sum);
 
 ### 2. O (Open/Closed Principle)
 
+>***Nguyên tắc Mở/Đóng***
+
 - Một class nên được thiết kế để có thể mở rộng mà không làm thay đổi mã nguồn hiện tại.
 
 ```js
@@ -62,7 +66,7 @@ class Circle {
   }
 }
 
-// Tốt: Sử dụng OCP, mở rộng thông qua kế thừa và sử dụng interface
+// Tốt: Sử dụng OC-P, mở rộng thông qua kế thừa và sử dụng interface
 interface Shape {
   area(): number;
 }
@@ -94,7 +98,9 @@ class Circle implements Shape {
 }
 
 ```
-## 3. (Liskov Substitution Principle)
+## 3. L (Liskov Substitution Principle)
+
+>***Nguyên tắc thay thế Liskov***
 
 - Trong một chương trình, các object của class con có thể thay thế class cha mà không làm thay đổi tính đúng đắn của chương trình.
 
@@ -132,6 +138,8 @@ class Penguin implements Flyable {
 ```
 
 ## 4. I (Interface Segregation Principle)
+
+>***Nguyên tắc phân tách Interface***
 
 - Thay vì dùng 1 interface lớn, ta nên tách thành nhiều interface nhỏ, với nhiều mục đích cụ thể.
 
@@ -174,6 +182,8 @@ class OfficeWorker implements Workable, Eatable {
 ```
 
 ## 5. D (Dependency Inversion Principle)
+
+>***Nguyên tắc đảo ngược phụ thuộc***
 
 - Các module cấp cao không nên phụ thuộc trực tiếp vào các module cấp thấp.
 - Cả hai nên phụ thuộc vào các abstraction. Abstraction không nên phụ thuộc vào chi tiết; chi tiết nên phụ thuộc vào abstraction.

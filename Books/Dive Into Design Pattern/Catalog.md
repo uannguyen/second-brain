@@ -32,6 +32,7 @@
 
 ## Đặc điểm của thiết kế tốt (Features of Good Design)
 
+
 ## 1. - Các nguyên tắc thiết kế (Design Principles)
 
 ### 1.1 - Đóng gói những gì khác nhau (Encapsulate What Varies)

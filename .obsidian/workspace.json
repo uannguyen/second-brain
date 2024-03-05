@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a8d39e42792f1bf",
+            "id": "4d46462ee16da18f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Introduce about Design pattern.md",
+                "file": "Books/Dive Into Design Pattern/Features of Good Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "8ffc1f38f4290603",
+            "id": "a84a85c64cb4741b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Catalog.md",
+                "file": "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "d983e2dff6e81f87",
+            "id": "d0c5ab568b99fb31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Markdown.md",
+                "file": "Books/Dive Into Design Pattern/Catalog.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Introduce about Design pattern.md",
+                "file": "Books/Dive Into Design Pattern/Features of Good Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Introduce about Design pattern.md"
+                "file": "Books/Dive Into Design Pattern/Features of Good Design.md"
               }
             }
           },
@@ -176,11 +176,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1a8d39e42792f1bf",
+  "active": "4d46462ee16da18f",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/Catalog.md",
+    "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
+    "Books/Dive Into Design Pattern/Features of Good Design.md",
     "Knowledge/Markdown.md",
     "Books/Dive Into Design Pattern/Introduce about Design pattern.md",
-    "Books/Dive Into Design Pattern/Catalog.md",
     "Knowledge/English/Videos/Video 1.md",
     "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Images/BOOKS/oop-11.png",
@@ -218,8 +220,6 @@
     "References/Golang.md",
     "Knowledge/Developer/Commands.md",
     "Knowledge/Developer/Internet.md",
-    "Knowledge/Developer/JS/ForEach.md",
-    "Knowledge/Developer/JS/Promis_Async_Await.md",
     "Plan",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Knowledge/English",
