@@ -33,3 +33,15 @@
 
 # Phân loại patterns
 
+\* Design pattern khác nhau bởi sự phức tạp, mức độ chi tiết và quy mô của ứng dụng được thiết kế
+
+\* Patterns cơ bản và cấp thấp nhất thường được gọi là idioms
+\* Idioms thường apply only single programing language
+
+\* Patterns phổ quát nhất và cấp cao là architectural patterns.
+\* Architectural patterns có thể implement cho hầu hết mọi programing language
+> - Ví dụ, một mẫu kiến trúc phổ biến là MVC (Model-View-Controller), nó quy định cách dữ liệu (Model), giao diện người dùng (View) và logic điều khiển (Controller) tương tác với nhau trong một ứng dụng web.
+> - Một ví dụ khác là mẫu kiến trúc Microservices, nó mô tả cách một ứng dụng được phân chia thành các dịch vụ độc lập nhau, mỗi dịch vụ chỉ chịu trách nhiệm cho một phần nhỏ cụ thể của chức năng tổng thể của ứng dụng. Điều này giúp tăng tính mở rộng, hiệu suất và quản lý của hệ thống
+
+
+
