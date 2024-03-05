@@ -4,7 +4,7 @@
 <https://www.youtube.com/watch?v=1GAKu1Uf_BQ>
 
 
-## Sub
+## Subtitles
 
 ```ts
 // Chào, tôi là Laura

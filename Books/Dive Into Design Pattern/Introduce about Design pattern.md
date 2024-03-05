@@ -30,3 +30,6 @@
 
 - **Code Example**(**Ví dụ mã**): Cho ví dụ cụ thể của 1 program language để dễ hiểu và hình dung
 
+
+# Phân loại patterns
+
