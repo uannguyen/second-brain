@@ -34,19 +34,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f2b75cc49e4303b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Markdown.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -99,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 428.5,
+    "collapsed": true
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -163,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +165,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "85c279d4a91bc3ec",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
     "Knowledge/Markdown.md",
     "Books/Dive Into Design Pattern/Introduce about Design pattern.md",
