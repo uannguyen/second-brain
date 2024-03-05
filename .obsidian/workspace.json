@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markd",
+                "query": "tag:#github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +151,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "b79a319d5e640948",
   "lastOpenFiles": [
     "Knowledge/Developer/Git/Introduction.md",
     "Knowledge/Developer/Git/Basic Commands.md",
