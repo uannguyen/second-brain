@@ -6,4 +6,12 @@
 - Sau khi đặt tên thành công => token
 - Vào group vừa tạo và nhấn `Start` để bắt đầu
 - Truy cập vào link sau, thay token vào:
-	- https://api.telegram.org/bot<TOKEN>/getUpdates
+
+	 `https://api.telegram.org/bot<TOKEN>/getUpdates`
+
+---
+# Lấy lại chatid 
+
+- Xóa group hiện tại
+- Vào group `BotFather` truy cập lại vào group và `Start`
+- 

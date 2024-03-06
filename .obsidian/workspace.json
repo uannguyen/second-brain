@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#github",
+                "query": "tele",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
+                "file": "Books/Dive Into Design Pattern/Catalog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md"
+                "file": "Books/Dive Into Design Pattern/Catalog.md"
               }
             }
           },
@@ -179,15 +180,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f4765cd945d6fc24",
+  "active": "6a1e29eea6a0704b",
   "lastOpenFiles": [
+    "Knowledge/Telegram Tips.md",
+    "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
     "Images/BOOKS/oop-13.png",
     "Images/BOOKS/oop-12.png",
     "Images/BOOKS/Screenshot from 2024-03-06 09-30-39.png",
     "Images/BOOKS/Screenshot from 2024-03-06 09-30-46.png",
     "Books/Dive Into Design Pattern/Catalog.md",
     "Đang làm dở dang.md",
-    "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
     "Books/Dive Into Design Pattern/Design Principles",
     "Plan/Đọc sách.md",
     "Knowledge/Developer/Git/Basic Commands.md",
@@ -211,7 +213,6 @@
     "Knowledge/Linux-Command.md",
     "Images/BOOKS/oop-9.png",
     "Images/BOOKS/Screenshot from 2024-03-04 08-40-37.png",
-    "Images/BOOKS/oop-8.png",
     "Knowledge/English/Dách sách.md",
     "Knowledge/English/Videos",
     "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt",
