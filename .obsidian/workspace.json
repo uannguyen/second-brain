@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Developer/Git/Basic Commands.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/Git/Basic Commands.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/Git/Basic Commands.md"
+                "file": "Knowledge/English/Videos/Video 1.md"
               }
             }
           },
@@ -182,6 +181,7 @@
   },
   "active": "6a1e29eea6a0704b",
   "lastOpenFiles": [
+    "Knowledge/Developer/Git/Basic Commands.md",
     "Books/Dive Into Design Pattern/Catalog.md",
     "Knowledge/Telegram Tips.md",
     "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
@@ -192,7 +192,6 @@
     "Đang làm dở dang.md",
     "Books/Dive Into Design Pattern/Design Principles",
     "Plan/Đọc sách.md",
-    "Knowledge/Developer/Git/Basic Commands.md",
     "Knowledge/English/Videos/Video 1.md",
     "Books/Dive Into Design Pattern/Features of Good Design.md",
     "Knowledge/Developer/Git/Introduction.md",
