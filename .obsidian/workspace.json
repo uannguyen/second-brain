@@ -29,12 +29,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles.md",
+                "file": "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "6a1e29eea6a0704b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/Catalog.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles.md",
+                "file": "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles.md"
+                "file": "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md"
               }
             }
           },
@@ -168,11 +181,17 @@
   },
   "active": "f4765cd945d6fc24",
   "lastOpenFiles": [
+    "Images/BOOKS/oop-13.png",
+    "Images/BOOKS/oop-12.png",
+    "Images/BOOKS/Screenshot from 2024-03-06 09-30-39.png",
+    "Images/BOOKS/Screenshot from 2024-03-06 09-30-46.png",
+    "Books/Dive Into Design Pattern/Catalog.md",
+    "Đang làm dở dang.md",
+    "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
+    "Books/Dive Into Design Pattern/Design Principles",
     "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/Design Principles.md",
     "Knowledge/Developer/Git/Basic Commands.md",
     "Knowledge/English/Videos/Video 1.md",
-    "Books/Dive Into Design Pattern/Catalog.md",
     "Books/Dive Into Design Pattern/Features of Good Design.md",
     "Knowledge/Developer/Git/Introduction.md",
     "Knowledge/Markdown.md",
@@ -193,7 +212,6 @@
     "Images/BOOKS/oop-9.png",
     "Images/BOOKS/Screenshot from 2024-03-04 08-40-37.png",
     "Images/BOOKS/oop-8.png",
-    "Images/BOOKS/Screenshot from 2024-03-04 08-39-05.png",
     "Knowledge/English/Dách sách.md",
     "Knowledge/English/Videos",
     "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt",
@@ -201,21 +219,16 @@
     "Plan/Kế hoạch cá nhân.md",
     "Knowledge/English/Phương pháp học.md",
     "Projects/FINVIET/Common Noted.md",
-    "Đang làm dở dang.md",
     "Knowledge/github-recovery-codes.txt",
     "Knowledge/github-recovery-codes.txt.crdownload",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Eco Consumer/Auto Payment.md",
     "Projects/FINVIET/Backend/noti.md",
     "Projects/FINVIET/Backend/index.md",
-    "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
-    "Images/BOOKS/dive-into-design-pattern.png.jpg",
-    "Images/BOOKS/oop-7.png",
     "Plan",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Knowledge/English",
-    "Images/BOOKS/Unconfirmed 554298.crdownload",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

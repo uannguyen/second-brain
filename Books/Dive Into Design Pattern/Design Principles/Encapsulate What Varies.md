@@ -1,5 +1,4 @@
-
-# Encapsulate What Varies(Đóng gói những gì khác nhau) 
+***Đóng gói những gì khác nhau***
 
 
 ***Xác định các khía cạnh của app mà có thể thay đổi & tách biệt chúng ra khỏi các phần giữ nguyên***
@@ -16,6 +15,13 @@
 
 
 # Encapsulation on a method level
+
+### Context
+
+- 1 web ecommerce
+- có 1 method `getOrderTotal` tính tổng tiền, bao gồm thuế
+- code về tax có thể thay đổi trong tương lai => tax tùy theo country, state, event city
+=> `getOrderTotal` method sẽ be changes khá thường xuyên nên tách ra method mới, giả sử tương lai method `getTaxRate` quá phức tạp thì cũng có thể dễ dàng tách ra thành 1 class dễ dàng
 
 
 ***Before...***
@@ -40,7 +46,6 @@ function getOrderTotal(order) {
 
 ***After...***
 ```ts
-
 function getOrderTotal(order) {
   let total = 0;
 
@@ -61,5 +66,16 @@ function getTaxRate(country) {
     return 0;
   }
 }
-
 ```
+
+
+# Encapsulation on a class level
+
+- Thay vì để tất cả những gì liên quan đến thuế trong class Order, ta có thể tách thêm 1 class Tax. 
+
+***Before...***
+![[oop-12.png]]
+
+
+***After...***
+![[oop-13.png]]

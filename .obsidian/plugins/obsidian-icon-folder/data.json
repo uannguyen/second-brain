@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#efebeb",
     "recentlyUsedIcons": [
+      "FoFolderSvgrepoCom",
       "PaPaperTextTextsSvgrepoCom(1)",
       "CoTerminalSvgrepoCom",
       "GiGitSvgrepoCom",
@@ -89,7 +90,7 @@
   "Knowledge/Developer/Fundamentals/Principles/DRY Principle.md": "PrPrincipleColorSvgrepoCom",
   "Knowledge/Developer/Fundamentals/Principles/KISS Principle.md": "PrPrincipleColorSvgrepoCom",
   "Books": "BoBookBookmarkSvgrepoCom",
-  "Books/Dive Into Design Pattern": "BoBookSvgrepoCom",
+  "Books/Dive Into Design Pattern": "FoFolderSvgrepoCom",
   "Knowledge/English": "EnEnglishSvgrepoCom",
   "Plan": "PlPlanSvgrepoCom",
   "Books/Dive Into Design Pattern/Basic of OOP.md": "PaPaperTextTextsSvgrepoCom(1)",
@@ -102,5 +103,11 @@
   "Knowledge/English/Videos/Video 1.md": "YoYoutubeColorSvgrepoCom",
   "Knowledge/Developer/Git": "GiGitSvgrepoCom",
   "Knowledge/Developer/Git/Basic Commands.md": "CoTerminalSvgrepoCom",
-  "Books/Dive Into Design Pattern/Design Principles.md": "PaPaperTextTextsSvgrepoCom(1)"
+  "Books/Dive Into Design Pattern/Design Principles": "FoFolderSvgrepoCom",
+  "Images/BOOKS": "FoFolderSvgrepoCom",
+  "Images/KNOWLEDGE": "FoFolderSvgrepoCom",
+  "Images/PROJECT": "FoFolderSvgrepoCom",
+  "Projects": "FoFolderSvgrepoCom",
+  "References": "FoFolderSvgrepoCom",
+  "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md": "PaPaperTextTextsSvgrepoCom(1)"
 }

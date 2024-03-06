@@ -20,12 +20,10 @@
 
 # GIỚI THIỆU VỀ DESIGN PATTERNS
 
-[[Introduce about Design pattern]]
-
 ## 1. Design pattern là gì ?
-
 ## 2. Tại sao tôi nên học ?
 
+[[Introduce about Design pattern]]
 
 # NGUYÊN TẮC THIẾT KẾ PHẦN MỀM (SOFTWARE DESIGN PRINCIPLES)
 
