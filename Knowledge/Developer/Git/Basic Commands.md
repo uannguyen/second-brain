@@ -121,11 +121,23 @@ git merge $branch_name
 > - Thường dùng khi `pull` hoặc `checkout branch` mà không được, hoặc khi chưa muốn commit
 
 ```ts
+// list stash
+git stash list
+
 // lưu 
 git stash
 
-// apply
+// apply stash gần nhất
 git stash apply
+
+// apply stash cụ thể
+git stash apply stash@{$stash_id}
+
+// delete stash
+git stash drop stash@{$stash_id}
+
+// delete all stash
+git stash clear
 ```
 
 

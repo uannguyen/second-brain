@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Catalog.md",
+                "file": "Knowledge/Developer/Git/Basic Commands.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tele",
+                "query": "github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Catalog.md",
+                "file": "Knowledge/Developer/Git/Basic Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Catalog.md"
+                "file": "Knowledge/Developer/Git/Basic Commands.md"
               }
             }
           },
@@ -182,13 +182,13 @@
   },
   "active": "6a1e29eea6a0704b",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/Catalog.md",
     "Knowledge/Telegram Tips.md",
     "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
     "Images/BOOKS/oop-13.png",
     "Images/BOOKS/oop-12.png",
     "Images/BOOKS/Screenshot from 2024-03-06 09-30-39.png",
     "Images/BOOKS/Screenshot from 2024-03-06 09-30-46.png",
-    "Books/Dive Into Design Pattern/Catalog.md",
     "Đang làm dở dang.md",
     "Books/Dive Into Design Pattern/Design Principles",
     "Plan/Đọc sách.md",
