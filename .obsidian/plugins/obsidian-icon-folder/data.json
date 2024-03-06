@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#efebeb",
     "recentlyUsedIcons": [
+      "PaPaperTextTextsSvgrepoCom(1)",
       "CoTerminalSvgrepoCom",
       "GiGitSvgrepoCom",
       "ArArraySvgrepoCom",
@@ -100,5 +101,6 @@
   "Knowledge/English/Videos": "YoYoutubeColorSvgrepoCom",
   "Knowledge/English/Videos/Video 1.md": "YoYoutubeColorSvgrepoCom",
   "Knowledge/Developer/Git": "GiGitSvgrepoCom",
-  "Knowledge/Developer/Git/Basic Commands.md": "CoTerminalSvgrepoCom"
+  "Knowledge/Developer/Git/Basic Commands.md": "CoTerminalSvgrepoCom",
+  "Books/Dive Into Design Pattern/Design Principles.md": "PaPaperTextTextsSvgrepoCom(1)"
 }

@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ce739f2648f0ef9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Developer/Git/Basic Commands.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "31238bbe10df5aad",
             "type": "leaf",
             "pinned": true,
@@ -38,20 +23,22 @@
             }
           },
           {
-            "id": "290590faccbb47a5",
+            "id": "f4765cd945d6fc24",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/English/Videos/Video 1.md",
+                "file": "Books/Dive Into Design Pattern/Design Principles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -129,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/English/Videos/Video 1.md",
+                "file": "Books/Dive Into Design Pattern/Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/English/Videos/Video 1.md"
+                "file": "Books/Dive Into Design Pattern/Design Principles.md"
               }
             }
           },
@@ -180,13 +166,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "f4765cd945d6fc24",
   "lastOpenFiles": [
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/Design Principles.md",
+    "Knowledge/Developer/Git/Basic Commands.md",
+    "Knowledge/English/Videos/Video 1.md",
     "Books/Dive Into Design Pattern/Catalog.md",
     "Books/Dive Into Design Pattern/Features of Good Design.md",
-    "Knowledge/Developer/Git/Basic Commands.md",
     "Knowledge/Developer/Git/Introduction.md",
     "Knowledge/Markdown.md",
     "Knowledge/Developer/Git",
@@ -197,7 +184,6 @@
     "Knowledge/Developer/internet 2.md",
     "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Books/Dive Into Design Pattern/Introduce about Design pattern.md",
-    "Knowledge/English/Videos/Video 1.md",
     "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Images/BOOKS/oop-11.png",
     "Images/BOOKS/Screenshot from 2024-03-04 14-18-09.png",
