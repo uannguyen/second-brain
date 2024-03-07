@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md"
+                "file": "Knowledge/English/Videos/Video 1.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "4277d530ef41965a",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
     "Books/Dive Into Design Pattern/Relations Between Objects.md",
+    "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
     "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
     "Plan/Đọc sách.md",
     "Đang làm dở dang.md",
