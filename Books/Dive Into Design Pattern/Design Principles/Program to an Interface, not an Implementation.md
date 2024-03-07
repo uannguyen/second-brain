@@ -1,7 +1,11 @@
 
-***Lập trình cho một interface, không phải implementation***
+***Khi viết code, nên tập trung vào sử dụng interface thay vì sử dụng implementation***
 
-=> Lập trình cho một interface, không phải là một implementation. Phụ thuộc vào abstractions, không phụ thuộc vào concrete classes(là class bình thường được sử dụng để tạo ra các instance)
+- Trong OOP, một interface định nghĩa các methods mà một object cần cung cấp, mà không cung cấp implementation cụ thể của chúng. Bằng cách này, khi viết code, chỉ quan tâm đến các methods được định nghĩa trong interface, mà không cần biết cụ thể đối tượng implement interface đó làm thế nào để hoàn thành công việc.
+
+- Nguyên tắc này giúp tạo ra code flexible và dễ dàng maintain, vì nó giảm bớt sự phụ thuộc vào các implementation cụ thể. Thay vào đó, nó thúc đẩy việc sử dụng các khái niệm abstractions và interface, làm cho code dễ dàng reuse và replace.
+
+
 
 
 
