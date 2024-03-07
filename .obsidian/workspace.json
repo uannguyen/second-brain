@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "f4765cd945d6fc24",
+            "id": "432ff1251b352f15",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
+                "file": "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
+                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
+                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md"
+                "file": "Books/Dive Into Design Pattern/Relations Between Objects.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "4277d530ef41965a",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
     "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
+    "Books/Dive Into Design Pattern/Relations Between Objects.md",
+    "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
+    "Plan/Đọc sách.md",
     "Đang làm dở dang.md",
     "Knowledge/English/Videos/Video 1.md",
     "Knowledge/Developer/Git/Basic Commands.md",
@@ -193,7 +195,6 @@
     "Images/BOOKS/Screenshot from 2024-03-06 09-30-39.png",
     "Images/BOOKS/Screenshot from 2024-03-06 09-30-46.png",
     "Books/Dive Into Design Pattern/Design Principles",
-    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/Features of Good Design.md",
     "Knowledge/Developer/Git/Introduction.md",
     "Knowledge/Markdown.md",
@@ -205,7 +206,6 @@
     "Knowledge/Developer/internet 2.md",
     "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Books/Dive Into Design Pattern/Introduce about Design pattern.md",
-    "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Images/BOOKS/oop-11.png",
     "Images/BOOKS/Screenshot from 2024-03-04 14-18-09.png",
     "Images/BOOKS/oop-10.png",
