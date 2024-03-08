@@ -40,14 +40,16 @@
           {
             "id": "4277d530ef41965a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/English/Videos/Video 1.md",
+                "file": "Đang làm dở dang.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/English/Videos/Video 1.md",
+                "file": "Đang làm dở dang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/English/Videos/Video 1.md"
+                "file": "Đang làm dở dang.md"
               }
             }
           },
@@ -181,12 +183,12 @@
   },
   "active": "4277d530ef41965a",
   "lastOpenFiles": [
+    "Knowledge/English/Videos/Video 1.md",
     "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
     "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
     "Plan/Đọc sách.md",
     "Đang làm dở dang.md",
-    "Knowledge/English/Videos/Video 1.md",
     "Knowledge/Developer/Git/Basic Commands.md",
     "Books/Dive Into Design Pattern/Catalog.md",
     "Knowledge/Telegram Tips.md",
