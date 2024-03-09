@@ -98,7 +98,10 @@ cat.eat(sausage);
 	
 
 - Sau khi thay đổi, class Company trở nên độc lập với các classes employees khác nhau
-- 
+
+
+
+
 	
 	
 

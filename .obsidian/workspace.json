@@ -51,9 +51,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d8d061b4188e6164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/Design Principles/Favor Composition Over Inheritance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 339.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
+                "file": "Books/Dive Into Design Pattern/Design Principles/Favor Composition Over Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md"
+                "file": "Books/Dive Into Design Pattern/Design Principles/Favor Composition Over Inheritance.md"
               }
             }
           },
@@ -181,8 +194,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "432ff1251b352f15",
+  "active": "d8d061b4188e6164",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
+    "Books/Dive Into Design Pattern/Design Principles/Favor Composition Over Inheritance.md",
     "Images/BOOKS/oop-17.png",
     "Images/BOOKS/Screenshot from 2024-03-09 20-54-30.png",
     "Images/BOOKS/oop-16.png",
@@ -194,7 +209,6 @@
     "Images/BOOKS/oop-13.png",
     "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
     "Đang làm dở dang.md",
     "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
     "Knowledge/English/Videos/Video 1.md",
@@ -202,7 +216,6 @@
     "Books/Dive Into Design Pattern/Catalog.md",
     "Knowledge/Telegram Tips.md",
     "Images/BOOKS/oop-12.png",
-    "Images/BOOKS/Screenshot from 2024-03-06 09-30-39.png",
     "Books/Dive Into Design Pattern/Design Principles",
     "Books/Dive Into Design Pattern/Features of Good Design.md",
     "Knowledge/Developer/Git/Introduction.md",
