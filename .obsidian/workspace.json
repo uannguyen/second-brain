@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "432ff1251b352f15",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "4277d530ef41965a",
             "type": "leaf",
             "pinned": true,
@@ -53,8 +38,9 @@
             }
           },
           {
-            "id": "bdd007e767c03dc5",
+            "id": "432ff1251b352f15",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -62,11 +48,12 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,21 +181,28 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "432ff1251b352f15",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
-    "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
-    "Đang làm dở dang.md",
-    "Knowledge/English/Videos/Video 1.md",
+    "Images/BOOKS/oop-17.png",
+    "Images/BOOKS/Screenshot from 2024-03-09 20-54-30.png",
+    "Images/BOOKS/oop-16.png",
+    "Images/BOOKS/Screenshot from 2024-03-09 20-46-49.png",
+    "Images/BOOKS/oop-15.png",
+    "Images/BOOKS/Screenshot from 2024-03-09 20-37-17.png",
+    "Images/BOOKS/oop-14.png",
+    "Images/BOOKS/Screenshot from 2024-03-07 16-38-39.png",
+    "Images/BOOKS/oop-13.png",
     "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
+    "Đang làm dở dang.md",
+    "Books/Dive Into Design Pattern/Design Principles/Encapsulate What Varies.md",
+    "Knowledge/English/Videos/Video 1.md",
     "Knowledge/Developer/Git/Basic Commands.md",
     "Books/Dive Into Design Pattern/Catalog.md",
     "Knowledge/Telegram Tips.md",
-    "Images/BOOKS/oop-13.png",
     "Images/BOOKS/oop-12.png",
     "Images/BOOKS/Screenshot from 2024-03-06 09-30-39.png",
-    "Images/BOOKS/Screenshot from 2024-03-06 09-30-46.png",
     "Books/Dive Into Design Pattern/Design Principles",
     "Books/Dive Into Design Pattern/Features of Good Design.md",
     "Knowledge/Developer/Git/Introduction.md",
@@ -221,13 +215,7 @@
     "Knowledge/Developer/internet 2.md",
     "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Books/Dive Into Design Pattern/Introduce about Design pattern.md",
-    "Images/BOOKS/oop-11.png",
-    "Images/BOOKS/Screenshot from 2024-03-04 14-18-09.png",
-    "Images/BOOKS/oop-10.png",
-    "Images/BOOKS/Screenshot from 2024-03-04 09-51-40.png",
     "Knowledge/Linux-Command.md",
-    "Images/BOOKS/oop-9.png",
-    "Images/BOOKS/Screenshot from 2024-03-04 08-40-37.png",
     "Knowledge/English/Dách sách.md",
     "Knowledge/English/Videos",
     "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt",
@@ -239,7 +227,6 @@
     "Knowledge/github-recovery-codes.txt.crdownload",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Eco Consumer/Auto Payment.md",
-    "Projects/FINVIET/Backend/noti.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Plan",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
