@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Favor Composition Over Inheritance.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Favor Composition Over Inheritance.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/Favor Composition Over Inheritance.md"
+                "file": "Knowledge/English/Videos/Video 1.md"
               }
             }
           },
@@ -196,8 +196,8 @@
   },
   "active": "d8d061b4188e6164",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
     "Books/Dive Into Design Pattern/Design Principles/Favor Composition Over Inheritance.md",
+    "Books/Dive Into Design Pattern/Design Principles/Program to an Interface, not an Implementation.md",
     "Images/BOOKS/oop-17.png",
     "Images/BOOKS/Screenshot from 2024-03-09 20-54-30.png",
     "Images/BOOKS/oop-16.png",
