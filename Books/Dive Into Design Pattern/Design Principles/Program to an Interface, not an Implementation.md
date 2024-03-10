@@ -100,6 +100,138 @@ cat.eat(sausage);
 - Sau khi thay đổi, class Company trở nên độc lập với các classes employees khác nhau
 
 
+```ts
+// ======================= phase 1
+// class Company {
+//   createSoftware() {}
+// }
+
+// class Designer {
+//   designArchitecture() {}
+// }
+
+// class Programmer {
+//   writeCode() {}
+// }
+
+// class Tester {
+//   testSoftware() {}
+// }
+
+// // use
+// const d = new Designer();
+// d.designArchitecture();
+
+// const p = new Programmer();
+// p.writeCode();
+
+// const t = new Tester();
+// t.testSoftware();
+
+// ====================== phase 2
+
+// interface Employee {
+//   doWork: () => void;
+// }
+
+// class Company {
+//   createSoftware() {}
+// }
+
+// class Designer implements Employee {
+//   doWork() {
+//     return this.designArchitecture();
+//   }
+//   designArchitecture() {
+//     return 'Design architecture';
+//   }
+// }
+
+// class Programmer implements Employee {
+//   doWork() {
+//     return this.writeCode();
+//   }
+//   writeCode() {
+//     return 'Write code';
+//   }
+// }
+
+// class Tester implements Employee {
+//   doWork() {
+//     return this.testSoftware();
+//   }
+//   testSoftware() {
+//     return 'Test software';
+//   }
+// }
+
+// // use
+// const employees = [new Designer(), new Programmer(), new Tester()];
+
+// employees.forEach((employee) => {
+//   const result = employee.doWork();
+//   console.log(result);
+// });
+
+// ========================= phase 3
+
+interface Employee {
+  doWork: () => void;
+}
+
+abstract class Company {
+  abstract getEmloyees(): Employee[];
+}
+
+class Designer implements Employee {
+  doWork() {
+    return this.designArchitecture();
+  }
+  designArchitecture() {
+    return 'Design architecture';
+  }
+}
+
+class Programmer implements Employee {
+  doWork() {
+    return this.writeCode();
+  }
+  writeCode() {
+    return 'Write code';
+  }
+}
+
+class Tester implements Employee {
+  doWork() {
+    return this.testSoftware();
+  }
+  testSoftware() {
+    return 'Test software';
+  }
+}
+
+class GameDevCompany implements Company {
+  getEmloyees(): Employee[] {
+    return [new Tester(), new Programmer()];
+  }
+}
+
+class OutsourcingCompany implements Company {
+  getEmloyees(): Employee[] {
+    return [new Tester(), new Programmer(), new Designer()];
+  }
+}
+
+// use
+const devCompany = new GameDevCompany();
+const employees = devCompany.getEmloyees();
+
+employees.forEach((employee) => {
+  const result = employee.doWork();
+  console.log(result);
+});
+
+```
 
 
 	
