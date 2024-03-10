@@ -7,7 +7,7 @@
 
 ---
 
-- Có thể nói rằng thiết kế linh hoạt đủ nếu có thể dễ dàng mở rộng mà không phá vỡ code hiện có.
+- Có thể nói rằng thiết kế đủ linh hoạt nếu có thể dễ dàng mở rộng mà không phá vỡ code hiện có.
 
 - một con mèo có thể ăn bất kỳ loại thức ăn nào linh hoạt hơn một con chỉ có thể ăn xúc xích
 
@@ -90,9 +90,9 @@ cat.eat(sausage);
 	
 - Company class vẫn gắn liền với các classes nhân viên
 
-=> Điều này ko tốt vì nếu chúng ta giới thiệu các loại companies mới làm việc với các loại employees khác, chúng ta sẽ override hầu hết class Company thay vì sử dụng lại code đó
+=> Điều này ko tốt vì nếu chúng ta giới thiệu các loại companies mới, làm việc với các loại employees khác, chúng ta sẽ override hầu hết class Company thay vì sử dụng lại code đó
 
-- để solve, chúng ta có thể khai báo method gettig employees như một abstract. Mỗi concrete company sẽ implement method này khác nhau, chỉ tạo những employees chúng cần
+- để solve, chúng ta có thể khai báo method getting employees như một abstract. Mỗi concrete company sẽ implement method này khác nhau, chỉ tạo những employees chúng cần
 
 ![[oop-17.png]]
 	
