@@ -51,6 +51,19 @@
             }
           },
           {
+            "id": "94dd5432189e76c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/2. Open&Close Principle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "23cd98d3f5ef91ba",
             "type": "leaf",
             "state": {
@@ -64,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
+                "file": "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/2. Open&Close Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md"
+                "file": "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/2. Open&Close Principle.md"
               }
             }
           },
@@ -192,33 +205,39 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "94dd5432189e76c1",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/Software Design Principles",
-    "Books/Dive Into Design Pattern/Intro to OOP",
-    "Books/Dive Into Design Pattern/Catalog.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/1. Single reponsibility Principle.md",
+    "Images/BOOKS/oop-23.png",
+    "Images/BOOKS/oop-22.png",
+    "Images/BOOKS/Screenshot from 2024-03-12 22-07-45.png",
+    "Images/BOOKS/Screenshot from 2024-03-12 22-07-53.png",
+    "Images/BOOKS/oop-21.png",
+    "Images/BOOKS/oop-20.png",
+    "Images/BOOKS/Screenshot from 2024-03-12 22-06-17.png",
+    "Images/BOOKS/Screenshot from 2024-03-12 22-06-24.png",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/2. Open&Close Principle.md",
     "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
+    "Books/Dive Into Design Pattern/II. Intro to Desiign Patterns/Introduce about Design pattern.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/Untitled",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles",
+    "Books/Dive Into Design Pattern/II. Intro to Desiign Patterns",
+    "Books/Dive Into Design Pattern/III. Software Design Principles",
+    "Books/Dive Into Design Pattern/I. Intro to OOP",
+    "Books/Dive Into Design Pattern/Catalog.md",
     "Plan/Đọc sách.md",
     "Đang làm dở dang.md",
-    "Books/Dive Into Design Pattern/Software Design Principles/Design Principles/3. Favor Composition Over Inheritance.md",
-    "Books/Dive Into Design Pattern/Software Design Principles/Design Principles/1. Encapsulate What Varies.md",
-    "Books/Dive Into Design Pattern/Software Design Principles/Design Principles/2. Program to an Interface, not an Implementation.md",
-    "Books/Dive Into Design Pattern/Intro to OOP/Relations Between Objects.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/3. Favor Composition Over Inheritance.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/1. Encapsulate What Varies.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/2. Program to an Interface, not an Implementation.md",
+    "Books/Dive Into Design Pattern/I. Intro to OOP/Relations Between Objects.md",
     "Images/BOOKS/oop-19.png",
     "Images/BOOKS/oop-18.png",
-    "Images/BOOKS/Screenshot from 2024-03-11 11-05-18.png",
-    "Images/BOOKS/Screenshot from 2024-03-11 11-05-35.png",
     "Knowledge/English/Videos/Video 1.md",
-    "Images/BOOKS/oop-17.png",
-    "Images/BOOKS/Screenshot from 2024-03-09 20-54-30.png",
-    "Images/BOOKS/oop-16.png",
-    "Images/BOOKS/Screenshot from 2024-03-09 20-46-49.png",
-    "Images/BOOKS/oop-15.png",
-    "Images/BOOKS/Screenshot from 2024-03-09 20-37-17.png",
     "Knowledge/Developer/Git/Basic Commands.md",
     "Knowledge/Telegram Tips.md",
-    "Books/Dive Into Design Pattern/Software Design Principles/Design Principles",
-    "Books/Dive Into Design Pattern/Software Design Principles/Features of Good Design.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/Features of Good Design.md",
     "Knowledge/Developer/Git/Introduction.md",
     "Knowledge/Markdown.md",
     "Knowledge/Developer/Git",
@@ -227,20 +246,13 @@
     "Knowledge/Developer/Internet/Internet.md",
     "Knowledge/Developer/Internet",
     "Knowledge/Developer/internet 2.md",
-    "Books/Dive Into Design Pattern/Introduce about Design pattern.md",
     "Knowledge/Linux-Command.md",
     "Knowledge/English/Dách sách.md",
     "Knowledge/English/Videos",
     "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt",
-    "Knowledge/English/[English (auto-generated)] My Kitchen _ Improve Your English _ English Listening Skills - Speaking Skills _ Cooking [DownSub.com].txt.crdownload",
     "Plan/Kế hoạch cá nhân.md",
     "Knowledge/English/Phương pháp học.md",
-    "Projects/FINVIET/Common Noted.md",
-    "Knowledge/github-recovery-codes.txt",
-    "Knowledge/github-recovery-codes.txt.crdownload",
-    "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
-    "Plan",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
