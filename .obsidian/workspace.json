@@ -64,9 +64,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0f18f4b32971850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/Design Principles/3. Favor Composition Over Inheritance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
+                "file": "Books/Dive Into Design Pattern/Design Principles/3. Favor Composition Over Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md"
+                "file": "Books/Dive Into Design Pattern/Design Principles/3. Favor Composition Over Inheritance.md"
               }
             }
           },
@@ -194,16 +207,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "45b5b3e21dbda169",
+  "active": "b0f18f4b32971850",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/Design Principles/3. Favor Composition Over Inheritance.md",
-    "Books/Dive Into Design Pattern/Relations Between Objects.md",
+    "Books/Dive Into Design Pattern/Design Principles/1. Encapsulate What Varies.md",
     "Books/Dive Into Design Pattern/Design Principles/2. Program to an Interface, not an Implementation.md",
+    "Books/Dive Into Design Pattern/Design Principles/3. Favor Composition Over Inheritance.md",
+    "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
+    "Books/Dive Into Design Pattern/Relations Between Objects.md",
     "Images/BOOKS/oop-19.png",
     "Images/BOOKS/oop-18.png",
     "Images/BOOKS/Screenshot from 2024-03-11 11-05-18.png",
     "Images/BOOKS/Screenshot from 2024-03-11 11-05-35.png",
-    "Books/Dive Into Design Pattern/Design Principles/1. Encapsulate What Varies.md",
     "Books/Dive Into Design Pattern/Catalog.md",
     "Knowledge/English/Videos/Video 1.md",
     "Images/BOOKS/oop-17.png",
@@ -226,7 +240,6 @@
     "Knowledge/Developer/Internet/Internet.md",
     "Knowledge/Developer/Internet",
     "Knowledge/Developer/internet 2.md",
-    "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Books/Dive Into Design Pattern/Introduce about Design pattern.md",
     "Knowledge/Linux-Command.md",
     "Knowledge/English/Dách sách.md",
