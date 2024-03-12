@@ -38,34 +38,6 @@
             }
           },
           {
-            "id": "e4888e51189af212",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Dive Into Design Pattern/Design Principles/3. Favor Composition Over Inheritance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "45b5b3e21dbda169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b0f18f4b32971850",
             "type": "leaf",
             "state": {
@@ -77,9 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23cd98d3f5ef91ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/Catalog.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,12 +194,16 @@
   },
   "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/Software Design Principles",
+    "Books/Dive Into Design Pattern/Intro to OOP",
     "Books/Dive Into Design Pattern/Catalog.md",
-    "Books/Dive Into Design Pattern/Design Principles/3. Favor Composition Over Inheritance.md",
-    "Books/Dive Into Design Pattern/Design Principles/1. Encapsulate What Varies.md",
-    "Books/Dive Into Design Pattern/Design Principles/2. Program to an Interface, not an Implementation.md",
     "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
-    "Books/Dive Into Design Pattern/Relations Between Objects.md",
+    "Plan/Đọc sách.md",
+    "Đang làm dở dang.md",
+    "Books/Dive Into Design Pattern/Software Design Principles/Design Principles/3. Favor Composition Over Inheritance.md",
+    "Books/Dive Into Design Pattern/Software Design Principles/Design Principles/1. Encapsulate What Varies.md",
+    "Books/Dive Into Design Pattern/Software Design Principles/Design Principles/2. Program to an Interface, not an Implementation.md",
+    "Books/Dive Into Design Pattern/Intro to OOP/Relations Between Objects.md",
     "Images/BOOKS/oop-19.png",
     "Images/BOOKS/oop-18.png",
     "Images/BOOKS/Screenshot from 2024-03-11 11-05-18.png",
@@ -226,12 +215,10 @@
     "Images/BOOKS/Screenshot from 2024-03-09 20-46-49.png",
     "Images/BOOKS/oop-15.png",
     "Images/BOOKS/Screenshot from 2024-03-09 20-37-17.png",
-    "Plan/Đọc sách.md",
-    "Đang làm dở dang.md",
     "Knowledge/Developer/Git/Basic Commands.md",
     "Knowledge/Telegram Tips.md",
-    "Books/Dive Into Design Pattern/Design Principles",
-    "Books/Dive Into Design Pattern/Features of Good Design.md",
+    "Books/Dive Into Design Pattern/Software Design Principles/Design Principles",
+    "Books/Dive Into Design Pattern/Software Design Principles/Features of Good Design.md",
     "Knowledge/Developer/Git/Introduction.md",
     "Knowledge/Markdown.md",
     "Knowledge/Developer/Git",
@@ -255,7 +242,6 @@
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Plan",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-    "Knowledge/English",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
