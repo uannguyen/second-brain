@@ -36,9 +36,15 @@
 
 ### 1.1 - Đóng gói những gì khác nhau (Encapsulate What Varies)
 
+[[1. Encapsulate What Varies]]
+
 ### 1.2 - Lập trình cho một giao diện, ko phải một triển khai (Program to an Interface, not an Implementation)
 
+[[2. Program to an Interface, not an Implementation]]
+
 ### 1.3 - Thành phần ưu tiền hơn thừa kế (Favor Composition Over Inheritance)
+
+[[3. Favor Composition Over Inheritance]]
 
 ## 2. SOLID Principles
 
