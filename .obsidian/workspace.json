@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/3. Liskov Substitution Principle.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/3. Liskov Substitution Principle.md",
+                "file": "Knowledge/English/Videos/Video 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/3. Liskov Substitution Principle.md"
+                "file": "Knowledge/English/Videos/Video 1.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "94dd5432189e76c1",
   "lastOpenFiles": [
-    "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/3. Liskov Substitution Principle.md",
+    "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/2. Open&Close Principle.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/1. Single reponsibility Principle.md",
     "Images/BOOKS/oop-23.png",
