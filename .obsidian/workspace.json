@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Đọc sách.md",
+                "file": "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/5. Dependency Inversion Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Đọc sách.md"
+                "file": "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/5. Dependency Inversion Principle.md"
               }
             }
           },
@@ -179,15 +179,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "23cd98d3f5ef91ba",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/4. Interface Segregation Principle.md",
+    "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/5. Dependency Inversion Principle.md",
+    "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/4. Interface Segregation Principle.md",
     "Images/BOOKS/oop-27.png",
     "Images/BOOKS/oop-26.png",
     "Images/BOOKS/Screenshot from 2024-03-14 21-09-56.png",
     "Images/BOOKS/Screenshot from 2024-03-14 21-11-52.png",
-    "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/3. Liskov Substitution Principle.md",
     "Books/Dive Into Design Pattern/I. Intro to OOP/Relations Between Objects.md",
     "Images/BOOKS/oop-25.png",
@@ -207,7 +208,6 @@
     "Books/Dive Into Design Pattern/II. Intro to Desiign Patterns",
     "Books/Dive Into Design Pattern/III. Software Design Principles",
     "Books/Dive Into Design Pattern/I. Intro to OOP",
-    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/3. Favor Composition Over Inheritance.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/1. Encapsulate What Varies.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/2. Program to an Interface, not an Implementation.md",
