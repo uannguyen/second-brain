@@ -40,6 +40,7 @@
           {
             "id": "1cfaf59059278b06",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -47,7 +48,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -180,8 +182,11 @@
   },
   "active": "1cfaf59059278b06",
   "lastOpenFiles": [
-    "Pasted image 20240318133139.png",
+    "Images/BOOKS/oop-34.png",
+    "Images/BOOKS/Screenshot from 2024-03-18 15-13-36.png",
+    "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
+    "Pasted image 20240318133139.png",
     "Images/BOOKS/oop-33.png",
     "Images/BOOKS/oop-32.png",
     "Images/BOOKS/oop-31.png",
@@ -213,12 +218,10 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.2 Bridge.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns",
-    "Images/BOOKS/oop-29.png",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/Untitled",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles",
     "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns",

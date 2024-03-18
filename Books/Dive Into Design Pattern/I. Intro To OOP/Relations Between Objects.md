@@ -134,3 +134,4 @@ car.start(); // Output: Engine started, Car started
 - Container không kiểm soát life cycle của component
 
 - Component có thể tồn tại mà không có container, nó có thể linked với nhiều container một lúc.
+
