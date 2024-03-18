@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,18 +184,17 @@
   "active": "1cfaf59059278b06",
   "lastOpenFiles": [
     "Images/BOOKS/oop-34.png",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
+    "Images/BOOKS/oop-36.png",
+    "Images/BOOKS/Screenshot from 2024-03-18 20-30-14.png",
+    "Images/BOOKS/oop-35.png",
+    "Images/BOOKS/Pasted image 20240318133139.png",
     "Images/BOOKS/Screenshot from 2024-03-18 15-13-36.png",
     "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
     "Pasted image 20240318133139.png",
     "Images/BOOKS/oop-33.png",
     "Images/BOOKS/oop-32.png",
     "Images/BOOKS/oop-31.png",
-    "Images/BOOKS/Screenshot from 2024-03-18 10-55-18.png",
-    "Images/BOOKS/Screenshot from 2024-03-18 10-55-37.png",
-    "Images/BOOKS/Screenshot from 2024-03-18 10-55-46.png",
-    "Images/BOOKS/oop-30.png",
-    "Images/BOOKS/Screenshot from 2024-03-18 10-53-52.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
