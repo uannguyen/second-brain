@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Developer/JS/ForEach.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#foreach",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/JS/ForEach.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/JS/ForEach.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy.md"
               }
             }
           },
@@ -181,9 +180,10 @@
   },
   "active": "23cd98d3f5ef91ba",
   "lastOpenFiles": [
+    "Knowledge/Developer/JS/ForEach.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy.md",
     "Đang làm dở dang.md",
     "Plan/Đọc sách.md",
-    "Knowledge/Developer/JS/ForEach.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator.md",
@@ -225,7 +225,6 @@
     "Books/Dive Into Design Pattern/III. Software Design Principles",
     "Books/Dive Into Design Pattern/I. Intro To OOP",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/3. Favor Composition Over Inheritance.md",
-    "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/1. Encapsulate What Varies.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
