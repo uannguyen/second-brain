@@ -60,9 +60,9 @@
               "state": {
                 "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
                 "viewState": {
-                  "x": -143.89821087689575,
-                  "y": 1785.9841470885326,
-                  "zoom": -0.4729947620402546
+                  "x": -1322.2246793030013,
+                  "y": -1569.0480934130132,
+                  "zoom": -0.24453661183931064
                 }
               }
             }
@@ -131,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 302.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -213,6 +213,7 @@
   "lastOpenFiles": [
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled 1.canvas",
     "Projects/FINVIET/Eco Game/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/schema test.md",
     "Projects/FINVIET/Common Noted.md",
@@ -264,7 +265,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas",
     "Projects/FINVIET/Eco Web App/Flow Thanh toán.canvas",
     "Projects/FINVIET/Eco Web App/Flow Cash.canvas",
-    "Projects/FINVIET/Eco Game/Sync-UserGame.canvas",
-    "PERSONAL/Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas"
+    "Projects/FINVIET/Eco Game/Sync-UserGame.canvas"
   ]
 }
