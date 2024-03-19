@@ -64,6 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a44dca3179c85045",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "test.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 111.59999999999998,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -196,9 +211,10 @@
   },
   "active": "1cfaf59059278b06",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
+    "test.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled 1.canvas",
@@ -244,7 +260,6 @@
     "Books/Dive Into Design Pattern/I. Intro To OOP",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas",
