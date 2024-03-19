@@ -60,9 +60,9 @@
               "state": {
                 "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
                 "viewState": {
-                  "x": -759.0353356281602,
-                  "y": 2364.5763975697964,
-                  "zoom": -0.07299476204025457
+                  "x": -143.89821087689575,
+                  "y": 1785.9841470885326,
+                  "zoom": -0.4729947620402546
                 }
               }
             }
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas"
               }
             }
           },
@@ -209,10 +209,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "42a9125b5b52e626",
+  "active": "dba4e64eb949030b",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/schema test.md",
     "Projects/FINVIET/Common Noted.md",
