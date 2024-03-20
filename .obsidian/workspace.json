@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +196,10 @@
   "active": "1cfaf59059278b06",
   "lastOpenFiles": [
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
     "test.canvas",
     "Knowledge/English/Videos/Video 1.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled 1.canvas",
