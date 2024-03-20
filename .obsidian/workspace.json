@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "f7f7fb3162a75a8f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "test.canvas",
+                "viewState": {
+                  "x": -211.25502017255943,
+                  "y": -1978.1823757791258,
+                  "zoom": -0.4
+                }
+              }
+            }
+          },
+          {
             "id": "0b94ef96c94780a1",
             "type": "leaf",
             "state": {
@@ -79,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Đang làm dở dang.md",
+                "file": "test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Đang làm dở dang.md"
+                "file": "test.canvas"
               }
             }
           },
@@ -206,19 +221,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c8b5b860b416fa7f",
+  "active": "f7f7fb3162a75a8f",
   "lastOpenFiles": [
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
+    "test.canvas",
+    "Đang làm dở dang.md",
+    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-    "test.canvas",
     "Knowledge/English/Videos/Video 1.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled 1.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/schema test.md",
     "Projects/FINVIET/Common Noted.md",
-    "Plan/Đọc sách.md",
     "Images/BOOKS/oop-34.png",
     "Images/BOOKS/oop-36.png",
     "Images/BOOKS/Screenshot from 2024-03-18 20-30-14.png",
@@ -233,7 +249,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
-    "Đang làm dở dang.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy.md",
