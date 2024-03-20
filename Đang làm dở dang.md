@@ -1,4 +1,7 @@
-
+```json
+=== req body Xu
+{"orders":[{"price":1,"quantity":1,"reference":"0909090044","gift_code":"VQMMEXU68","layout_id":"VQMM"}],"discount_amount":0,"trans_amount":0,"service_type":43,"gift_code":"VQMMEXU68","transid_ref":"VQMM_1710929477342","order_id":"VQMM_1710929477342","agent_type":"MERCHANT"}
+```
 
 # Schema game
 

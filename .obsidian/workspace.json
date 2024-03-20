@@ -64,9 +64,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8b5b860b416fa7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Đang làm dở dang.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
+                "file": "Đang làm dở dang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md"
+                "file": "Đang làm dở dang.md"
               }
             }
           },
@@ -193,11 +206,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1cfaf59059278b06",
+  "active": "c8b5b860b416fa7f",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
     "test.canvas",
     "Knowledge/English/Videos/Video 1.md",
     "Projects/FINVIET/Eco Game/index.md",
