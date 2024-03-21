@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#efebeb",
     "recentlyUsedIcons": [
+      "CaCanvasEaselSvgrepoCom",
       "FoFolderSvgrepoCom",
       "PaPaperTextTextsSvgrepoCom(1)",
       "CoTerminalSvgrepoCom",
@@ -153,5 +154,10 @@
   "Projects/FINVIET/Eco-Cms": "FoFolderSvgrepoCom",
   "Projects/FINVIET/Loyalty": "FoFolderSvgrepoCom",
   "Projects/FINVIET/Eco Game/LuckyWheel/Issues.md": "PaPaperTextTextsSvgrepoCom(1)",
-  "Projects/FINVIET/Eco Game/LuckyWheel/schema test.md": "PaPaperTextTextsSvgrepoCom(1)"
+  "Projects/FINVIET/Eco Game/LuckyWheel/schema test.md": "PaPaperTextTextsSvgrepoCom(1)",
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas": "CaCanvasEaselSvgrepoCom",
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas": "CaCanvasEaselSvgrepoCom",
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas": "CaCanvasEaselSvgrepoCom",
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas": "CaCanvasEaselSvgrepoCom",
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas": "CaCanvasEaselSvgrepoCom"
 }

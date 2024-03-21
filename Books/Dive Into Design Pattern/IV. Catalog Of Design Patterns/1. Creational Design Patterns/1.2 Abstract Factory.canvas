@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"995e02ce85f71b86","type":"text","text":"`<Interface>` Chair","x":-284,"y":-880,"width":244,"height":100},
+		{"id":"487cb3e3c5434314","type":"text","text":"Sofa","x":-649,"y":-880,"width":250,"height":100},
+		{"id":"38bba0869fd108bd","type":"text","text":"Coffee Table","x":140,"y":-880,"width":250,"height":100},
+		{"id":"955ee6ca416fbfb2","x":80,"y":-560,"width":287,"height":80,"type":"text","text":"`<Class>` Art Deco"},
+		{"id":"7260b33a865fd175","x":-274,"y":-560,"width":275,"height":81,"type":"text","text":"`<Class>` Morden"},
+		{"id":"916fb7665876b23a","x":-681,"y":-560,"width":282,"height":80,"type":"text","text":"`<Class>` Victorian"}
+	],
+	"edges":[]
+}
