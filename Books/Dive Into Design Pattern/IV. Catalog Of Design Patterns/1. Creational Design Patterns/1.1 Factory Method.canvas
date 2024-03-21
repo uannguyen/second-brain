@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"b45b097bf4cf8a3e","type":"text","text":"`<I>` Transport \n- deliver()","x":-189,"y":205,"width":254,"height":180},
+		{"id":"f5c49eab23ab772e","type":"text","text":"`<Class>` Truck\n- deliver()\n=> v/c đường bộ","x":-664,"y":458,"width":409,"height":197},
+		{"id":"64c86b2344f804a8","type":"text","text":"`<Class>` Ship\n- deliver(): Sea\n=> v/c đường thủy","x":265,"y":458,"width":400,"height":217},
+		{"id":"683089b14dd14409","type":"text","text":"`<Class>` RoadLogistics\n- createTransport(): Truck\n","x":-664,"y":-195,"width":409,"height":149},
+		{"id":"d34489a1cfed117d","type":"text","text":"`<Class>` SeaLogistics\n- createTransport(): Ship","x":265,"y":-195,"width":400,"height":149},
+		{"id":"d160bf6770496324","type":"text","text":"`<AbstractClass | Interface` Logistics\n- `abstract` createTransport(): `Transport`\n- planDelivery()\n\t","x":-335,"y":-675,"width":635,"height":455}
+	],
+	"edges":[
+		{"id":"0d46dc2d1e5d97a9","fromNode":"f5c49eab23ab772e","fromSide":"top","toNode":"b45b097bf4cf8a3e","toSide":"left","label":"implement"},
+		{"id":"223e944c027caf4d","fromNode":"64c86b2344f804a8","fromSide":"top","toNode":"b45b097bf4cf8a3e","toSide":"right","label":"implement"},
+		{"id":"e3bad648a28275bd","fromNode":"683089b14dd14409","fromSide":"left","toNode":"f5c49eab23ab772e","toSide":"left","label":"return"},
+		{"id":"8557b60a69d6c3fd","fromNode":"d34489a1cfed117d","fromSide":"right","toNode":"64c86b2344f804a8","toSide":"right","label":"return"},
+		{"id":"1a19d94b99e921ba","fromNode":"683089b14dd14409","fromSide":"top","toNode":"d160bf6770496324","toSide":"left","label":"implement"},
+		{"id":"6d46cc222b6fc067","fromNode":"d34489a1cfed117d","fromSide":"top","toNode":"d160bf6770496324","toSide":"right","label":"implement\n"}
+	]
+}

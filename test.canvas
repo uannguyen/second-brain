@@ -2,18 +2,17 @@
 	"nodes":[
 		{"id":"addb4d5ee3a5021c","type":"text","text":"Plane","x":-500,"y":170,"width":145,"height":60},
 		{"id":"78961706bc693696","type":"text","text":"Train","x":-42,"y":170,"width":145,"height":60},
-		{"id":"abb1150267a64f6d","type":"text","text":"Interface Transport","x":-374,"y":420,"width":294,"height":80,"color":"1"},
 		{"id":"2f704d66b99ea41b","type":"text","text":"Truck","x":-282,"y":170,"width":145,"height":60},
 		{"id":"178a9b577389c45e","type":"text","text":"GroundMail","x":60,"y":-100,"width":220,"height":60},
 		{"id":"b78fafd827433c3a","type":"text","text":"AirMail\n","x":-680,"y":-100,"width":150,"height":60},
 		{"id":"4d94e703f94096c3","type":"text","text":"Interface Mail \n- send()\n","x":-374,"y":-300,"width":294,"height":140,"color":"1"},
 		{"id":"1cb17b388d6ebb53","type":"text","text":"`<I>` Transport \n- deliver()","x":-374,"y":-1400,"width":254,"height":180},
-		{"id":"555ee3fec71f5308","type":"text","text":"`<Class>` Ship\n- deliver(): Sea\n=> v/c đường thủy","x":-80,"y":-1157,"width":360,"height":217},
-		{"id":"f6f18269abeb4415","type":"text","text":"`<Class>` Truck\n- deliver()\n=> v/c đường bộ","x":-740,"y":-1157,"width":360,"height":197},
-		{"id":"7a5f96083bd3b473","type":"text","text":"`<AbstractClass | Interface` Logistics\n- planDelivery()\n- createTransport(): Transport","x":-440,"y":-2460,"width":520,"height":200},
-		{"id":"d6282441e8ad1a58","type":"text","text":"`<Class>` RoadLogistics\n- createTransport(): Truck\n","x":-849,"y":-2069,"width":409,"height":149},
-		{"id":"1404c3ace2643e70","type":"text","text":"`<Class>` SeaLogistics\n- createTransport(): Ship","x":80,"y":-2069,"width":400,"height":149},
-		{"id":"6d394bb76005ea41","x":-515,"y":-1874,"width":735,"height":394,"type":"text","text":"CLIENT CODE\n\n"}
+		{"id":"f6f18269abeb4415","type":"text","text":"`<Class>` Truck\n- deliver()\n=> v/c đường bộ","x":-849,"y":-1147,"width":409,"height":197},
+		{"id":"555ee3fec71f5308","type":"text","text":"`<Class>` Ship\n- deliver(): Sea\n=> v/c đường thủy","x":80,"y":-1147,"width":400,"height":217},
+		{"id":"d6282441e8ad1a58","type":"text","text":"`<Class>` RoadLogistics\n- createTransport(): Truck\n","x":-849,"y":-1800,"width":409,"height":149},
+		{"id":"1404c3ace2643e70","type":"text","text":"`<Class>` SeaLogistics\n- createTransport(): Ship","x":80,"y":-1800,"width":400,"height":149},
+		{"id":"7a5f96083bd3b473","type":"text","text":"`<AbstractClass | Interface` Logistics\n- `abstract` createTransport(): `Transport`\n\n- planDelivery()\n","x":-520,"y":-2280,"width":600,"height":300},
+		{"id":"abb1150267a64f6d","type":"text","text":"Interface Transport","x":-374,"y":520,"width":294,"height":80,"color":"1"}
 	],
 	"edges":[
 		{"id":"0752b83556e29205","fromNode":"b78fafd827433c3a","fromSide":"bottom","toNode":"addb4d5ee3a5021c","toSide":"left","color":"2","label":"use"},
@@ -27,6 +26,8 @@
 		{"id":"03bcdd9f8dff13df","fromNode":"f6f18269abeb4415","fromSide":"top","toNode":"1cb17b388d6ebb53","toSide":"left","label":"implement"},
 		{"id":"5925f482836a1869","fromNode":"555ee3fec71f5308","fromSide":"top","toNode":"1cb17b388d6ebb53","toSide":"right","label":"implement"},
 		{"id":"24dde1a5f5879774","fromNode":"d6282441e8ad1a58","fromSide":"top","toNode":"7a5f96083bd3b473","toSide":"left","label":"implement"},
-		{"id":"875f8943a298b946","fromNode":"1404c3ace2643e70","fromSide":"top","toNode":"7a5f96083bd3b473","toSide":"right","label":"implement\n"}
+		{"id":"875f8943a298b946","fromNode":"1404c3ace2643e70","fromSide":"top","toNode":"7a5f96083bd3b473","toSide":"right","label":"implement\n"},
+		{"id":"42184e38ffe67d73","fromNode":"d6282441e8ad1a58","fromSide":"left","toNode":"f6f18269abeb4415","toSide":"left","label":"return"},
+		{"id":"a0265f4a963feb92","fromNode":"1404c3ace2643e70","fromSide":"right","toNode":"555ee3fec71f5308","toSide":"right","label":"return"}
 	]
 }

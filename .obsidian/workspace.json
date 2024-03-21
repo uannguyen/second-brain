@@ -53,22 +53,7 @@
             }
           },
           {
-            "id": "f7f7fb3162a75a8f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "test.canvas",
-                "viewState": {
-                  "x": -211.25502017255943,
-                  "y": -1978.1823757791258,
-                  "zoom": -0.4
-                }
-              }
-            }
-          },
-          {
-            "id": "0b94ef96c94780a1",
+            "id": "06d9158fb2780da1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,12 +66,12 @@
             }
           },
           {
-            "id": "c8b5b860b416fa7f",
+            "id": "0b94ef96c94780a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Đang làm dở dang.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -171,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.canvas",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.canvas"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md"
               }
             }
           },
@@ -221,13 +206,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f7f7fb3162a75a8f",
+  "active": "06d9158fb2780da1",
   "lastOpenFiles": [
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
-    "test.canvas",
-    "Đang làm dở dang.md",
     "Plan/Đọc sách.md",
+    "Đang làm dở dang.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
+    "test.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Knowledge/English/Videos/Video 1.md",
     "Projects/FINVIET/Eco Game/index.md",
@@ -276,7 +262,6 @@
     "Untitled 2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/lucky-wheek-func-flow.canvas",
     "Projects/FINVIET/Eco Web App/Flow Thanh toán.canvas",
-    "Projects/FINVIET/Eco Web App/Flow Cash.canvas",
-    "Projects/FINVIET/Eco Game/Sync-UserGame.canvas"
+    "Projects/FINVIET/Eco Web App/Flow Cash.canvas"
   ]
 }
