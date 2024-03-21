@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#efebeb",
     "recentlyUsedIcons": [
+      "CaCatalogueCatalogSvgrepoCom",
       "CaCanvasEaselSvgrepoCom",
       "FoFolderSvgrepoCom",
       "PaPaperTextTextsSvgrepoCom(1)",
@@ -94,7 +95,6 @@
   "Books/Dive Into Design Pattern": "FoFolderSvgrepoCom",
   "Knowledge/English": "EnEnglishSvgrepoCom",
   "Plan": "PlPlanSvgrepoCom",
-  "Books/Dive Into Design Pattern/Catalog.md": "CaCatalogueCatalogSvgrepoCom",
   "Knowledge/English/Videos": "YoYoutubeColorSvgrepoCom",
   "Knowledge/English/Videos/Video 1.md": "YoYoutubeColorSvgrepoCom",
   "Knowledge/Developer/Git": "GiGitSvgrepoCom",
@@ -153,11 +153,12 @@
   "Projects/FINVIET/Eco Web App": "FoFolderSvgrepoCom",
   "Projects/FINVIET/Eco-Cms": "FoFolderSvgrepoCom",
   "Projects/FINVIET/Loyalty": "FoFolderSvgrepoCom",
-  "Projects/FINVIET/Eco Game/LuckyWheel/Issues.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Projects/FINVIET/Eco Game/LuckyWheel/schema test.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas": "CaCanvasEaselSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas": "CaCanvasEaselSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas": "CaCanvasEaselSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas": "CaCanvasEaselSvgrepoCom",
-  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas": "CaCanvasEaselSvgrepoCom"
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas": "CaCanvasEaselSvgrepoCom",
+  "Books/Dive Into Design Pattern/Catalog.md": "CaCatalogueCatalogSvgrepoCom",
+  "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md": "PaPaperTextTextsSvgrepoCom(1)"
 }
