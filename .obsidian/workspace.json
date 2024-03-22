@@ -63,19 +63,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f9bfc9676d17d0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -212,9 +199,10 @@
   "lastOpenFiles": [
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
     "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Game/index.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
     "Images/BOOKS/oop-44.png",
     "Images/BOOKS/oop-43.png",
     "Images/BOOKS/Screenshot from 2024-03-22 14-05-21.png",
@@ -223,7 +211,6 @@
     "Images/BOOKS/Screenshot from 2024-03-22 11-09-20.png",
     "Images/BOOKS/oop-41.png",
     "Images/BOOKS/Screenshot from 2024-03-22 10-20-33.png",
-    "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.md",
     "Knowledge/Linux-Command.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas",
