@@ -24,8 +24,8 @@
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
-  "matchTheme": false,
-  "matchThemeAlways": false,
+  "matchTheme": true,
+  "matchThemeAlways": true,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
@@ -408,7 +408,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 7,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
@@ -419,8 +419,8 @@
   "pdfDirection": "right",
   "pdfImportScale": 0.3,
   "laserSettings": {
-    "DECAY_LENGTH": 50,
-    "DECAY_TIME": 1000,
+    "DECAY_LENGTH": 25,
+    "DECAY_TIME": 500,
     "COLOR": "#ff0000"
   },
   "embeddableMarkdownDefaults": {
