@@ -64,8 +64,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
+                "file": "Plan/Đọc sách.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md"
+                "file": "Plan/Đọc sách.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06d9158fb2780da1",
+  "active": "31238bbe10df5aad",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "Pasted Image 20240324091955_297.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
     "Đang làm dở dang.md",
