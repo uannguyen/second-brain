@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
+                "file": "Knowledge/English/Music/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
+                "file": "Knowledge/English/Music/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md"
+                "file": "Knowledge/English/Music/index.md"
               }
             }
           },
@@ -210,6 +210,8 @@
   },
   "active": "e826435e5bcc8cc6",
   "lastOpenFiles": [
+    "Knowledge/English/Videos/Video 1.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
     "Images/BOOKS/oop-51.png",
     "Images/BOOKS/Screenshot from 2024-03-25 21-51-19.png",
     "Images/BOOKS/oop-50.png",
@@ -220,7 +222,6 @@
     "Images/BOOKS/oop-47.png",
     "Images/BOOKS/Screenshot from 2024-03-25 11-07-35.png",
     "Images/BOOKS/Screenshot from 2024-03-25 11-11-56.png",
-    "Images/BOOKS/oop-46.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
@@ -230,7 +231,6 @@
     "Plan/Đọc sách.md",
     "Knowledge/English/Music/index.md",
     "Knowledge/English/Dách sách.md",
-    "Knowledge/English/Videos/Video 1.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/Drawing 2024-03-23 10.44.34.excalidraw.md",
     "Knowledge/English/Music",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
