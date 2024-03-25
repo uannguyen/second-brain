@@ -63,9 +63,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e826435e5bcc8cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md"
               }
             }
           },
@@ -195,16 +208,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06d9158fb2780da1",
+  "active": "e826435e5bcc8cc6",
   "lastOpenFiles": [
+    "Images/BOOKS/oop-46.png",
+    "Images/BOOKS/Screenshot from 2024-03-25 10-51-47.png",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
     "Đang làm dở dang.md",
     "Projects/FINVIET/Common Noted.md",
     "Plan/Đọc sách.md",
     "Pasted Image 20240324091955_297.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
     "Knowledge/English/Music/index.md",
     "Knowledge/English/Dách sách.md",
     "Knowledge/English/Videos/Video 1.md",
@@ -221,7 +236,6 @@
     "Images/BOOKS/Screenshot from 2024-03-22 14-05-21.png",
     "Images/BOOKS/Screenshot from 2024-03-22 14-05-44.png",
     "Images/BOOKS/oop-42.png",
-    "Images/BOOKS/Screenshot from 2024-03-22 11-09-20.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.md",
     "Knowledge/Linux-Command.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas",
