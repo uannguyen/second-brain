@@ -38,47 +38,22 @@
             }
           },
           {
-            "id": "06d9158fb2780da1",
+            "id": "8587689619a30cc8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "3c9a993ba8cc6684",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4cd5379ff2d95bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+                "file": "test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md"
+                "file": "test.canvas"
               }
             }
           },
@@ -208,13 +183,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cd5379ff2d95bd5",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
+    "Đang làm dở dang.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
+    "Untitled.md",
+    "Images/BOOKS/oop-52.jpg",
+    "Images/BOOKS/photo_2024-03-26_09-30-46.jpg",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Knowledge/English/Music/index.md",
     "Knowledge/English/Videos/Video 1.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
     "Images/BOOKS/oop-51.png",
     "Images/BOOKS/Screenshot from 2024-03-25 21-51-19.png",
     "Images/BOOKS/oop-50.png",
@@ -223,11 +203,8 @@
     "Images/BOOKS/Screenshot from 2024-03-25 21-18-40.png",
     "Images/BOOKS/oop-48.png",
     "Images/BOOKS/oop-47.png",
-    "Images/BOOKS/Screenshot from 2024-03-25 11-07-35.png",
-    "Images/BOOKS/Screenshot from 2024-03-25 11-11-56.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
-    "Đang làm dở dang.md",
     "Projects/FINVIET/Common Noted.md",
     "Plan/Đọc sách.md",
     "Knowledge/English/Dách sách.md",
@@ -240,9 +217,7 @@
     "Knowledge/Linux-Command.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas",
     "test.canvas",
-    "Untitled.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Issues.md",
     "Books/Dive Into Design Pattern/Catalog.md",
@@ -252,7 +227,6 @@
     "2024-03-21.md",
     "2024-03-19.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled 1.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
