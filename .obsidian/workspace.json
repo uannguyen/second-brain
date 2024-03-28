@@ -58,6 +58,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fe1703f48bb6a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
                 "mode": "source",
                 "backlinks": false,
@@ -66,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,16 +209,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "2fe1703f48bb6a63",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
-    "Knowledge/English/Music/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
     "Plan/Đọc sách.md",
+    "Đang làm dở dang.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
+    "Knowledge/English/Music/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-    "Đang làm dở dang.md",
     "test.canvas",
     "Untitled.md",
     "Images/BOOKS/oop-52.jpg",
@@ -227,7 +241,6 @@
     "Knowledge/English/Dách sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/Drawing 2024-03-23 10.44.34.excalidraw.md",
     "Knowledge/English/Music",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Knowledge/Linux-Command.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas",
