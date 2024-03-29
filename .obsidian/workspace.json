@@ -52,8 +52,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
+                "file": "Plan/Đọc sách.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md"
+                "file": "Plan/Đọc sách.md"
               }
             }
           },
@@ -183,12 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8587689619a30cc8",
+  "active": "31238bbe10df5aad",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
     "Images/BOOKS/oop-53.jpg",
     "Images/BOOKS/photo_2024-03-28_14-00-30.jpg",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
