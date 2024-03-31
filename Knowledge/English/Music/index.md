@@ -2,6 +2,6 @@ proud of you
 a little love
 Cry On My Shoulder
 aloha
-EVERYTIME WE TOUCH
+Everytime We Touch
 That girl
 Forever friends
