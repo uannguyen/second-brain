@@ -51,35 +51,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2243d29ae3e2a127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/English/Music/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3582ffe49a9b97b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/English/Music/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/English/Music/index.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/English/Music/index.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md"
               }
             }
           },
@@ -209,8 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3582ffe49a9b97b5",
+  "active": "f133e042a4a0bad7",
   "lastOpenFiles": [
+    "Images/BOOKS/oop-60.png",
+    "Images/BOOKS/Screenshot from 2024-04-01 09-07-57.png",
+    "Images/BOOKS/oop-59.png",
+    "Images/BOOKS/Screenshot from 2024-04-01 08-33-38.png",
+    "Knowledge/English/Music/index.md",
     "Đang làm dở dang.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md",
@@ -224,13 +203,9 @@
     "Images/BOOKS/oop-55.png",
     "Images/BOOKS/Screenshot from 2024-03-31 10-45-11.png",
     "Images/BOOKS/oop-54.png",
-    "Images/BOOKS/Screenshot from 2024-03-31 09-56-41.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
-    "Knowledge/English/Music/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
-    "Images/BOOKS/oop-53.jpg",
-    "Images/BOOKS/photo_2024-03-28_14-00-30.jpg",
     "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
