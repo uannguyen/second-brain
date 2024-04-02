@@ -51,35 +51,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "de190bd1190dafb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/English/Music/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5ce7315ecf8827f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/English/Music/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/English/Music/index.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/English/Music/index.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md"
               }
             }
           },
@@ -209,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5ce7315ecf8827f",
+  "active": "f133e042a4a0bad7",
   "lastOpenFiles": [
+    "Knowledge/English/Music/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md",
     "Images/BOOKS/oop-61.png",
     "Images/BOOKS/Screenshot from 2024-04-01 11-34-06.png",
@@ -220,7 +195,6 @@
     "Images/BOOKS/Screenshot from 2024-04-01 09-07-57.png",
     "Images/BOOKS/oop-59.png",
     "Images/BOOKS/Screenshot from 2024-04-01 08-33-38.png",
-    "Knowledge/English/Music/index.md",
     "Đang làm dở dang.md",
     "Plan/Đọc sách.md",
     "Images/BOOKS/oop-58.png",
