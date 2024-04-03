@@ -38,19 +38,6 @@
             }
           },
           {
-            "id": "f133e042a4a0bad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "01787d263f7d4566",
             "type": "leaf",
             "pinned": true,
@@ -66,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,6 +185,12 @@
   },
   "active": "01787d263f7d4566",
   "lastOpenFiles": [
+    "Images/BOOKS/oop-62.png",
+    "Images/BOOKS/Screenshot from 2024-04-03 11-23-43.png",
+    "Excalidraw/1.5 Singleton 2024-04-03 11.12.37.excalidraw.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
+    "Excalidraw",
+    "Đang làm dở dang.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
     "Plan/Đọc sách.md",
@@ -211,11 +204,9 @@
     "Images/BOOKS/Screenshot from 2024-04-01 09-07-57.png",
     "Images/BOOKS/oop-59.png",
     "Images/BOOKS/Screenshot from 2024-04-01 08-33-38.png",
-    "Đang làm dở dang.md",
     "Images/BOOKS/oop-58.png",
     "Images/BOOKS/Screenshot from 2024-03-31 22-31-01.png",
     "Images/BOOKS/oop-57.png",
-    "Images/BOOKS/Screenshot from 2024-03-31 22-23-12.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
@@ -238,8 +229,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Issues.md",
     "Books/Dive Into Design Pattern/Catalog.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/Drawing 2024-03-21 21.45.28.excalidraw.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/Drawing 2024-03-21 21.29.22.excalidraw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled 1.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
@@ -250,7 +239,6 @@
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles",
     "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns",
     "Books/Dive Into Design Pattern/III. Software Design Principles",
-    "Books/Dive Into Design Pattern/I. Intro To OOP",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Untitled 1.canvas"
   ]
