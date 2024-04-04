@@ -56,17 +56,14 @@
             "id": "25e47cbd58adf0e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/schema.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md"
               }
             }
           },
@@ -196,10 +193,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25e47cbd58adf0e7",
+  "active": "01787d263f7d4566",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Images/BOOKS/oop-63.png",
     "Images/BOOKS/Screenshot from 2024-04-03 15-56-16.png",
@@ -220,11 +221,8 @@
     "Images/BOOKS/Screenshot from 2024-04-01 09-07-57.png",
     "Images/BOOKS/oop-59.png",
     "Images/BOOKS/Screenshot from 2024-04-01 08-33-38.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "test.canvas",
     "Untitled.md",
@@ -241,7 +239,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Issues.md",
     "Books/Dive Into Design Pattern/Catalog.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled 1.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns",
