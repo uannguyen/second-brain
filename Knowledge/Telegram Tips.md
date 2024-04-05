@@ -14,4 +14,3 @@
 
 - Xóa group hiện tại
 - Vào group `BotFather` truy cập lại vào group và `Start`
-- 

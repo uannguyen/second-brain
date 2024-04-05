@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"b45b097bf4cf8a3e","type":"text","text":"`<I>` Transport \n- deliver()","x":-189,"y":205,"width":254,"height":180},
 		{"id":"f5c49eab23ab772e","type":"text","text":"`<Class>` Truck\n- deliver()\n=> v/c đường bộ","x":-664,"y":458,"width":409,"height":197},
 		{"id":"64c86b2344f804a8","type":"text","text":"`<Class>` Ship\n- deliver(): Sea\n=> v/c đường thủy","x":265,"y":458,"width":400,"height":217},
 		{"id":"683089b14dd14409","type":"text","text":"`<Class>` RoadLogistics\n- createTransport(): Truck\n","x":-664,"y":-195,"width":409,"height":149},
 		{"id":"d34489a1cfed117d","type":"text","text":"`<Class>` SeaLogistics\n- createTransport(): Ship","x":265,"y":-195,"width":400,"height":149},
-		{"id":"d160bf6770496324","type":"text","text":"`<AbstractClass | Interface` Logistics\n- `abstract` createTransport(): `Transport`\n- planDelivery()\n\t","x":-335,"y":-675,"width":635,"height":455}
+		{"id":"d160bf6770496324","type":"text","text":"`<AbstractClass | Interface` Logistics\n- `abstract` createTransport(): `Transport`\n- planDelivery()\n\t","x":-160,"y":-560,"width":355,"height":315},
+		{"id":"b45b097bf4cf8a3e","type":"text","text":"`<I>` Transport \n- deliver()","x":-160,"y":200,"width":254,"height":180}
 	],
 	"edges":[
 		{"id":"0d46dc2d1e5d97a9","fromNode":"f5c49eab23ab772e","fromSide":"top","toNode":"b45b097bf4cf8a3e","toSide":"left","label":"implement"},
