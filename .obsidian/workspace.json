@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Đang làm dở dang.md",
+                "file": "Noted Temporary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +58,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
+                "file": "Noted Temporary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3307d646e41e9e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,23 +209,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01787d263f7d4566",
+  "active": "3307d646e41e9e96",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
+    "Noted Temporary.md",
+    "test.canvas",
+    "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
     "Images/BOOKS/oop-76.png",
     "Images/BOOKS/Screenshot from 2024-04-06 10-01-32.png",
     "Images/BOOKS/oop-75.png",
     "Images/BOOKS/Screenshot from 2024-04-06 09-46-41.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
-    "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/3. Favor Composition Over Inheritance.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
     "Images/BOOKS/oop-74.png",
     "Images/BOOKS/Screenshot from 2024-04-06 09-36-49.png",
     "Images/BOOKS/oop-73.png",
     "Images/BOOKS/Screenshot from 2024-04-05 22-28-35.png",
     "Images/BOOKS/oop-72.png",
     "Images/BOOKS/Screenshot from 2024-04-05 21-21-30.png",
-    "Images/BOOKS/oop-71.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.0 Base.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/Drawing 2024-03-23 10.44.34.excalidraw.md",
@@ -232,14 +247,12 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Excalidraw/1.5 Singleton 2024-04-03 11.12.37.excalidraw.md",
     "Excalidraw",
-    "Đang làm dở dang.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.md",
     "Plan/Đọc sách.md",
     "Knowledge/English/Music/index.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/2. Program to an Interface, not an Implementation.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-    "test.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
     "Knowledge/English/Music",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas",
@@ -252,7 +265,6 @@
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles",
     "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns",
     "Books/Dive Into Design Pattern/III. Software Design Principles",
-    "Projects/FINVIET/Backend/Forgot Password.canvas",
-    "Untitled 1.canvas"
+    "Projects/FINVIET/Backend/Forgot Password.canvas"
   ]
 }
