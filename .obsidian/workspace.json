@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
+                "file": "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "check",
+                "query": "composition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,22 +196,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a25b84010da25d9e",
+  "active": "01787d263f7d4566",
   "lastOpenFiles": [
+    "Images/BOOKS/oop-76.png",
+    "Images/BOOKS/Screenshot from 2024-04-06 10-01-32.png",
+    "Images/BOOKS/oop-75.png",
+    "Images/BOOKS/Screenshot from 2024-04-06 09-46-41.png",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
+    "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/3. Favor Composition Over Inheritance.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
+    "Images/BOOKS/oop-74.png",
+    "Images/BOOKS/Screenshot from 2024-04-06 09-36-49.png",
     "Images/BOOKS/oop-73.png",
     "Images/BOOKS/Screenshot from 2024-04-05 22-28-35.png",
     "Images/BOOKS/oop-72.png",
     "Images/BOOKS/Screenshot from 2024-04-05 21-21-30.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
     "Images/BOOKS/oop-71.png",
-    "Images/BOOKS/Screenshot from 2024-04-05 21-07-26.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.0 Base.md",
-    "Images/BOOKS/oop-70.png",
-    "Images/BOOKS/oop-69.png",
-    "Images/BOOKS/oop-68.png",
-    "Images/BOOKS/oop-67.png",
-    "Images/BOOKS/oop-66.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/Drawing 2024-03-23 10.44.34.excalidraw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
@@ -236,8 +238,6 @@
     "Plan/Đọc sách.md",
     "Knowledge/English/Music/index.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/2. Program to an Interface, not an Implementation.md",
-    "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/1. Encapsulate What Varies.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "test.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
