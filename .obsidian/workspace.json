@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.2 Bridge.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.2 Bridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.2 Bridge.md"
               }
             }
           },
@@ -211,10 +211,14 @@
   },
   "active": "3307d646e41e9e96",
   "lastOpenFiles": [
+    "Images/BOOKS/oop-79.png",
+    "Images/BOOKS/Screenshot from 2024-04-07 09-30-01.png",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
+    "Images/BOOKS/oop-78.png",
+    "Images/BOOKS/Screenshot from 2024-04-07 09-16-09.png",
     "Images/BOOKS/oop-77.png",
     "Images/BOOKS/Screenshot from 2024-04-06 21-52-14.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
     "Noted Temporary.md",
     "test.canvas",
     "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
@@ -225,10 +229,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/3. Favor Composition Over Inheritance.md",
     "Images/BOOKS/oop-74.png",
-    "Images/BOOKS/Screenshot from 2024-04-06 09-36-49.png",
-    "Images/BOOKS/oop-73.png",
-    "Images/BOOKS/Screenshot from 2024-04-05 22-28-35.png",
-    "Images/BOOKS/oop-72.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.0 Base.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/Drawing 2024-03-23 10.44.34.excalidraw.md",
