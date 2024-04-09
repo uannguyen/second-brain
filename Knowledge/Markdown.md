@@ -137,7 +137,7 @@ hoặc
 # Task Lists - Tạo danh sách nhiệm vụ
 
 ```
- - [ ] Text
+ - [] Text
  - [x] Text
 ```
 
