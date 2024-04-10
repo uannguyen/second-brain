@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite.md"
               }
             }
           },
@@ -196,8 +196,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "14f0e21f014e7261",
   "lastOpenFiles": [
+    "Plan/Đọc sách.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md",
     "Projects/FINVIET/Eco Game/index.md",
@@ -218,7 +219,6 @@
     "Images/BOOKS/oop-86.png",
     "Images/BOOKS/Screenshot from 2024-04-09 15-28-58.png",
     "Noted Temporary.md",
-    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
