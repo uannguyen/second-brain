@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1147b92d32f81f3c","type":"text","text":"Decorator pattern","x":-460,"y":-320,"width":267,"height":43,"color":"1"},
+		{"id":"dc368472d931559f","type":"text","text":"Đính kèm behaviors vào các objects\n![[2.4 Decorator#Khái niệm]]","x":-586,"y":-1420,"width":520,"height":723},
+		{"id":"c6ba0b63db6a8bd5","type":"text","text":"![[2.4 Decorator#Problem]]","x":240,"y":-814,"width":577,"height":1031}
+	],
+	"edges":[
+		{"id":"c80695a81ce53ea8","fromNode":"1147b92d32f81f3c","fromSide":"top","toNode":"dc368472d931559f","toSide":"bottom","label":"Khái niệm"},
+		{"id":"008db2c87cb57f09","fromNode":"1147b92d32f81f3c","fromSide":"right","toNode":"c6ba0b63db6a8bd5","toSide":"left","label":"Vấn đề"}
+	]
+}

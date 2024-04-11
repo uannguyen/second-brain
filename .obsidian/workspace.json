@@ -38,13 +38,13 @@
             }
           },
           {
-            "id": "14f0e21f014e7261",
+            "id": "f203de7b448ffbee",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,20 +53,24 @@
             }
           },
           {
-            "id": "f203de7b448ffbee",
+            "id": "f047a8b1fb3a9ebf",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
+                "viewState": {
+                  "x": 110,
+                  "y": 60.888821693494265,
+                  "zoom": -1.5795811699985407
+                }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md"
               }
             }
           },
@@ -198,6 +202,15 @@
   },
   "active": "f203de7b448ffbee",
   "lastOpenFiles": [
+    "Images/BOOKS/oop-94.png",
+    "Images/BOOKS/Screenshot from 2024-04-11 14-00-36.png",
+    "Images/BOOKS/oop-93.png",
+    "Images/BOOKS/Screenshot from 2024-04-11 13-54-34.png",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
+    "Images/BOOKS/oop-92.png",
+    "Images/BOOKS/Screenshot from 2024-04-11 13-33-00.png",
     "Images/BOOKS/oop-91.png",
     "Images/BOOKS/Screenshot from 2024-04-11 13-14-12.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
@@ -213,16 +226,10 @@
     "Images/BOOKS/oop-90.png",
     "Images/BOOKS/Screenshot from 2024-04-09 22-14-14.png",
     "Images/BOOKS/oop-89.png",
-    "Images/BOOKS/Screenshot from 2024-04-09 22-02-25.png",
-    "Images/BOOKS/oop-88.png",
-    "Images/BOOKS/Screenshot from 2024-04-09 21-56-19.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.2 Bridge.md",
     "Knowledge/Markdown.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
-    "Images/BOOKS/oop-87.png",
-    "Images/BOOKS/Screenshot from 2024-04-09 16-55-01.png",
-    "Images/BOOKS/oop-86.png",
     "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
@@ -238,21 +245,18 @@
     "Knowledge/Developer/Fundamentals/Memory management.md",
     "Knowledge/Developer/Fundamentals/Threads & Concurrency.md",
     "Knowledge/VS Code.md",
-    "Knowledge/Telegram Tips.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas",
     "Excalidraw",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
     "Knowledge/English/Music",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled 1.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/Untitled",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles",
-    "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns",
-    "Books/Dive Into Design Pattern/III. Software Design Principles"
+    "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns"
   ]
 }
