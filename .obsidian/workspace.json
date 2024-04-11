@@ -58,20 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c9ecdda85115032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Common Noted.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator.md"
               }
             }
           },
@@ -209,9 +196,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c9ecdda85115032",
+  "active": "f203de7b448ffbee",
   "lastOpenFiles": [
+    "Images/BOOKS/oop-91.png",
+    "Images/BOOKS/Screenshot from 2024-04-11 13-14-12.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Projects/FINVIET/Eco Consumer/Untitled.canvas",
+    "Projects/FINVIET/Eco Consumer/index.md",
     "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Noted Temporary.md",
@@ -232,7 +223,6 @@
     "Images/BOOKS/oop-87.png",
     "Images/BOOKS/Screenshot from 2024-04-09 16-55-01.png",
     "Images/BOOKS/oop-86.png",
-    "Images/BOOKS/Screenshot from 2024-04-09 15-28-58.png",
     "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter.md",
@@ -249,10 +239,8 @@
     "Knowledge/Developer/Fundamentals/Threads & Concurrency.md",
     "Knowledge/VS Code.md",
     "Knowledge/Telegram Tips.md",
-    "Plan/Kế hoạch cá nhân.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas",
-    "Excalidraw/1.5 Singleton 2024-04-03 11.12.37.excalidraw.md",
     "Excalidraw",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
     "Knowledge/English/Music",
@@ -265,7 +253,6 @@
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/Untitled",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles",
     "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns",
-    "Books/Dive Into Design Pattern/III. Software Design Principles",
-    "Projects/FINVIET/Backend/Forgot Password.canvas"
+    "Books/Dive Into Design Pattern/III. Software Design Principles"
   ]
 }

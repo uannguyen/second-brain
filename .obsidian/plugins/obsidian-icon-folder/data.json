@@ -43,7 +43,7 @@
   "Projects/FINVIET": "FiFinvietLogo",
   "Images": "ImImagesSvgrepoCom",
   "Knowledge/VS Code.md": "VcVsCodeSvgrepoCom",
-  "Projects/FINVIET/Eco Consumer/Auto Payment.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Consumer/Auto Payment.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Knowledge/Markdown.md": "MaMarkdownMarkWhite",
   "Knowledge/Developer/JS": "JsJsSvgrepoCom",
   "Knowledge/Developer/Nestjs": "NeNestjsIcon",
@@ -65,9 +65,9 @@
   "Knowledge/Developer": "DeDevSvgrepoCom",
   "Knowledge/Developer/Fundamentals": "BuBuilderCodeDesignSvgrepoCom",
   "Projects/FINVIET/Backend": "FoFolderSvgrepoCom",
-  "Projects/FINVIET/Eco Consumer/Noti.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Consumer/Noti.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Knowledge/Developer/Fundamentals/Data Structures/Base.md": "SiStructureOrganizationSvgrepoCom",
-  "Projects/FINVIET/Eco Consumer/Tab-noti.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Consumer/Tab-noti.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Projects/FINVIET/Eco Game/LuckyWheel": "FoFolderSvgrepoCom",
   "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Projects/FINVIET/Backend/evnspc.md": "TaTaskSvgrepoCom",
@@ -75,7 +75,7 @@
   "Projects/FINVIET/Backend/Forgot Password.md": "TaTaskSvgrepoCom",
   "Projects/FINVIET/Backend/index.md": "NoNoteSvgrepoCom",
   "Projects/FINVIET/Backend/noti.md": "TaTaskSvgrepoCom",
-  "Projects/FINVIET/Eco Consumer/Referral.md": "TaTaskSvgrepoCom",
+  "Projects/FINVIET/Eco Consumer/Referral.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Projects/FINVIET/Eco Game/index.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Projects/FINVIET/Eco-Cms/index.md": "NoNoteSvgrepoCom",
   "Projects/FINVIET/Eco-Cms/Untitled.md": "NoNoteSvgrepoCom",
@@ -160,5 +160,6 @@
   "Projects/FINVIET/Eco Game/LuckyWheel/schema.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.0 Base.md": "PaPaperTextTextsSvgrepoCom(1)",
-  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas": "CaCanvasEaselSvgrepoCom"
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas": "CaCanvasEaselSvgrepoCom",
+  "Projects/FINVIET/Eco Consumer/index.md": "PaPaperTextTextsSvgrepoCom(1)"
 }
