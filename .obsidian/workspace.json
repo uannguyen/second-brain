@@ -66,17 +66,15 @@
             }
           },
           {
-            "id": "553db8371999010f",
+            "id": "6c9ecdda85115032",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-                "viewState": {
-                  "x": 220.96249880704102,
-                  "y": 4426.616810358109,
-                  "zoom": -1.037663641812582
-                }
+                "file": "Projects/FINVIET/Common Noted.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -158,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+                "file": "Projects/FINVIET/Common Noted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas"
+                "file": "Projects/FINVIET/Common Noted.md"
               }
             }
           },
@@ -211,13 +209,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "553db8371999010f",
+  "active": "6c9ecdda85115032",
   "lastOpenFiles": [
-    "Noted Temporary.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Projects/FINVIET/Common Noted.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+    "Noted Temporary.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite.md",
     "Plan/Đọc sách.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Images/BOOKS/oop-90.png",
