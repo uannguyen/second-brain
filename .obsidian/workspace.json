@@ -61,9 +61,9 @@
               "state": {
                 "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
                 "viewState": {
-                  "x": -2120,
-                  "y": -799,
-                  "zoom": 0
+                  "x": 730.5071161612022,
+                  "y": -10.734385011151744,
+                  "zoom": -2.4
                 }
               },
               "pinned": true
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas"
               }
             }
           },
@@ -213,14 +213,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f203de7b448ffbee",
+  "active": "f047a8b1fb3a9ebf",
   "lastOpenFiles": [
+    "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md",
     "Images/BOOKS/oop-100.png",
     "Images/BOOKS/Screenshot from 2024-04-12 15-01-34.png",
     "Images/BOOKS/oop-99.png",
     "Images/BOOKS/Screenshot from 2024-04-12 14-29-05.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md",
     "Images/BOOKS/oop-98.png",
     "Images/BOOKS/Screenshot from 2024-04-12 14-23-07.png",
     "Images/BOOKS/oop-97.png",
@@ -229,10 +230,8 @@
     "Images/BOOKS/Screenshot from 2024-04-12 13-26-43.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Common Noted.md",
-    "Images/BOOKS/oop-95.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-    "Plan/Đọc sách.md",
     "Projects/FINVIET/Eco Consumer/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",

@@ -1,16 +1,19 @@
 {
 	"nodes":[
-		{"id":"6f3586970c063906","x":-2245,"y":-829,"width":250,"height":60,"type":"text","text":""},
 		{"id":"1147b92d32f81f3c","type":"text","text":"Decorator pattern","x":-460,"y":-320,"width":267,"height":43,"color":"1"},
 		{"id":"dc368472d931559f","type":"text","text":"Đính kèm behaviors vào các objects\n![[2.4 Decorator#Khái niệm]]","x":-586,"y":-1420,"width":520,"height":723},
-		{"id":"c6ba0b63db6a8bd5","type":"text","text":"![[2.4 Decorator#Problem]]","x":240,"y":-814,"width":577,"height":1031},
-		{"id":"02ec3e94b4767d83","x":-680,"y":821,"width":707,"height":3953,"type":"text","text":"![[2.4 Decorator#Solution]]"},
-		{"id":"1905d1caf5e92a3d","x":-1840,"y":217,"width":748,"height":781,"type":"text","text":"![[2.4 Decorator#Real-World Analogy]]            "}
+		{"id":"6f3586970c063906","type":"text","text":"![[2.4 Decorator#Applicability]]","x":-2240,"y":-1280,"width":800,"height":760},
+		{"id":"c6ba0b63db6a8bd5","type":"text","text":"![[2.4 Decorator#Problem]]","x":1059,"y":-1420,"width":577,"height":1031},
+		{"id":"02ec3e94b4767d83","type":"text","text":"![[2.4 Decorator#Solution]]","x":706,"y":160,"width":707,"height":3953},
+		{"id":"d263319c932d23e9","type":"text","text":"![[2.4 Decorator#Pseudocode]]","x":-2280,"y":160,"width":880,"height":1573},
+		{"id":"1905d1caf5e92a3d","type":"text","text":"![[2.4 Decorator#Real-World Analogy]]            ","x":-700,"y":556,"width":748,"height":781}
 	],
 	"edges":[
 		{"id":"c80695a81ce53ea8","fromNode":"1147b92d32f81f3c","fromSide":"top","toNode":"dc368472d931559f","toSide":"bottom","label":"Khái niệm"},
 		{"id":"008db2c87cb57f09","fromNode":"1147b92d32f81f3c","fromSide":"right","toNode":"c6ba0b63db6a8bd5","toSide":"left","label":"Vấn đề"},
 		{"id":"d59eb50b28d811c5","fromNode":"1147b92d32f81f3c","fromSide":"bottom","toNode":"02ec3e94b4767d83","toSide":"top","label":"Giải pháp"},
-		{"id":"d7e024d7cb68379c","fromNode":"1147b92d32f81f3c","fromSide":"left","toNode":"1905d1caf5e92a3d","toSide":"right"}
+		{"id":"739a2c924dc45b6a","fromNode":"1147b92d32f81f3c","fromSide":"bottom","toNode":"1905d1caf5e92a3d","toSide":"top","label":"Thực tế"},
+		{"id":"69b20c5b113e4ec2","fromNode":"1147b92d32f81f3c","fromSide":"left","toNode":"d263319c932d23e9","toSide":"top","label":"Mã giả"},
+		{"id":"2a2859561e79b645","fromNode":"1147b92d32f81f3c","fromSide":"left","toNode":"6f3586970c063906","toSide":"right","label":"\n\nỨng dụng"}
 	]
 }
