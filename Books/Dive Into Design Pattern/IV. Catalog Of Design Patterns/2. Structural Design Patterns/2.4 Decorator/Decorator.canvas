@@ -3,11 +3,13 @@
 		{"id":"1147b92d32f81f3c","type":"text","text":"Decorator pattern","x":-460,"y":-320,"width":267,"height":43,"color":"1"},
 		{"id":"dc368472d931559f","type":"text","text":"Đính kèm behaviors vào các objects\n![[2.4 Decorator#Khái niệm]]","x":-586,"y":-1420,"width":520,"height":723},
 		{"id":"c6ba0b63db6a8bd5","type":"text","text":"![[2.4 Decorator#Problem]]","x":240,"y":-814,"width":577,"height":1031},
-		{"id":"02ec3e94b4767d83","x":-679,"y":120,"width":707,"height":960,"type":"text","text":"![[2.4 Decorator#Solution]]"}
+		{"id":"02ec3e94b4767d83","x":-679,"y":120,"width":707,"height":3953,"type":"text","text":"![[2.4 Decorator#Solution]]"},
+		{"id":"1905d1caf5e92a3d","x":-1820,"y":-277,"width":748,"height":267,"type":"text","text":"![[2.4 Decorator#Real-World Analogy]]            "}
 	],
 	"edges":[
 		{"id":"c80695a81ce53ea8","fromNode":"1147b92d32f81f3c","fromSide":"top","toNode":"dc368472d931559f","toSide":"bottom","label":"Khái niệm"},
 		{"id":"008db2c87cb57f09","fromNode":"1147b92d32f81f3c","fromSide":"right","toNode":"c6ba0b63db6a8bd5","toSide":"left","label":"Vấn đề"},
-		{"id":"d59eb50b28d811c5","fromNode":"1147b92d32f81f3c","fromSide":"bottom","toNode":"02ec3e94b4767d83","toSide":"top","label":"Solution"}
+		{"id":"d59eb50b28d811c5","fromNode":"1147b92d32f81f3c","fromSide":"bottom","toNode":"02ec3e94b4767d83","toSide":"top","label":"Giải pháp"},
+		{"id":"d7e024d7cb68379c","fromNode":"1147b92d32f81f3c","fromSide":"left","toNode":"1905d1caf5e92a3d","toSide":"right"}
 	]
 }
