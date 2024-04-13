@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#efebeb",
     "recentlyUsedIcons": [
+      "VcVsCodeSvgrepoCom",
       "CaCatalogueCatalogSvgrepoCom",
       "CaCanvasEaselSvgrepoCom",
       "FoFolderSvgrepoCom",
@@ -163,5 +164,6 @@
   "Projects/FINVIET/Eco Consumer/index.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator": "FoFolderSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md": "PaPaperTextTextsSvgrepoCom(1)",
-  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas": "CaCanvasEaselSvgrepoCom"
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas": "CaCanvasEaselSvgrepoCom",
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Example Code.md": "VcVsCodeSvgrepoCom"
 }

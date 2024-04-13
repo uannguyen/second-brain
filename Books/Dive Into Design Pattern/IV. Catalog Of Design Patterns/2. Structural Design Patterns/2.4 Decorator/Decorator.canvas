@@ -1,12 +1,14 @@
 {
 	"nodes":[
 		{"id":"1147b92d32f81f3c","type":"text","text":"Decorator pattern","x":-460,"y":-320,"width":267,"height":43,"color":"1"},
-		{"id":"dc368472d931559f","type":"text","text":"Đính kèm behaviors vào các objects\n![[2.4 Decorator#Khái niệm]]","x":-586,"y":-1420,"width":520,"height":723},
-		{"id":"6f3586970c063906","type":"text","text":"![[2.4 Decorator#Applicability]]","x":-2240,"y":-1280,"width":800,"height":760},
-		{"id":"c6ba0b63db6a8bd5","type":"text","text":"![[2.4 Decorator#Problem]]","x":1059,"y":-1420,"width":577,"height":1031},
-		{"id":"02ec3e94b4767d83","type":"text","text":"![[2.4 Decorator#Solution]]","x":706,"y":160,"width":707,"height":3953},
-		{"id":"d263319c932d23e9","type":"text","text":"![[2.4 Decorator#Pseudocode]]","x":-2280,"y":160,"width":880,"height":1573},
-		{"id":"1905d1caf5e92a3d","type":"text","text":"![[2.4 Decorator#Real-World Analogy]]            ","x":-700,"y":556,"width":748,"height":781}
+		{"id":"c6ba0b63db6a8bd5","type":"text","text":"![[2.4 Decorator#Problem]]","x":129,"y":-1329,"width":577,"height":1031},
+		{"id":"dc368472d931559f","type":"text","text":"Đính kèm behaviors vào các objects\n![[2.4 Decorator#Khái niệm]]","x":-586,"y":-1536,"width":520,"height":723},
+		{"id":"02ec3e94b4767d83","type":"text","text":"![[2.4 Decorator#Solution]]","x":418,"y":-80,"width":707,"height":3953},
+		{"id":"1905d1caf5e92a3d","type":"text","text":"![[2.4 Decorator#Real-World Analogy]]            ","x":-460,"y":320,"width":748,"height":781},
+		{"id":"d263319c932d23e9","type":"text","text":"![[2.4 Decorator#Pseudocode]]","x":-1600,"y":480,"width":880,"height":1573},
+		{"id":"6f3586970c063906","type":"text","text":"![[2.4 Decorator#Applicability]]","x":-2680,"y":100,"width":800,"height":760},
+		{"id":"c959c1ec40f05801","x":-2680,"y":-1760,"width":560,"height":1550,"type":"text","text":"![[2.4 Decorator#How to Implement]]"},
+		{"id":"f588b973583eae43","x":-1627,"y":-1590,"width":507,"height":605,"type":"text","text":"![[2.4 Decorator#Pros & Cons]]"}
 	],
 	"edges":[
 		{"id":"c80695a81ce53ea8","fromNode":"1147b92d32f81f3c","fromSide":"top","toNode":"dc368472d931559f","toSide":"bottom","label":"Khái niệm"},
@@ -14,6 +16,8 @@
 		{"id":"d59eb50b28d811c5","fromNode":"1147b92d32f81f3c","fromSide":"bottom","toNode":"02ec3e94b4767d83","toSide":"top","label":"Giải pháp"},
 		{"id":"739a2c924dc45b6a","fromNode":"1147b92d32f81f3c","fromSide":"bottom","toNode":"1905d1caf5e92a3d","toSide":"top","label":"Thực tế"},
 		{"id":"69b20c5b113e4ec2","fromNode":"1147b92d32f81f3c","fromSide":"left","toNode":"d263319c932d23e9","toSide":"top","label":"Mã giả"},
-		{"id":"2a2859561e79b645","fromNode":"1147b92d32f81f3c","fromSide":"left","toNode":"6f3586970c063906","toSide":"right","label":"\n\nỨng dụng"}
+		{"id":"2a2859561e79b645","fromNode":"1147b92d32f81f3c","fromSide":"left","toNode":"6f3586970c063906","toSide":"right","label":"\n\nỨng dụng"},
+		{"id":"9f795e285b71d77e","fromNode":"1147b92d32f81f3c","fromSide":"left","toNode":"c959c1ec40f05801","toSide":"right","label":"Thực hiện\n\n"},
+		{"id":"9bef076a0154ac66","fromNode":"1147b92d32f81f3c","fromSide":"top","toNode":"f588b973583eae43","toSide":"bottom","label":"Ưu nhược điểm"}
 	]
 }
