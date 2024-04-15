@@ -156,8 +156,6 @@
   "Books/Dive Into Design Pattern/Catalog.md": "CaCatalogueCatalogSvgrepoCom",
   "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md": "CaCanvasEaselSvgrepoCom",
-  "Projects/FINVIET/Eco Game/LuckyWheel/schema.md": "PaPaperTextTextsSvgrepoCom(1)",
-  "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.0 Base.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas": "CaCanvasEaselSvgrepoCom",
   "Projects/FINVIET/Eco Consumer/index.md": "PaPaperTextTextsSvgrepoCom(1)",
@@ -167,5 +165,7 @@
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Example Code.md": "VcVsCodeSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade": "FoFolderSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md": "PaPaperTextTextsSvgrepoCom(1)",
-  "Projects/FINVIET/Ecopay": "FoFolderSvgrepoCom"
+  "Projects/FINVIET/Ecopay": "FoFolderSvgrepoCom",
+  "Projects/FINVIET/Eco Game/LuckyWheel/Location.md": "PaPaperTextTextsSvgrepoCom(1)",
+  "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md": "PaPaperTextTextsSvgrepoCom(1)"
 }

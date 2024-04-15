@@ -26,8 +26,13 @@
             "id": "080d463652177c47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md"
+              }
             }
           },
           {
@@ -158,8 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "080d463652177c47",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Ecopay/index.md",
     "Projects/FINVIET/Common Noted.md",
@@ -193,13 +202,12 @@
     "Images/BOOKS/oop-96.png",
     "Images/BOOKS/Screenshot from 2024-04-12 13-26-43.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/schema.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Consumer/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/04_2024.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.2 Bridge.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas",
