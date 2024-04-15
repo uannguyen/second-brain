@@ -30,19 +30,24 @@
               "state": {
                 "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
                 "viewState": {
-                  "x": -258.93787812605456,
-                  "y": 966.9313017693354,
-                  "zoom": -0.637663641812582
+                  "x": 454.4840782664062,
+                  "y": 1022.6385101750232,
+                  "zoom": -1.037663641812582
                 }
               }
             }
           },
           {
-            "id": "d49cd32cb561f997",
+            "id": "82204fdea6a12e08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -123,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md"
+              }
             }
           },
           {
@@ -173,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d49cd32cb561f997",
+  "active": "82204fdea6a12e08",
   "lastOpenFiles": [
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
