@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Backend/evnspc.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Backend/evnspc.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Backend/evnspc.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
-    "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Backend/evnspc.md",
+    "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
