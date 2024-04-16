@@ -67,32 +67,19 @@
             "id": "ab96d173cdb06815",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab35831082e51733",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
                 "viewState": {
-                  "x": 3628.332976262618,
-                  "y": 1736.4734445894771,
-                  "zoom": -0.6376636418125815
+                  "x": 4328.377550687779,
+                  "y": 1705.947596096885,
+                  "zoom": -0.8000000000000002
                 }
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas"
               }
             }
           },
@@ -222,15 +209,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab35831082e51733",
+  "active": "ab96d173cdb06815",
   "lastOpenFiles": [
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/index.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/Example Code.md",
     "Knowledge/Markdown.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
@@ -266,7 +254,6 @@
     "Knowledge/Developer/Git/Basic Commands.md",
     "Knowledge/Developer/Internet/Internet.md",
     "Knowledge/Developer/JS/ForEach.md",
-    "Knowledge/Developer/Nestjs/Dependency Injection.md",
     "Images/BOOKS/oop-100.png",
     "Images/BOOKS/Screenshot from 2024-04-12 15-01-34.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
@@ -278,7 +265,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas",
     "Excalidraw",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
-    "Knowledge/English/Music",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas"
+    "Knowledge/English/Music"
   ]
 }
