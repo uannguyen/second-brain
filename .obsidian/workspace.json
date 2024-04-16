@@ -36,6 +36,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "23d29871595c6904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Markdown.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -84,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,8 +184,11 @@
   },
   "active": "b55f62572e5d2a93",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
+    "Knowledge/Markdown.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
+    "Images/BOOKS/oop-103.png",
+    "Images/BOOKS/Screenshot from 2024-04-16 13-26-02.png",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
     "Images/BOOKS/oop-102.png",
     "Images/BOOKS/Screenshot from 2024-04-16 11-01-53.png",
     "Images/BOOKS/oop-101.png",
@@ -212,9 +229,6 @@
     "Images/BOOKS/Screenshot from 2024-04-12 15-01-34.png",
     "Images/BOOKS/oop-99.png",
     "Images/BOOKS/Screenshot from 2024-04-12 14-29-05.png",
-    "Images/BOOKS/oop-98.png",
-    "Images/BOOKS/Screenshot from 2024-04-12 14-23-07.png",
-    "Projects/FINVIET/Eco Consumer/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
