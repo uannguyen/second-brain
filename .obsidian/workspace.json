@@ -23,8 +23,9 @@
             }
           },
           {
-            "id": "82204fdea6a12e08",
+            "id": "b55f62572e5d2a93",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,7 +33,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -166,8 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82204fdea6a12e08",
+  "active": "b55f62572e5d2a93",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
     "Images/BOOKS/oop-102.png",
     "Images/BOOKS/Screenshot from 2024-04-16 11-01-53.png",
     "Images/BOOKS/oop-101.png",
@@ -188,7 +192,6 @@
     "Projects/FINVIET/Ecopay/index.md",
     "Projects/FINVIET/Ecopay",
     "Noted Temporary.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
@@ -211,7 +214,6 @@
     "Images/BOOKS/Screenshot from 2024-04-12 14-29-05.png",
     "Images/BOOKS/oop-98.png",
     "Images/BOOKS/Screenshot from 2024-04-12 14-23-07.png",
-    "Images/BOOKS/oop-97.png",
     "Projects/FINVIET/Eco Consumer/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
