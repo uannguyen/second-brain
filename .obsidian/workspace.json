@@ -23,27 +23,12 @@
             }
           },
           {
-            "id": "080d463652177c47",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-                "viewState": {
-                  "x": 454.4840782664062,
-                  "y": 1022.6385101750232,
-                  "zoom": -1.037663641812582
-                }
-              }
-            }
-          },
-          {
             "id": "82204fdea6a12e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Location.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md"
               }
             }
           },
@@ -183,14 +168,23 @@
   },
   "active": "82204fdea6a12e08",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+    "Images/BOOKS/oop-102.png",
+    "Images/BOOKS/Screenshot from 2024-04-16 11-01-53.png",
+    "Images/BOOKS/oop-101.png",
+    "Images/BOOKS/Screenshot from 2024-04-16 10-15-59.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.2 Bridge",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter",
+    "Plan/Đọc sách.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
-    "Plan/Đọc sách.md",
     "Projects/FINVIET/Ecopay/index.md",
     "Projects/FINVIET/Ecopay",
     "Noted Temporary.md",
@@ -218,13 +212,10 @@
     "Images/BOOKS/oop-98.png",
     "Images/BOOKS/Screenshot from 2024-04-12 14-23-07.png",
     "Images/BOOKS/oop-97.png",
-    "Images/BOOKS/Screenshot from 2024-04-12 14-16-48.png",
-    "Images/BOOKS/oop-96.png",
-    "Images/BOOKS/Screenshot from 2024-04-12 13-26-43.png",
     "Projects/FINVIET/Eco Consumer/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
     "test.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas",
@@ -232,11 +223,6 @@
     "Excalidraw",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.3 Builder.canvas",
     "Knowledge/English/Music",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns",
-    "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/Untitled"
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Abstract Factory.canvas"
   ]
 }
