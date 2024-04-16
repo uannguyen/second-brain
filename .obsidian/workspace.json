@@ -67,12 +67,32 @@
             "id": "ab96d173cdb06815",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab35831082e51733",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+                "viewState": {
+                  "x": 3406.1481382588036,
+                  "y": 958.878818925172,
+                  "zoom": -0.23766364181258193
+                }
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas"
+              }
             }
           },
           {
@@ -199,13 +222,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab96d173cdb06815",
+  "active": "ab35831082e51733",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+    "Knowledge/Markdown.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/Example Code.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
     "Images/BOOKS/oop-104.png",
     "Images/BOOKS/Screenshot from 2024-04-16 14-16-50.png",
-    "Knowledge/Markdown.md",
     "Images/BOOKS/oop-103.png",
     "Images/BOOKS/Screenshot from 2024-04-16 13-26-02.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
@@ -220,11 +246,8 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.2 Bridge",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter",
     "Plan/Đọc sách.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Common Noted.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Ecopay/index.md",
     "Projects/FINVIET/Ecopay",
