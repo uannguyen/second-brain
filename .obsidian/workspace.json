@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,9 +84,9 @@
               "state": {
                 "file": "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
                 "viewState": {
-                  "x": 3191.039058969729,
-                  "y": 1272.025315785616,
-                  "zoom": -1.4376636418125819
+                  "x": 3628.332976262618,
+                  "y": 1736.4734445894771,
+                  "zoom": -0.6376636418125815
                 }
               }
             }
@@ -224,22 +224,24 @@
   },
   "active": "ab35831082e51733",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/Example Code.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
-    "Knowledge/Markdown.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+    "Projects/FINVIET/Eco Game/index.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Untitled.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/Example Code.md",
+    "Knowledge/Markdown.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
     "Images/BOOKS/oop-104.png",
     "Images/BOOKS/Screenshot from 2024-04-16 14-16-50.png",
     "Images/BOOKS/oop-103.png",
     "Images/BOOKS/Screenshot from 2024-04-16 13-26-02.png",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
     "Images/BOOKS/oop-102.png",
     "Images/BOOKS/Screenshot from 2024-04-16 11-01-53.png",
     "Images/BOOKS/oop-101.png",
     "Images/BOOKS/Screenshot from 2024-04-16 10-15-59.png",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite",
@@ -248,7 +250,6 @@
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Common Noted.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Ecopay/index.md",
     "Projects/FINVIET/Ecopay",
     "Noted Temporary.md",
