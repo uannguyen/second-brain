@@ -82,11 +82,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
                 "viewState": {
-                  "x": 423.6445232641446,
-                  "y": -221.61944440287155,
-                  "zoom": -0.6376636418125815
+                  "x": 4380,
+                  "y": 3140,
+                  "zoom": -2.6915249933333447
                 }
               }
             }
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas"
               }
             }
           },
@@ -235,16 +235,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b55f62572e5d2a93",
+  "active": "50c745cb5ef8141c",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
     "Knowledge/Markdown.md",
     "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/Example Code.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
