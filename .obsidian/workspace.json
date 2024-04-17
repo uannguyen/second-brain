@@ -71,10 +71,23 @@
               "state": {
                 "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
                 "viewState": {
-                  "x": 2702.977499522472,
-                  "y": 587.7376684184452,
-                  "zoom": -0.40000000000000013
+                  "x": 2694.3174016315265,
+                  "y": 5431.417303716517,
+                  "zoom": -0.04453661183931079
                 }
+              }
+            }
+          },
+          {
+            "id": "c0e76f2789c36258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -211,13 +224,13 @@
   },
   "active": "ab96d173cdb06815",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/Example Code.md",
     "Knowledge/Markdown.md",
