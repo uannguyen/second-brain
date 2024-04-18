@@ -1,4 +1,6 @@
 
+# Structure
+
 ```ts
 // Subsystem: Quản lý phim
 class MovieManager {
@@ -39,5 +41,59 @@ class TicketBookingFacade {
 const movieId = "12345";
 const bookingDetails = TicketBookingFacade.bookTicketForMovie(movieId);
 console.log(bookingDetails);
+
+```
+
+
+# Pseudocode
+
+```ts
+/**
+ These are some of the classes of a complex 3rd-party video
+ conversion framework. We don't control that code, therefore
+ can't simplify it
+*/
+class VideoFile {}
+class OggCompressionCodec {}
+class MPEG4CompressionCodec {}
+class CodecFactory {}
+class BitrateReader {}
+class AudioMixer {}
+
+/**
+ We create a facade class to hide the framework's complexity
+ behind a simple interface. It's a trade-off between
+ functionality and simplicity
+*/
+
+class VideoConverter {
+  convert(filename, format) {
+    const file = new VideoFile(filename);
+    let destinationCodec;
+
+    const sourceCodec = new CodecFactory.extract(file);
+
+    if (format == "mp4") destinationCodec = new MPEG4CompressionCodec();
+    else destinationCodec = new OggCompressionCodec();
+
+    const buffer = BitrateReader.read(filename, sourceCodec);
+
+    const result = BitrateReader.convert(buffer, destinationCodec);
+
+    result = new AudioMixer().fix(result);
+    return new File(result);
+  }
+}
+
+// Application classes don't depend on a billion classes
+// provided by the complex framework. Also, if you decide to
+// switch frameworks, you only need to rewrite the facade class.
+class Application {
+  main() {
+    const convertor = new VideoConverter();
+    const mp4 = convertor.convert("youtubevideo.ogg", "mp4");
+    mp4.save();
+  }
+}
 
 ```
