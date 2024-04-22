@@ -36,8 +36,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c2a93be546fca1c9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "test.canvas",
+                "viewState": {
+                  "x": -285.4038767042494,
+                  "y": -2562.785956088836,
+                  "zoom": -0.7549797036248495
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Đọc sách.md",
+                "file": "test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Đọc sách.md"
+                "file": "test.canvas"
               }
             }
           },
@@ -167,12 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31238bbe10df5aad",
+  "active": "c2a93be546fca1c9",
   "lastOpenFiles": [
+    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Untitled.md",
-    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/Example Code.md",
     "Knowledge/Markdown.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",

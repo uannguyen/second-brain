@@ -1,37 +1,15 @@
 {
 	"nodes":[
-		{"id":"2a1a6209ceb69ee3","x":-1645,"y":920,"width":695,"height":233,"type":"group","label":"Untitled group"},
-		{"id":"addb4d5ee3a5021c","type":"text","text":"Plane","x":-500,"y":170,"width":145,"height":60},
-		{"id":"178a9b577389c45e","type":"text","text":"GroundMail","x":60,"y":-100,"width":220,"height":60},
-		{"id":"b78fafd827433c3a","type":"text","text":"AirMail\n","x":-680,"y":-100,"width":150,"height":60},
-		{"id":"4d94e703f94096c3","type":"text","text":"Interface Mail \n- send()\n","x":-374,"y":-300,"width":294,"height":140,"color":"1"},
-		{"id":"1cb17b388d6ebb53","type":"text","text":"`<I>` Transport \n- deliver()","x":-374,"y":-1400,"width":254,"height":180},
-		{"id":"f6f18269abeb4415","type":"text","text":"`<Class>` Truck\n- deliver()\n=> v/c đường bộ","x":-849,"y":-1147,"width":409,"height":197},
-		{"id":"555ee3fec71f5308","type":"text","text":"`<Class>` Ship\n- deliver(): Sea\n=> v/c đường thủy","x":80,"y":-1147,"width":400,"height":217},
-		{"id":"d6282441e8ad1a58","type":"text","text":"`<Class>` RoadLogistics\n- createTransport(): Truck\n","x":-849,"y":-1800,"width":409,"height":149},
-		{"id":"1404c3ace2643e70","type":"text","text":"`<Class>` SeaLogistics\n- createTransport(): Ship","x":80,"y":-1800,"width":400,"height":149},
-		{"id":"7a5f96083bd3b473","type":"text","text":"`<AbstractClass | Interface` Logistics\n- `abstract` createTransport(): `Transport`\n\n- planDelivery()\n","x":-520,"y":-2280,"width":600,"height":300},
-		{"id":"78961706bc693696","type":"text","text":"Train","x":-42,"y":170,"width":145,"height":60},
-		{"id":"2f704d66b99ea41b","type":"text","text":"Truck","x":-282,"y":170,"width":145,"height":60},
-		{"id":"abb1150267a64f6d","type":"text","text":"Interface Transport","x":-374,"y":520,"width":294,"height":80,"color":"1"},
-		{"id":"cd0bb64a9d7b7954","type":"text","text":"c","x":-1220,"y":1073,"width":250,"height":60},
-		{"id":"24001ea9c0bf2937","type":"text","text":"y","x":-1625,"y":940,"width":250,"height":133}
+		{"id":"27dd0af85464d7af","x":-986,"y":-3180,"width":250,"height":60,"type":"text","text":"Tập Gym"},
+		{"id":"52317d77d94680bc","x":-986,"y":-2940,"width":250,"height":60,"type":"text","text":"Ăn sáng"},
+		{"id":"be61c5d71d5437b6","x":-986,"y":-2800,"width":250,"height":60,"type":"text","text":"Đi làm"},
+		{"id":"e5baa7e4da0779e9","x":-994,"y":-3060,"width":306,"height":60,"type":"text","text":"Chuân bị bữa sáng"},
+		{"id":"20ddd4d4a5016417","x":-986,"y":-2420,"width":250,"height":60,"type":"text","text":"Ăn tối"},
+		{"id":"824d624b46a93ae9","x":-994,"y":-2560,"width":250,"height":60,"type":"text","text":"Chuân bị bữa tối"},
+		{"id":"6ee04b1afff1b4b8","x":-986,"y":-2680,"width":250,"height":60,"type":"text","text":"Tập thể dục"},
+		{"id":"9fcd00952065c209","x":-986,"y":-2280,"width":268,"height":65,"type":"text","text":"Đi bộ công viên"},
+		{"id":"270fb5ba20acf18d","x":-994,"y":-2140,"width":250,"height":60,"type":"text","text":"Học lập trình"},
+		{"id":"b89c292cb77f44da","x":-994,"y":-2000,"width":250,"height":60,"type":"text","text":"Học tiếng anh"}
 	],
-	"edges":[
-		{"id":"0752b83556e29205","fromNode":"b78fafd827433c3a","fromSide":"bottom","toNode":"addb4d5ee3a5021c","toSide":"left","color":"2","label":"use"},
-		{"id":"d47775c3577d061b","fromNode":"178a9b577389c45e","fromSide":"bottom","toNode":"78961706bc693696","toSide":"right","color":"2","label":"use"},
-		{"id":"d35ddcc8efb2057c","fromNode":"178a9b577389c45e","fromSide":"bottom","toNode":"2f704d66b99ea41b","toSide":"top","color":"2","label":"use"},
-		{"id":"dcc996b3cf35b533","fromNode":"b78fafd827433c3a","fromSide":"top","toNode":"4d94e703f94096c3","toSide":"left","label":"implement"},
-		{"id":"c028f2fedeae4180","fromNode":"178a9b577389c45e","fromSide":"top","toNode":"4d94e703f94096c3","toSide":"right","label":"implement"},
-		{"id":"c21bc00e361593b9","fromNode":"addb4d5ee3a5021c","fromSide":"bottom","toNode":"abb1150267a64f6d","toSide":"top","label":"implement"},
-		{"id":"fbe6f42296541b5e","fromNode":"2f704d66b99ea41b","fromSide":"bottom","toNode":"abb1150267a64f6d","toSide":"top","label":"implement"},
-		{"id":"1a3e05c8dd1874d0","fromNode":"78961706bc693696","fromSide":"bottom","toNode":"abb1150267a64f6d","toSide":"top","label":"implement"},
-		{"id":"03bcdd9f8dff13df","fromNode":"f6f18269abeb4415","fromSide":"top","toNode":"1cb17b388d6ebb53","toSide":"left","label":"implement"},
-		{"id":"5925f482836a1869","fromNode":"555ee3fec71f5308","fromSide":"top","toNode":"1cb17b388d6ebb53","toSide":"right","label":"implement"},
-		{"id":"24dde1a5f5879774","fromNode":"d6282441e8ad1a58","fromSide":"top","toNode":"7a5f96083bd3b473","toSide":"left","label":"implement"},
-		{"id":"875f8943a298b946","fromNode":"1404c3ace2643e70","fromSide":"top","toNode":"7a5f96083bd3b473","toSide":"right","label":"implement\n"},
-		{"id":"42184e38ffe67d73","fromNode":"d6282441e8ad1a58","fromSide":"left","toNode":"f6f18269abeb4415","toSide":"left","label":"return"},
-		{"id":"a0265f4a963feb92","fromNode":"1404c3ace2643e70","fromSide":"right","toNode":"555ee3fec71f5308","toSide":"right","label":"return"},
-		{"id":"846b48c49ee70a2b","fromNode":"24001ea9c0bf2937","fromSide":"right","toNode":"cd0bb64a9d7b7954","toSide":"left"}
-	]
+	"edges":[]
 }
