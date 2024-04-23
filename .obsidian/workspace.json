@@ -64,9 +64,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d401438862d0f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Location.md"
               }
             }
           },
@@ -196,12 +209,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4034815ba88a003",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Images/BOOKS/oop-110.png",
     "Images/BOOKS/Screenshot from 2024-04-23 10-59-00.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Untitled.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Images/BOOKS/oop-109.png",
     "Images/BOOKS/Screenshot from 2024-04-23 10-05-49.png",
     "test.canvas",
@@ -211,7 +224,6 @@
     "Images/BOOKS/Screenshot from 2024-04-22 13-36-51.png",
     "Images/BOOKS/oop-106.png",
     "Images/BOOKS/Screenshot from 2024-04-22 13-26-19.png",
-    "Images/BOOKS/oop-105.png",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/Example Code.md",
