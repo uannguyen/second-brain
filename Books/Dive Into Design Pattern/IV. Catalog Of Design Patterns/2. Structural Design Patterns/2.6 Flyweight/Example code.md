@@ -68,7 +68,7 @@ game.createParticle('green', 'shrapnel_sprite', 40, 40);
 
 # Implement
 
-## Context Class
+## Behavior
 
 ```ts
 // Flyweight interface
@@ -105,7 +105,6 @@ class Context {
     // Moved behavior to Context class
     drawRectangle(x: number, y: number): void {
         // Use flyweight as data object, and perform the operation here
-        console.log(`Drawing a ${(<ConcreteRectangle>this.rectangle).color} rectangle at (${x}, ${y}) with width ${( <ConcreteRectangle>this.rectangle).width} and height ${( <ConcreteRectangle>this.rectangle).height}`);
     }
 }
 
@@ -113,5 +112,92 @@ class Context {
 const flyweight = new ConcreteRectangle(10, 20, 'blue');
 const context = new Context(flyweight);
 context.drawRectangle(100, 100); // Drawing a blue rectangle at (100, 100) with width 10 and height 20
+
+```
+
+
+# Pseudocode
+
+```ts
+// The flyweight class contains a portion of the state of a
+// tree. These fields store values that are unique for each
+// particular tree. For instance, you won't find here the tree
+// coordinates. But the texture and colors shared between many
+// trees are here. Since this data is usually BIG, you'd waste a
+// lot of memory by keeping it in each tree object. Instead, we
+// can extract texture, color and other repeating data into a
+// separate object which lots of individual tree objects can
+// reference.
+class TreeType {
+  name;
+  color;
+  texture;
+
+  constructor(name, color, texture) {
+    this.name = name;
+    this.color = color;
+    this.texture = texture;
+  }
+
+  draw(canvas, x, y) {
+    // 1. Create a bitmap of a given type, color & texture.
+    // 2. Draw the bitmap on the canvas at X and Y coords.
+  }
+}
+
+// Flyweight factory decides whether to re-use existing
+// flyweight or to create a new object.
+class TreeFactory {
+  static treeTypes: Record<string, TreeType> = {};
+
+  static getTreeType(name, color, texture) {
+    const key = `${name}_${color}_${texture}`;
+    let type = TreeFactory.treeTypes[key];
+
+    if (!type) {
+      type = new TreeType(name, color, texture);
+      TreeFactory.treeTypes[key] = type;
+    }
+    return type;
+  }
+}
+
+// The contextual object contains the extrinsic part of the tree
+// state. An application can create billions of these since they
+// are pretty small: just two integer coordinates and one
+// reference field.
+class Tree {
+  x;
+  y;
+  type: TreeType;
+  constructor(x, y, type) {
+    this.x = x;
+    this.y = y;
+    this.type = type;
+  }
+
+  draw(canvas) {
+    this.type.draw(canvas, this.x, this.y);
+  }
+}
+
+// The Tree and the Forest classes are the flyweight's clients.
+// You can merge them if you don't plan to develop the Tree
+// class any further.
+class Forest {
+  trees: Tree[] = [];
+
+  plantTree(x, y, name, color, texture) {
+    const type = TreeFactory.getTreeType(name, color, texture);
+    const tree = new Tree(x, y, type);
+    this.trees.push(tree);
+  }
+
+  draw(canvas) {
+    this.trees.forEach((tree) => {
+      tree.draw(canvas);
+    });
+  }
+}
 
 ```
