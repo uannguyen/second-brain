@@ -64,3 +64,54 @@ game.createParticle('blue', 'missile_sprite', 30, 30);
 game.createParticle('green', 'shrapnel_sprite', 40, 40);
 
 ```
+
+
+# Implement
+
+## Context Class
+
+```ts
+// Flyweight interface
+interface Rectangle {
+    draw(x: number, y: number): void;
+}
+
+// Concrete flyweight: Rectangle implementation
+class ConcreteRectangle implements Rectangle {
+    private width: number;
+    private height: number;
+    private color: string;
+
+    constructor(width: number, height: number, color: string) {
+        this.width = width;
+        this.height = height;
+        this.color = color;
+    }
+
+    // This method is removed from ConcreteRectangle
+    // draw(x: number, y: number): void {
+    //     console.log(`Drawing a ${this.color} rectangle at (${x}, ${y}) with width ${this.width} and height ${this.height}`);
+    // }
+}
+
+// Context class
+class Context {
+    private rectangle: Rectangle;
+
+    constructor(rectangle: Rectangle) {
+        this.rectangle = rectangle;
+    }
+
+    // Moved behavior to Context class
+    drawRectangle(x: number, y: number): void {
+        // Use flyweight as data object, and perform the operation here
+        console.log(`Drawing a ${(<ConcreteRectangle>this.rectangle).color} rectangle at (${x}, ${y}) with width ${( <ConcreteRectangle>this.rectangle).width} and height ${( <ConcreteRectangle>this.rectangle).height}`);
+    }
+}
+
+// Usage
+const flyweight = new ConcreteRectangle(10, 20, 'blue');
+const context = new Context(flyweight);
+context.drawRectangle(100, 100); // Drawing a blue rectangle at (100, 100) with width 10 and height 20
+
+```

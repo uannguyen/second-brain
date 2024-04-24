@@ -38,21 +38,6 @@
             }
           },
           {
-            "id": "c2a93be546fca1c9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "test.canvas",
-                "viewState": {
-                  "x": -285.4038767042494,
-                  "y": -2562.785956088836,
-                  "zoom": -0.7549797036248495
-                }
-              }
-            }
-          },
-          {
             "id": "54e2036bf087aaab",
             "type": "leaf",
             "state": {
@@ -77,6 +62,19 @@
                   "y": 3761.770226542118,
                   "zoom": -0.44304564439841454
                 }
+              }
+            }
+          },
+          {
+            "id": "0d3d1fa65f9e97c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -213,12 +211,12 @@
   },
   "active": "d4034815ba88a003",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Untitled.md",
+    "test.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
-    "test.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Untitled.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.md",
