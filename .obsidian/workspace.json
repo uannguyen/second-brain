@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md"
               }
             }
           },
@@ -211,17 +211,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d401438862d0f05",
+  "active": "d4034815ba88a003",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "test.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Untitled.md",
     "Projects/FINVIET/Eco Game/index.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Images/BOOKS/oop-110.png",
     "Images/BOOKS/Screenshot from 2024-04-23 10-59-00.png",
     "Images/BOOKS/oop-109.png",
@@ -239,7 +240,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite",
