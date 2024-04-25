@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "d4034815ba88a003",
+            "id": "d69ec3d350910f19",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "02d8d4ff3f6ea0fe",
+            "id": "3a354e404e574eee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Example code.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/Example Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md"
               }
             }
           },
@@ -181,10 +181,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4034815ba88a003",
+  "active": "d69ec3d350910f19",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Example code.md",
+    "Images/BOOKS/oop-113.png",
+    "Images/BOOKS/Screenshot from 2024-04-25 09-10-53.png",
+    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/Example Code.md",
+    "Images/BOOKS/oop-112.png",
+    "Images/BOOKS/Screenshot from 2024-04-25 08-49-58.png",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Example code.md",
     "Images/BOOKS/oop-111.png",
     "Images/BOOKS/Screenshot from 2024-04-24 21-32-53.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
@@ -202,10 +208,6 @@
     "Images/BOOKS/oop-109.png",
     "Images/BOOKS/Screenshot from 2024-04-23 10-05-49.png",
     "Images/BOOKS/oop-108.png",
-    "Images/BOOKS/Screenshot from 2024-04-22 14-27-39.png",
-    "Images/BOOKS/oop-107.png",
-    "Images/BOOKS/Screenshot from 2024-04-22 13-36-51.png",
-    "Plan/Đọc sách.md",
     "Knowledge/Markdown.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
@@ -229,7 +231,6 @@
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Stack.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Hash-Table.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Graph.md",
-    "Knowledge/Developer/Fundamentals/Data Structures/DS-Dictionary.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
