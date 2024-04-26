@@ -23,33 +23,16 @@
             }
           },
           {
-            "id": "d69ec3d350910f19",
+            "id": "29e42e6c0436ad90",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "84208f22b2568b37",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/Example Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -130,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md"
               }
             }
           },
@@ -183,25 +166,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d69ec3d350910f19",
+  "active": "29e42e6c0436ad90",
   "lastOpenFiles": [
+    "Images/BOOKS/oop-127.png",
+    "Images/BOOKS/oop-126.png",
+    "Images/BOOKS/oop-125.png",
+    "Images/BOOKS/oop-124.png",
+    "Images/BOOKS/oop-123.png",
+    "Images/BOOKS/oop-122.png",
+    "Images/BOOKS/oop-121.png",
+    "Images/BOOKS/oop-120.png",
+    "Images/BOOKS/oop-119.png.png",
+    "Images/BOOKS/oop-118.png",
+    "Images/BOOKS/Screenshot from 2024-04-26 14-39-15.png",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.0 Base.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
+    "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/3.1 Chain Of Responsibility.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/Untitled.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/Example Code.md",
     "Projects/FINVIET/Loyalty/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
     "Projects/FINVIET/Loyalty/test.canvas",
-    "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md",
-    "Images/BOOKS/oop-117.png",
-    "Images/BOOKS/Screenshot from 2024-04-25 10-48-24.png",
-    "Images/BOOKS/oop-116.png",
-    "Images/BOOKS/Screenshot from 2024-04-25 09-54-49.png",
-    "Images/BOOKS/oop-115.png",
-    "Images/BOOKS/Screenshot from 2024-04-25 09-48-14.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
-    "Images/BOOKS/oop-114.png",
-    "Images/BOOKS/Screenshot from 2024-04-25 09-17-29.png",
-    "Images/BOOKS/oop-113.png",
-    "Images/BOOKS/Screenshot from 2024-04-25 09-10-53.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Example code.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
@@ -217,28 +215,14 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.3 Composite",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.2 Bridge",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Ecopay/index.md",
-    "Projects/FINVIET/Ecopay",
     "Noted Temporary.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/2.4 Decorator.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Example Code.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Drawing 2024-04-13 15.39.27.excalidraw.md",
-    "Knowledge/Developer/Fundamentals/Algorithm/Base Concept.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas",
-    "Excalidraw",
-    "Knowledge/English/Music"
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas"
   ]
 }

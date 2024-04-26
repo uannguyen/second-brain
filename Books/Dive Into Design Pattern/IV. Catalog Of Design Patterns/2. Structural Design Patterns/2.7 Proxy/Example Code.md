@@ -167,3 +167,55 @@ class Application {
 }
 ```
 
+
+# Implement 
+
+```ts
+// Service Interface
+interface IService {
+    operation(): void;
+}
+
+// Real Service Class
+class RealService implements IService {
+    operation(): void {
+        console.log("RealService: Handling operation.");
+    }
+}
+
+// Proxy Class
+class Proxy implements IService {
+    private realService: RealService | null = null;
+
+    // Creation Method: Decide whether to return a proxy or a real service
+    static createService(useProxy: boolean): IService {
+        if (useProxy) {
+            return new Proxy();
+        } else {
+            return new RealService();
+        }
+    }
+
+    operation(): void {
+        // Lazy Initialization: Create the real service only when needed
+        if (!this.realService) {
+            console.log("Proxy: Lazy initializing RealService.");
+            this.realService = new RealService();
+        }
+        this.realService.operation();
+    }
+}
+
+// Client
+function clientCode(useProxy: boolean) {
+    const service = Proxy.createService(useProxy);
+    service.operation();
+}
+
+// Test
+console.log("Client: Using RealService:");
+clientCode(false);
+console.log("\nClient: Using Proxy:");
+clientCode(true);
+
+```
