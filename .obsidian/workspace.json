@@ -56,12 +56,14 @@
             "id": "e8f54e67fbca70a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Knowledge/Developer/JS/ForEach.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projects/FINVIET/Loyalty/test.canvas",
+                "viewState": {
+                  "x": -108.31594755639168,
+                  "y": -91.34621295619513,
+                  "zoom": 0.19999999999999996
+                }
               }
             }
           }
@@ -116,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 361.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -143,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/JS/ForEach.md",
+                "file": "Projects/FINVIET/Loyalty/test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/JS/ForEach.md"
+                "file": "Projects/FINVIET/Loyalty/test.canvas"
               }
             }
           },
@@ -196,8 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "e8f54e67fbca70a2",
   "lastOpenFiles": [
+    "Projects/FINVIET/Loyalty/index.md",
+    "Projects/FINVIET/Loyalty/test.canvas",
+    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/Example Code.md",
     "Images/BOOKS/oop-117.png",
@@ -211,7 +216,6 @@
     "Images/BOOKS/Screenshot from 2024-04-25 09-17-29.png",
     "Images/BOOKS/oop-113.png",
     "Images/BOOKS/Screenshot from 2024-04-25 09-10-53.png",
-    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Example code.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
@@ -244,13 +248,11 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Drawing 2024-04-13 15.39.27.excalidraw.md",
     "Knowledge/Developer/Fundamentals/Algorithm/Base Concept.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Stack.md",
-    "Knowledge/Developer/Fundamentals/Data Structures/DS-Hash-Table.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.4 Prototype.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.5 Singleton.canvas",
     "Excalidraw",
     "Knowledge/English/Music"
   ]
