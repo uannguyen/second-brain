@@ -56,14 +56,12 @@
             "id": "e8f54e67fbca70a2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Loyalty/test.canvas",
-                "viewState": {
-                  "x": -108.31594755639168,
-                  "y": -91.34621295619513,
-                  "zoom": 0.19999999999999996
-                }
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -145,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Loyalty/test.canvas",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Loyalty/test.canvas"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md"
               }
             }
           },
@@ -200,8 +198,9 @@
   },
   "active": "e8f54e67fbca70a2",
   "lastOpenFiles": [
-    "Projects/FINVIET/Loyalty/index.md",
     "Projects/FINVIET/Loyalty/test.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
+    "Projects/FINVIET/Loyalty/index.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/Example Code.md",
@@ -247,7 +246,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Drawing 2024-04-13 15.39.27.excalidraw.md",
     "Knowledge/Developer/Fundamentals/Algorithm/Base Concept.md",
-    "Knowledge/Developer/Fundamentals/Data Structures/DS-Stack.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
