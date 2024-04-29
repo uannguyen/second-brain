@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
+                "file": "Plan/Đọc sách.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md"
+                "file": "Plan/Đọc sách.md"
               }
             }
           },
@@ -179,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f954d4eb39e84818",
+  "active": "31238bbe10df5aad",
   "lastOpenFiles": [
-    "Knowledge/Markdown.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
+    "Knowledge/Markdown.md",
     "Images/BOOKS/oop-127.png",
     "Images/BOOKS/oop-126.png",
     "Images/BOOKS/oop-125.png",
