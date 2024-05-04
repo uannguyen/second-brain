@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Linux-Command.md",
+                "file": "Knowledge/Telegram Tips.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kill",
+                "query": "tele",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Linux-Command.md",
+                "file": "Knowledge/Telegram Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Linux-Command.md"
+                "file": "Knowledge/Telegram Tips.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "173178c9943d2e9b",
   "lastOpenFiles": [
+    "Knowledge/Linux-Command.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
     "Projects/FINVIET/Loyalty/revert expired coin.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/3.1 Chain Of Responsibility.md",
@@ -263,7 +264,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Ecopay/index.md",
-    "Noted Temporary.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
