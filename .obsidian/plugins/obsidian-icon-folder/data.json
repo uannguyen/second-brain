@@ -171,7 +171,6 @@
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Example code.md": "VcVsCodeSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/Example Code.md": "VcVsCodeSvgrepoCom",
   "Projects/FINVIET/Ecopay/index.md": "PaPaperTextTextsSvgrepoCom(1)",
-  "Projects/FINVIET/Loyalty/index.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Projects/FINVIET/Common Noted.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Projects/FINVIET/Loyalty/test.canvas": "CaCanvasEaselSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md": "PaPaperTextTextsSvgrepoCom(1)",
@@ -195,5 +194,6 @@
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy": "FoFolderSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method": "FoFolderSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor": "FoFolderSvgrepoCom",
-  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/Example Code.md": "VcVsCodeSvgrepoCom"
+  "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/Example Code.md": "VcVsCodeSvgrepoCom",
+  "Projects/FINVIET/Loyalty/revert expired coin.md": "PaPaperTextTextsSvgrepoCom(1)"
 }
