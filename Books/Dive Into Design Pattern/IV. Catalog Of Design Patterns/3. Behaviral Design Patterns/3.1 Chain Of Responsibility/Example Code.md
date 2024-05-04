@@ -107,3 +107,51 @@ app.createUI();
 app.onF1KeyPress();
 
 ```
+
+
+# Implement
+
+## Step 2
+
+```ts
+// Lớp cơ sở cho các xử lý viên
+class BaseHandler {
+    nextHandler: BaseHandler | null = null;
+
+    setNextHandler(handler: BaseHandler): void {
+        this.nextHandler = handler;
+    }
+
+    handleRequest(request: Request): void {
+        if (this.nextHandler !== null) {
+            this.nextHandler.handleRequest(request);
+        } else {
+            // Xử lý yêu cầu mặc định nếu không có xử lý viên tiếp theo
+            console.log("Yêu cầu không được xử lý.");
+        }
+    }
+}
+
+// Lớp cụ thể của xử lý viên
+class ConcreteHandler extends BaseHandler {
+    handleRequest(request: Request): void {
+        if (/* Kiểm tra xem xử lý viên này có thể xử lý yêu cầu không */) {
+            // Xử lý yêu cầu
+            console.log("Yêu cầu được xử lý bởi ConcreteHandler.");
+        } else {
+            // Chuyển tiếp yêu cầu đến xử lý viên tiếp theo
+            super.handleRequest(request);
+        }
+    }
+}
+
+// Sử dụng
+const handler1 = new ConcreteHandler();
+const handler2 = new ConcreteHandler();
+const handler3 = new ConcreteHandler();
+
+handler1.setNextHandler(handler2);
+handler2.setNextHandler(handler3);
+
+handler1.handleRequest(request);
+```

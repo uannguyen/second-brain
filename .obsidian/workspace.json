@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "c4828f51be10a9a4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/3.1 Chain Of Responsibility.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dcdc6dc8dd165262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/Example Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f954d4eb39e84818",
             "type": "leaf",
             "pinned": true,
@@ -49,22 +77,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c4828f51be10a9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/3.1 Chain Of Responsibility.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,8 +211,10 @@
   },
   "active": "c4828f51be10a9a4",
   "lastOpenFiles": [
+    "Projects/FINVIET/Loyalty/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/3.1 Chain Of Responsibility.md",
+    "Plan/Đọc sách.md",
     "Images/BOOKS/oop-136.png",
     "Images/BOOKS/Screenshot from 2024-05-03 14-56-11.png",
     "Images/BOOKS/oop-135.png",
@@ -209,10 +226,8 @@
     "Images/BOOKS/Screenshot from 2024-05-02 16-17-06.png",
     "Images/BOOKS/oop-132.png",
     "Projects/FINVIET/Loyalty/test.canvas",
-    "Projects/FINVIET/Loyalty/index.md",
     "Knowledge/Markdown.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
-    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.0 Base.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor",
