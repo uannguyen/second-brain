@@ -69,19 +69,17 @@
             "id": "43dcbae68cfe0a41",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Loyalty/test.canvas",
-                "viewState": {
-                  "x": -366.47866396757854,
-                  "y": 3625.4305285764767,
-                  "zoom": -0.5999999999999999
-                }
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md"
               }
             }
           },
@@ -211,28 +209,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c53da83061228976",
+  "active": "43dcbae68cfe0a41",
   "lastOpenFiles": [
+    "Projects/FINVIET/Loyalty/test.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
+    "Images/BOOKS/oop-144.png",
+    "Images/BOOKS/Screenshot from 2024-05-06 16-40-54.png",
+    "Images/BOOKS/oop-143.png",
+    "Images/BOOKS/Screenshot from 2024-05-06 16-34-27.png",
     "Images/BOOKS/oop-142.png",
     "Images/BOOKS/Screenshot from 2024-05-06 16-12-26.png",
     "Images/BOOKS/oop-141.png",
     "Images/BOOKS/Screenshot from 2024-05-06 15-38-44.png",
     "Images/BOOKS/oop-140.png",
     "Images/BOOKS/Screenshot from 2024-05-06 15-23-45.png",
-    "Projects/FINVIET/Loyalty/test.canvas",
     "Projects/FINVIET/Loyalty/revert expired coin.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
     "Knowledge/Markdown.md",
     "Knowledge/Telegram Tips.md",
     "Plan/Đọc sách.md",
-    "Images/BOOKS/oop-139.png",
-    "Images/BOOKS/Screenshot from 2024-05-05 19-58-52.png",
-    "Images/BOOKS/oop-138.png",
-    "Images/BOOKS/Screenshot from 2024-05-05 19-47-40.png",
     "Knowledge/Linux-Command.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/3.1 Chain Of Responsibility.md",
     "Projects/FINVIET/Common Noted.md",
-    "Images/BOOKS/oop-137.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.0 Base.md",
@@ -264,7 +262,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
