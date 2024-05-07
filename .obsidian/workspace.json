@@ -77,9 +77,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a508ea734d15ef2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
+                "viewState": {
+                  "x": 5699.636169346877,
+                  "y": 2676.239608937829,
+                  "zoom": -1.091524993333345
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas"
               }
             }
           },
@@ -209,14 +224,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c53da83061228976",
+  "active": "8a508ea734d15ef2",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
     "Images/BOOKS/oop-145.png",
     "Images/BOOKS/Screenshot from 2024-05-06 21-09-39.png",
     "Projects/FINVIET/Loyalty/revert expired coin.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md",
     "Projects/FINVIET/Loyalty/test.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
     "Images/BOOKS/oop-144.png",
     "Images/BOOKS/Screenshot from 2024-05-06 16-40-54.png",
     "Images/BOOKS/oop-143.png",
@@ -225,7 +241,6 @@
     "Images/BOOKS/Screenshot from 2024-05-06 16-12-26.png",
     "Images/BOOKS/oop-141.png",
     "Images/BOOKS/Screenshot from 2024-05-06 15-38-44.png",
-    "Images/BOOKS/oop-140.png",
     "Knowledge/Markdown.md",
     "Knowledge/Telegram Tips.md",
     "Plan/Đọc sách.md",
@@ -252,7 +267,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Example code.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.5 Facade/2.5 Facade.md",
     "test.canvas",
