@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md"
               }
             }
           },
@@ -209,10 +209,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43dcbae68cfe0a41",
+  "active": "c53da83061228976",
   "lastOpenFiles": [
-    "Projects/FINVIET/Loyalty/test.canvas",
+    "Images/BOOKS/oop-145.png",
+    "Images/BOOKS/Screenshot from 2024-05-06 21-09-39.png",
+    "Projects/FINVIET/Loyalty/revert expired coin.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md",
+    "Projects/FINVIET/Loyalty/test.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
     "Images/BOOKS/oop-144.png",
     "Images/BOOKS/Screenshot from 2024-05-06 16-40-54.png",
@@ -223,8 +226,6 @@
     "Images/BOOKS/oop-141.png",
     "Images/BOOKS/Screenshot from 2024-05-06 15-38-44.png",
     "Images/BOOKS/oop-140.png",
-    "Images/BOOKS/Screenshot from 2024-05-06 15-23-45.png",
-    "Projects/FINVIET/Loyalty/revert expired coin.md",
     "Knowledge/Markdown.md",
     "Knowledge/Telegram Tips.md",
     "Plan/Đọc sách.md",
