@@ -106,8 +106,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,15 +236,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "31238bbe10df5aad",
   "lastOpenFiles": [
+    "Knowledge/Developer/Docker/Overview.md",
+    "Plan/Đọc sách.md",
     "Knowledge/Developer/Docker/Reference",
     "Knowledge/Developer/Docker/Manuals",
     "Knowledge/Developer/Docker/Guides",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md",
-    "Plan/Đọc sách.md",
     "Knowledge/Developer/Telegram Tips.md",
-    "Knowledge/Developer/Docker/Overview.md",
     "Knowledge/Developer/Docker",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Knowledge/Developer/Linux-Command",
@@ -278,7 +277,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/2.7 Proxy.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.7 Proxy/Example Code.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
