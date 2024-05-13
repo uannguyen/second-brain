@@ -49,9 +49,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3a0e31bafde09285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Developer/JS/ForEach.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tele",
+                "query": "#for",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
+                "file": "Knowledge/Developer/JS/ForEach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md"
+                "file": "Knowledge/Developer/JS/ForEach.md"
               }
             }
           },
@@ -181,8 +195,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c53da83061228976",
+  "active": "3a0e31bafde09285",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
     "Projects/FINVIET/Loyalty/revert expired coin.md",
     "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
@@ -197,7 +212,6 @@
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Knowledge/Developer/Linux-Command",
     "Knowledge/Developer/Linux-Command/Commands.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Images/BOOKS/oop-145.png",
     "Images/BOOKS/Screenshot from 2024-05-06 21-09-39.png",
