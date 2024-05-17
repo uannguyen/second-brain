@@ -71,20 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/Example Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a76c09c841ae497d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Developer/Docker/Reference/Command.md",
+                "file": "Noted Temporary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#docker-rm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/Docker/Reference/Command.md",
+                "file": "Noted Temporary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/Docker/Reference/Command.md"
+                "file": "Noted Temporary.md"
               }
             }
           },
@@ -223,13 +209,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a76c09c841ae497d",
+  "active": "aeb000bc041aea1a",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/Example Code.md",
     "Knowledge/Developer/Docker/Reference/Command.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
     "Images/BOOKS/oop-151.png",
     "Images/BOOKS/Screenshot from 2024-05-15 15-50-53.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/Example Code.md",
     "test.canvas",
     "Knowledge/Developer/TS/Generic type.md",
     "Images/BOOKS/oop-150.png",
