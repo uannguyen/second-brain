@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Noted Temporary.md",
+                "file": "Knowledge/Developer/Git/Basic Commands.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Noted Temporary.md",
+                "file": "Knowledge/Developer/Git/Basic Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Noted Temporary.md"
+                "file": "Knowledge/Developer/Git/Basic Commands.md"
               }
             }
           },
@@ -211,6 +212,8 @@
   },
   "active": "aeb000bc041aea1a",
   "lastOpenFiles": [
+    "Noted Temporary.md",
+    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/Example Code.md",
     "Knowledge/Developer/Docker/Reference/Command.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
@@ -232,7 +235,6 @@
     "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Knowledge/Developer/Docker/Overview.md",
-    "Plan/Đọc sách.md",
     "Knowledge/Developer/Docker/Reference",
     "Knowledge/Developer/Docker/Manuals",
     "Knowledge/Developer/Docker/Guides",
@@ -261,7 +263,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/2.6 Flyweight.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.6 Flyweight/Example code.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
     "Projects/FINVIET/Eco Consumer/Untitled.canvas",
