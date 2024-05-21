@@ -39,12 +39,14 @@
             "id": "a5f256bf222591a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify V2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projects/FINVIET/Eco Consumer/Verify V2.canvas",
+                "viewState": {
+                  "x": -1,
+                  "y": 48.79999999999997,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify V2.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify V2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify V2.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify V2.canvas"
               }
             }
           },
@@ -181,6 +183,8 @@
   },
   "active": "a5f256bf222591a7",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Noti.md",
+    "Projects/FINVIET/Eco Consumer/Verify V2.canvas",
     "Projects/FINVIET/Eco Consumer/Verify V2.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
     "Projects/FINVIET/Eco Consumer/Verify V2",
@@ -227,14 +231,12 @@
     "Projects/FINVIET/Loyalty/test.canvas",
     "Knowledge/Developer/Markdown.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/3.1 Chain Of Responsibility.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
-    "Projects/FINVIET/Eco Consumer/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas"
   ]
