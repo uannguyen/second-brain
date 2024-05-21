@@ -41,11 +41,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify V2.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
                 "viewState": {
-                  "x": -1,
-                  "y": 48.79999999999997,
-                  "zoom": 0
+                  "x": -385,
+                  "y": -1346.490759753594,
+                  "zoom": -0.5815022060055168
                 }
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify V2.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify V2.canvas"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas"
               }
             }
           },
@@ -183,9 +183,10 @@
   },
   "active": "a5f256bf222591a7",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Step2.md",
+    "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
+    "Projects/FINVIET/Eco Consumer/Auto Payment.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
-    "Projects/FINVIET/Eco Consumer/Verify V2.canvas",
-    "Projects/FINVIET/Eco Consumer/Verify V2.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
     "Projects/FINVIET/Eco Consumer/Verify V2",
     "Projects/FINVIET/Common Noted.md",
@@ -229,8 +230,6 @@
     "Knowledge/Developer/Linux-Command/Commands.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Loyalty/test.canvas",
-    "Knowledge/Developer/Markdown.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/3.1 Chain Of Responsibility.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method",
