@@ -41,11 +41,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Backend/Forgot Password.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
                 "viewState": {
-                  "x": 1658,
-                  "y": -560,
-                  "zoom": -1.8269034346640856
+                  "x": -350.82005138897864,
+                  "y": 212.54888569704872,
+                  "zoom": -0.389150756999066
                 }
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Backend/Forgot Password.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Backend/Forgot Password.canvas"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "f2e6793fe2ebc7af",
   "lastOpenFiles": [
+    "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/index.md",
     "Projects/FINVIET/Backend/Forgot Password.md",
     "Knowledge/Developer/Markdown.md",
@@ -223,7 +224,6 @@
     "Projects/FINVIET/Loyalty/revert expired coin.md",
     "Books/Dive Into Design Pattern/I. Intro To OOP/Relations Between Objects.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Knowledge/Developer/Docker/Overview.md",
     "Knowledge/Developer/Docker/Reference",
     "Knowledge/Developer/Docker/Manuals",
     "Knowledge/Developer/Docker/Guides",
