@@ -28,30 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Developer/Markdown.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "f2e6793fe2ebc7af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
-                "viewState": {
-                  "x": -1003.6815329431533,
-                  "y": 2143.9710239241194,
-                  "zoom": -0.3891507569990662
-                }
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md"
               }
             }
           },
@@ -181,15 +166,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2e6793fe2ebc7af",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/Example Code.md",
+    "Plan/Đọc sách.md",
+    "References/index.md",
+    "Knowledge/Developer/Markdown.md",
+    "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/index.md",
     "Projects/FINVIET/Backend/Forgot Password.md",
-    "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Backend/noti.md",
     "Projects/FINVIET/Backend/evnspc.md",
-    "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Step2.md",
     "Projects/FINVIET/Eco Consumer/Auto Payment.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
@@ -205,8 +193,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Knowledge/Developer/Git/Basic Commands.md",
     "Noted Temporary.md",
-    "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/Example Code.md",
     "Knowledge/Developer/Docker/Reference/Command.md",
     "Images/BOOKS/oop-151.png",
     "Images/BOOKS/Screenshot from 2024-05-15 15-50-53.png",
@@ -237,7 +223,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas"
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas"
   ]
 }
