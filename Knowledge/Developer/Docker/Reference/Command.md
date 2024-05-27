@@ -32,6 +32,7 @@ docker build -t <image_name> .
 ```sh
 docker run -d -n <container_name> -p <expose_port>:<container_port> <image_name> 
 // -p => port
+// -n => container name
 ```
 
 # Truy cập container
