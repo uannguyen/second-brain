@@ -4,7 +4,10 @@
 # Stop Container
 
 ```
+// stop all
 docker stop $(docker ps -q)
+// stop one
+docker stop <container_id | container_name>
 ```
 
 # Remove container
