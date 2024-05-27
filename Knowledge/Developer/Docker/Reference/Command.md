@@ -23,6 +23,10 @@ docker rm -f $(docker ps -a -q)
 docker build -t <image_name> .
 ```
 
+
+- `-t` => Đặt tên và tag cho image của bạn (ví dụ: `your_image_name:latest`)
+- `-f <Dockerfile_name>` => Chỉ định file Dockerfile cụ thể (nếu file Dockerfile trùng tên thì khỏi cần)
+- `.` => Đường dẫn đến context build (trong trường hợp này là thư mục hiện tại)
 # Build container
 
 ```sh
