@@ -31,6 +31,7 @@ docker build -t <image_name> .
 
 ```sh
 docker run -d -n <container_name> -p <expose_port>:<container_port> <image_name> 
+// -d => detached mode(nếu không có thì khi run xong nhấn `Ctrl + C` là container sẽ dừng lại)
 // -p => port
 // -n => container name
 ```
@@ -48,3 +49,6 @@ docker exec -it <container_name> sh
 ```sh
 docker run -it <image_name> /bin/sh
 ```
+
+# Docker-compose
+
