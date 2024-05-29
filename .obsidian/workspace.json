@@ -26,12 +26,14 @@
             "id": "29e42e6c0436ad90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
+                "viewState": {
+                  "x": -1592.3302187205018,
+                  "y": 428.9829272188998,
+                  "zoom": -0.5999999999999999
+                }
               }
             }
           }
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas"
               }
             }
           },
@@ -168,6 +170,11 @@
   },
   "active": "29e42e6c0436ad90",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
     "Images/BOOKS/oop-152.png",
@@ -200,29 +207,23 @@
     "Noted Temporary.md",
     "Images/BOOKS/oop-151.png",
     "Images/BOOKS/Screenshot from 2024-05-15 15-50-53.png",
-    "Knowledge/Developer/TS/Generic type.md",
     "Images/BOOKS/oop-150.png",
     "Images/BOOKS/Screenshot from 2024-05-15 14-28-32.png",
     "Images/BOOKS/oop-149.png",
     "Images/BOOKS/Screenshot from 2024-05-15 14-14-46.png",
     "Images/BOOKS/oop-148.png",
     "Images/BOOKS/Screenshot from 2024-05-13 16-47-48.png",
-    "Knowledge/Developer/JS/ForEach.md",
-    "Projects/FINVIET/Loyalty/revert expired coin.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Knowledge/Developer/Docker/Reference",
     "Knowledge/Developer/Docker/Manuals",
     "Knowledge/Developer/Docker/Guides",
     "Knowledge/Developer/Docker",
     "Knowledge/Developer/Linux-Command",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Loyalty/test.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.1 Adapter/2.1.canvas"
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas"
   ]
 }
