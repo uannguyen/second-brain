@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md"
               }
             }
           },
@@ -183,8 +183,11 @@
   },
   "active": "6131eaea4f968cb4",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/Example Code.md",
+    "Images/BOOKS/oop-159.png",
+    "Images/BOOKS/Screenshot from 2024-05-31 15-33-33.png",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/Example Code.md",
     "Images/BOOKS/oop-158.png",
     "Images/BOOKS/Screenshot from 2024-05-31 09-05-12.png",
     "Images/BOOKS/oop-157.png",
@@ -195,7 +198,6 @@
     "Images/BOOKS/oop-155.png",
     "Images/BOOKS/Screenshot from 2024-05-29 22-36-26.png",
     "Images/BOOKS/oop-154.png",
-    "Images/BOOKS/Screenshot from 2024-05-29 22-20-07.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
@@ -225,7 +227,6 @@
     "test.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Knowledge/Developer/Git/Basic Commands.md",
-    "Noted Temporary.md",
     "Knowledge/Developer/Docker/Reference",
     "Knowledge/Developer/Docker/Manuals",
     "Knowledge/Developer/Docker/Guides",
