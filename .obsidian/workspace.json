@@ -26,14 +26,12 @@
             "id": "29e42e6c0436ad90",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
-                "viewState": {
-                  "x": -339.86694288622215,
-                  "y": -1079.1866816313586,
-                  "zoom": -1.6
-                }
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -115,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md"
               }
             }
           },
@@ -170,11 +168,18 @@
   },
   "active": "29e42e6c0436ad90",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+    "Projects/FINVIET/Eco Game/index.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
     "Verify method.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Noted Temporary.md",
     "Knowledge/Developer/Telegram Tips.md",
     "Images/BOOKS/oop-166.png",
@@ -205,13 +210,8 @@
     "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Backend/noti.md",
     "Projects/FINVIET/Backend/evnspc.md",
-    "Projects/FINVIET/Eco Consumer/Verify Step2.md",
-    "Projects/FINVIET/Eco Consumer/Auto Payment.md",
-    "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Eco Consumer/Verify V2",
-    "Excalidraw/Drawing 2024-05-21 08.42.05.excalidraw.md",
     "Excalidraw",
-    "Projects/FINVIET/Ecopay/index.md",
     "test.canvas",
     "Knowledge/Developer/Docker/Reference",
     "Knowledge/Developer/Docker/Manuals",
@@ -223,7 +223,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy",
-    "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas"
   ]
 }
