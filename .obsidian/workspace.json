@@ -39,12 +39,14 @@
             "id": "132bcfcfa643b7e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+                "viewState": {
+                  "x": 252.5570972484361,
+                  "y": 78.80436422991149,
+                  "zoom": -0.40000000000000013
+                }
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas"
               }
             }
           },
@@ -181,7 +183,11 @@
   },
   "active": "132bcfcfa643b7e6",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows Sms.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
@@ -220,8 +226,6 @@
     "References/index.md",
     "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
-    "Projects/FINVIET/Backend/index.md",
-    "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Eco Consumer/Verify V2",
     "Excalidraw",
     "test.canvas",
@@ -233,8 +237,6 @@
     "Projects/FINVIET/Loyalty/test.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Decorator.canvas"
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method"
   ]
 }
