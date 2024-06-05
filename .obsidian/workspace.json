@@ -26,19 +26,32 @@
             "id": "29e42e6c0436ad90",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "132bcfcfa643b7e6",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
                 "viewState": {
-                  "x": -674.843479905456,
-                  "y": 1719.9934219202921,
-                  "zoom": -0.17196798588866546
+                  "x": -643.1817531984168,
+                  "y": 1822.51682655667,
+                  "zoom": -0.5015786579972674
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,21 +181,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29e42e6c0436ad90",
+  "active": "132bcfcfa643b7e6",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Verify method.md",
+    "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
-    "Verify method.md",
     "Noted Temporary.md",
     "Knowledge/Developer/Telegram Tips.md",
     "Images/BOOKS/oop-166.png",
@@ -207,11 +221,9 @@
     "Knowledge/Developer/Docker/Reference/Command.md",
     "References/index.md",
     "Knowledge/Developer/Markdown.md",
-    "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/index.md",
     "Projects/FINVIET/Backend/Forgot Password.md",
-    "Projects/FINVIET/Backend/noti.md",
     "Projects/FINVIET/Eco Consumer/Verify V2",
     "Excalidraw",
     "test.canvas",
