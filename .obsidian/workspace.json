@@ -39,14 +39,12 @@
             "id": "132bcfcfa643b7e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
-                "viewState": {
-                  "x": -456.3011821733038,
-                  "y": -538.0403727177858,
-                  "zoom": -1.7015786579972674
-                }
+                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -128,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.canvas"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Step2.md"
               }
             }
           },
@@ -183,11 +181,11 @@
   },
   "active": "132bcfcfa643b7e6",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Verify method.md",
-    "Projects/FINVIET/Eco Consumer/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
     "Projects/FINVIET/Eco Game/index.md",
