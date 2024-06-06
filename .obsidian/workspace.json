@@ -39,14 +39,12 @@
             "id": "132bcfcfa643b7e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-fee.canvas",
-                "viewState": {
-                  "x": -240.18711728992912,
-                  "y": 530.1519652237598,
-                  "zoom": -0.40000000000000013
-                }
+                "file": "Knowledge/Developer/Telegram Tips.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -80,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "promotion",
+                "query": "tele",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-fee.canvas",
+                "file": "Knowledge/Developer/Telegram Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-fee.canvas"
+                "file": "Knowledge/Developer/Telegram Tips.md"
               }
             }
           },
@@ -183,8 +182,8 @@
   },
   "active": "132bcfcfa643b7e6",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-fee.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Flows Rule Fee.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Common Noted.md",
