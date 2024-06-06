@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "132bcfcfa643b7e6",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Web App/Shoppage note.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
@@ -192,7 +194,6 @@
     "Projects/FINVIET/Eco Consumer/Verify Method",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Verify method.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
     "Projects/FINVIET/Eco Game/index.md",
@@ -222,7 +223,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/Example Code.md",
-    "Projects/FINVIET/Common Noted.md",
     "Knowledge/Developer/Docker/Reference/Command.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Eco Consumer/Verify V2",
