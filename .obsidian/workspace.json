@@ -39,14 +39,12 @@
             "id": "132bcfcfa643b7e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-                "viewState": {
-                  "x": 245.22325114852163,
-                  "y": 1354.421011469322,
-                  "zoom": -1.4
-                }
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -128,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md"
               }
             }
           },
@@ -183,8 +181,8 @@
   },
   "active": "132bcfcfa643b7e6",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows Sms.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows Sms.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method",
     "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
