@@ -39,12 +39,14 @@
             "id": "132bcfcfa643b7e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-fee.canvas",
+                "viewState": {
+                  "x": -154.4191030896909,
+                  "y": -261.28887965782235,
+                  "zoom": -0.40000000000000013
+                }
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-fee.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-fee.canvas"
               }
             }
           },
@@ -181,10 +183,12 @@
   },
   "active": "132bcfcfa643b7e6",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-fee.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Flows Rule Fee.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Web App/Shoppage note.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Eco Consumer/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
@@ -222,8 +226,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/3.2 Command.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/Example Code.md",
-    "Knowledge/Developer/Docker/Reference/Command.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Eco Consumer/Verify V2",
     "Excalidraw",
@@ -234,7 +236,6 @@
     "Knowledge/Developer/Docker",
     "Knowledge/Developer/Linux-Command",
     "Projects/FINVIET/Loyalty/test.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/Untitled.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method"
   ]
