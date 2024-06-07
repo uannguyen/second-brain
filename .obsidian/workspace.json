@@ -51,6 +51,21 @@
             }
           },
           {
+            "id": "12b803864b31311f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+                "viewState": {
+                  "x": 345.18141326300264,
+                  "y": 1790.7685512698117,
+                  "zoom": -0.7153579490290077
+                }
+              }
+            }
+          },
+          {
             "id": "8bb7657ce7857840",
             "type": "leaf",
             "state": {
@@ -141,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas"
               }
             }
           },
@@ -194,13 +209,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bb7657ce7857840",
+  "active": "12b803864b31311f",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Knowledge/Developer/Telegram Tips.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
