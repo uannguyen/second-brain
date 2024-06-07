@@ -54,14 +54,12 @@
             "id": "12b803864b31311f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
-                "viewState": {
-                  "x": 1835.4018189363337,
-                  "y": 438.03721247722973,
-                  "zoom": -0.7153579490290077
-                }
+                "file": "Projects/FINVIET/Be-Rule/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -69,17 +67,19 @@
             "id": "8bb7657ce7857840",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+                "viewState": {
+                  "x": 1406.1531992327552,
+                  "y": 604.3482681462581,
+                  "zoom": -0.7153579490290077
+                }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,11 +209,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12b803864b31311f",
+  "active": "8bb7657ce7857840",
   "lastOpenFiles": [
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+    "Projects/FINVIET/Be-Rule/Untitled.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+    "Projects/FINVIET/Be-Rule",
     "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
@@ -253,7 +255,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.3 Iterator/3.3 Iterator.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Eco Consumer/Verify V2",
     "Excalidraw",
@@ -264,7 +265,6 @@
     "Knowledge/Developer/Docker",
     "Knowledge/Developer/Linux-Command",
     "Projects/FINVIET/Loyalty/test.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method"
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor"
   ]
 }
