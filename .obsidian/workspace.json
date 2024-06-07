@@ -34,9 +34,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c2a932606c7dbe8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+                "viewState": {
+                  "x": 206.5,
+                  "y": 1054.5,
+                  "zoom": -1.7464584515030075
+                }
+              }
+            }
+          },
+          {
+            "id": "8bb7657ce7857840",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+                "viewState": {
+                  "x": 608.9260780287475,
+                  "y": 1100.2143737166327,
+                  "zoom": -0.6814007760596373
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas"
               }
             }
           },
@@ -167,10 +196,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29e42e6c0436ad90",
+  "active": "8bb7657ce7857840",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Knowledge/Developer/Telegram Tips.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-fee.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Flows Rule Fee.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
@@ -178,12 +211,8 @@
     "Projects/FINVIET/Eco Web App/Shoppage note.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Eco Consumer/index.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows Sms.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method",
-    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Verify method.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
