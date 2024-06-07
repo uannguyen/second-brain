@@ -58,8 +58,8 @@
               "state": {
                 "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
                 "viewState": {
-                  "x": 345.18141326300264,
-                  "y": 1790.7685512698117,
+                  "x": 1835.4018189363337,
+                  "y": 438.03721247722973,
                   "zoom": -0.7153579490290077
                 }
               }
@@ -211,9 +211,9 @@
   },
   "active": "12b803864b31311f",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
