@@ -58,9 +58,9 @@
               "state": {
                 "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
                 "viewState": {
-                  "x": -90.6221000931476,
-                  "y": 2444.6016030770447,
-                  "zoom": -0.19698957374013137
+                  "x": 1267.7355775432663,
+                  "y": 709.5602499849763,
+                  "zoom": -1.3969895737401314
                 }
               }
             }
@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas"
               }
             }
           },
@@ -209,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "929a446e8aa29d7f",
+  "active": "e601fa17e4144e77",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Be-Rule/Untitled.md",
     "Knowledge/Developer/Markdown.md",
