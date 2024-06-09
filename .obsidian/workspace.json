@@ -39,14 +39,12 @@
             "id": "4c2a932606c7dbe8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-                "viewState": {
-                  "x": 206.5,
-                  "y": 1054.5,
-                  "zoom": -1.7464584515030075
-                }
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -79,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md"
               }
             }
           },
@@ -209,11 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e601fa17e4144e77",
+  "active": "4c2a932606c7dbe8",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Projects/FINVIET/Be-Rule/Untitled.md",
     "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
