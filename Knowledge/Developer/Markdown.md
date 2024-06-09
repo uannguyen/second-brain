@@ -127,10 +127,12 @@ hoặc
 # Table - Tạo bảng
 
 ```
- | Syntax | Description |  
- | ----------- | ----------- |  
- | Header | Title |  
- | Paragraph | Text |
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 ```
 
 

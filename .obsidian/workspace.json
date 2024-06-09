@@ -54,6 +54,21 @@
             "id": "e601fa17e4144e77",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+                "viewState": {
+                  "x": -90.6221000931476,
+                  "y": 2444.6016030770447,
+                  "zoom": -0.19698957374013137
+                }
+              }
+            }
+          },
+          {
+            "id": "929a446e8aa29d7f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
@@ -62,37 +77,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8bb7657ce7857840",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
-                "viewState": {
-                  "x": 1406.1531992327552,
-                  "y": 787.5832522744797,
-                  "zoom": -0.7153579490290077
-                }
-              }
-            }
-          },
-          {
-            "id": "12b803864b31311f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Be-Rule/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tele",
+                "query": "mark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,14 +209,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e601fa17e4144e77",
+  "active": "929a446e8aa29d7f",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
-    "Projects/FINVIET/Be-Rule/Untitled.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+    "Projects/FINVIET/Be-Rule/Untitled.md",
+    "Knowledge/Developer/Markdown.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Be-Rule",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
@@ -265,9 +253,7 @@
     "Images/BOOKS/oop-162.png",
     "Images/BOOKS/Screenshot from 2024-06-02 21-55-41.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/Example Code.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Eco Consumer/Verify V2",
