@@ -67,14 +67,12 @@
             "id": "929a446e8aa29d7f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-                "viewState": {
-                  "x": -132.0446830022143,
-                  "y": 168.94986209335943,
-                  "zoom": -0.789150756999066
-                }
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -156,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
               }
             }
           },
@@ -209,13 +207,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "929a446e8aa29d7f",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
