@@ -67,14 +67,12 @@
             "id": "929a446e8aa29d7f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
-                "viewState": {
-                  "x": 922,
-                  "y": 750,
-                  "zoom": -2.0938960807760276
-                }
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -108,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mark",
+                "query": "kill",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +123,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas"
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md"
               }
             }
           },
@@ -211,8 +210,8 @@
   },
   "active": "929a446e8aa29d7f",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
