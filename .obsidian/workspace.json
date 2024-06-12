@@ -67,12 +67,14 @@
             "id": "929a446e8aa29d7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+                "viewState": {
+                  "x": 922,
+                  "y": 750,
+                  "zoom": -2.0938960807760276
+                }
               }
             }
           }
@@ -154,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas"
               }
             }
           },
@@ -209,12 +211,12 @@
   },
   "active": "929a446e8aa29d7f",
   "lastOpenFiles": [
-    "Plan/Đọc sách.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+    "Plan/Đọc sách.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
