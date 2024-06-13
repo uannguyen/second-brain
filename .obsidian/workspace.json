@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
+                "file": "Projects/FINVIET/Common Noted.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
+                "file": "Projects/FINVIET/Common Noted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md"
+                "file": "Projects/FINVIET/Common Noted.md"
               }
             }
           },
@@ -210,15 +209,16 @@
   },
   "active": "929a446e8aa29d7f",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
