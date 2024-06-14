@@ -67,12 +67,14 @@
             "id": "929a446e8aa29d7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+                "viewState": {
+                  "x": 34.5,
+                  "y": -190.5,
+                  "zoom": -1.189150756999066
+                }
               }
             }
           }
@@ -154,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas"
               }
             }
           },
@@ -207,8 +209,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "929a446e8aa29d7f",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
+    "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
@@ -228,7 +231,6 @@
     "Projects/FINVIET/Be-Rule",
     "Knowledge/Developer/Telegram Tips.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Flows Rule Fee.md",
-    "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Web App/Shoppage note.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Eco Consumer/index.md",
