@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 347.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -181,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29e42e6c0436ad90",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
