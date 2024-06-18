@@ -39,12 +39,14 @@
             "id": "4c2a932606c7dbe8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+                "viewState": {
+                  "x": -325.3459496166751,
+                  "y": 552.5346569057469,
+                  "zoom": -0.389150756999066
+                }
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas"
               }
             }
           },
@@ -181,9 +183,9 @@
   },
   "active": "4c2a932606c7dbe8",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns/Introduce about Design pattern.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Backend/evnspc.md",
