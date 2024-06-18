@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "file": "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns/Introduce about Design pattern.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,14 +179,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29e42e6c0436ad90",
+  "active": "4c2a932606c7dbe8",
   "lastOpenFiles": [
-    "Plan/Đọc sách.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
+    "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns/Introduce about Design pattern.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+    "Plan/Đọc sách.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Be-Rule/Untitled.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
@@ -213,7 +214,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
-    "Noted Temporary.md",
     "Images/BOOKS/oop-166.png",
     "Images/BOOKS/Screenshot from 2024-06-03 09-55-39.png",
     "Images/BOOKS/oop-165.png",
