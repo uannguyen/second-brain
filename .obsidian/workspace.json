@@ -23,7 +23,20 @@
             }
           },
           {
-            "id": "4c2a932606c7dbe8",
+            "id": "b2798cdcec734a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Developer/Markdown.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b402844a1a14774",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,14 +179,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c2a932606c7dbe8",
+  "active": "1b402844a1a14774",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns/Introduce about Design pattern.md",
+    "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
+    "Plan/Đọc sách.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Heap.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Linked-List.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Graph.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Hash-Table.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Dictionary.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Array.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/Base.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md",
+    "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns/Introduce about Design pattern.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
-    "Plan/Đọc sách.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Be-Rule/Untitled.md",
     "Projects/FINVIET/Common Noted.md",
@@ -185,21 +207,13 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-    "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
     "Projects/FINVIET/Be-Rule",
     "Knowledge/Developer/Telegram Tips.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Flows Rule Fee.md",
     "Projects/FINVIET/Eco Web App/Shoppage note.md",
-    "Projects/FINVIET/Eco Consumer/Noti.md",
-    "Projects/FINVIET/Eco Consumer/index.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows Sms.md",
     "Projects/FINVIET/Eco Consumer/Verify Method",
-    "Verify method.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Feature - Đổi lượt quay.md",
-    "Projects/FINVIET/Eco Game/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Images/BOOKS/oop-166.png",
     "Images/BOOKS/Screenshot from 2024-06-03 09-55-39.png",
     "Images/BOOKS/oop-165.png",
