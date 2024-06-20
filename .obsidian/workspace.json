@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Common Noted.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
               }
             }
           },
@@ -179,8 +179,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b402844a1a14774",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
+    "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
@@ -198,7 +199,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Be-Rule/Untitled.md",
-    "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
