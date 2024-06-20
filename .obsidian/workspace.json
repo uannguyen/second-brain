@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "file": "Projects/FINVIET/Common Noted.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "file": "Projects/FINVIET/Common Noted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
+                "file": "Projects/FINVIET/Common Noted.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "1b402844a1a14774",
   "lastOpenFiles": [
-    "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+    "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Plan/Đọc sách.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Heap.md",
