@@ -47,9 +47,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "285d64fde1f46a68",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+                "viewState": {
+                  "x": 206.5,
+                  "y": 1054.5,
+                  "zoom": -1.7464584515030075
+                }
+              }
+            }
+          },
+          {
+            "id": "102fb8ed96555159",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+                "viewState": {
+                  "x": 461.28811561235784,
+                  "y": 458.89814119552636,
+                  "zoom": -0.5464584515030075
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas"
               }
             }
           },
@@ -179,11 +209,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b402844a1a14774",
+  "active": "102fb8ed96555159",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Common Noted.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Heap.md",
