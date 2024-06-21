@@ -56,15 +56,15 @@
               "state": {
                 "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
                 "viewState": {
-                  "x": 461.28811561235784,
-                  "y": 458.89814119552636,
+                  "x": 884.8319686992871,
+                  "y": 1713.4642439599136,
                   "zoom": -0.5464584515030075
                 }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas"
               }
             }
           },
@@ -194,10 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b402844a1a14774",
+  "active": "102fb8ed96555159",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Common Noted.md",
     "Knowledge/Developer/Markdown.md",
