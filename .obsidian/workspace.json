@@ -49,21 +49,6 @@
             }
           },
           {
-            "id": "285d64fde1f46a68",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-                "viewState": {
-                  "x": 206.5,
-                  "y": 1054.5,
-                  "zoom": -1.7464584515030075
-                }
-              }
-            }
-          },
-          {
             "id": "102fb8ed96555159",
             "type": "leaf",
             "state": {
@@ -79,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
               }
             }
           },
@@ -209,8 +194,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "102fb8ed96555159",
+  "active": "1b402844a1a14774",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Common Noted.md",
@@ -236,12 +222,10 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
     "Projects/FINVIET/Be-Rule",
     "Knowledge/Developer/Telegram Tips.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Flows Rule Fee.md",
-    "Projects/FINVIET/Eco Web App/Shoppage note.md",
     "Projects/FINVIET/Eco Consumer/Verify Method",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Images/BOOKS/oop-166.png",
