@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Sync Trans.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,9 +62,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "9f6b17b6f1a8b0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan/Kế hoạch cá nhân.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Sync Trans.md",
+                "file": "Plan/Kế hoạch cá nhân.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Sync Trans.md"
+                "file": "Plan/Kế hoạch cá nhân.md"
               }
             }
           },
@@ -194,12 +207,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b402844a1a14774",
+  "active": "9f6b17b6f1a8b0b6",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-    "Projects/FINVIET/Eco Consumer/Sync Trans.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
+    "Projects/FINVIET/Eco Consumer/Sync Trans.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Common Noted.md",
     "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
@@ -222,11 +239,7 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Docs.md",
     "Projects/FINVIET/Be-Rule",
-    "Knowledge/Developer/Telegram Tips.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Flows Rule Fee.md",
     "Projects/FINVIET/Eco Consumer/Verify Method",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Images/BOOKS/oop-166.png",
