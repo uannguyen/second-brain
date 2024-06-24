@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "1b402844a1a14774",
+            "id": "e0aac1ecc4c27fb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,24 +52,9 @@
             "id": "102fb8ed96555159",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-                "viewState": {
-                  "x": 884.8319686992871,
-                  "y": 1713.4642439599136,
-                  "zoom": -0.5464584515030075
-                }
-              }
-            }
-          },
-          {
-            "id": "9f6b17b6f1a8b0b6",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan/Kế hoạch cá nhân.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Kế hoạch cá nhân.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Kế hoạch cá nhân.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md"
               }
             }
           },
@@ -207,19 +192,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f6b17b6f1a8b0b6",
+  "active": "102fb8ed96555159",
   "lastOpenFiles": [
-    "Plan/Đọc sách.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+    "Knowledge/Developer/Markdown.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
+    "Projects/FINVIET/Eco Consumer/Sync Trans.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
+    "Plan/Kế hoạch cá nhân.md",
+    "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
-    "Projects/FINVIET/Eco Consumer/Sync Trans.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Common Noted.md",
-    "Knowledge/Developer/Markdown.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Heap.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Linked-List.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Graph.md",
@@ -236,9 +222,7 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Setup.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Location.md",
     "Projects/FINVIET/Be-Rule",
     "Projects/FINVIET/Eco Consumer/Verify Method",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
