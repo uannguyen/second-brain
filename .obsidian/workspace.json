@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
               }
             }
           },
@@ -207,13 +207,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49a00295a2bcabd5",
+  "active": "e0aac1ecc4c27fb8",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
     "Plan/Kế hoạch cá nhân.md",
     "Plan/Đọc sách.md",
