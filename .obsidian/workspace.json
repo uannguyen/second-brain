@@ -60,9 +60,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49a00295a2bcabd5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
+                "viewState": {
+                  "x": 805.5953595343375,
+                  "y": 1643.5326271571253,
+                  "zoom": -0.5464584515030075
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas"
               }
             }
           },
@@ -192,11 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "102fb8ed96555159",
+  "active": "49a00295a2bcabd5",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Knowledge/Developer/Markdown.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
