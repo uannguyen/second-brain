@@ -49,6 +49,21 @@
             }
           },
           {
+            "id": "aa4c9ad85902e126",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+                "viewState": {
+                  "x": -50.0636449414184,
+                  "y": 183.19967412536337,
+                  "zoom": -0.789150756999066
+                }
+              }
+            }
+          },
+          {
             "id": "102fb8ed96555159",
             "type": "leaf",
             "state": {
@@ -77,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas"
               }
             }
           },
@@ -207,11 +222,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0aac1ecc4c27fb8",
+  "active": "aa4c9ad85902e126",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
