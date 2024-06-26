@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
               }
             }
           },
@@ -207,18 +207,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "102fb8ed96555159",
+  "active": "e0aac1ecc4c27fb8",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
     "Images/BOOKS/oop-168.png",
     "Images/BOOKS/oop168.png",
     "Images/BOOKS/Screenshot from 2024-06-25 14-58-41.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
     "Images/BOOKS/oop-167.png",
     "Images/BOOKS/Screenshot from 2024-06-25 14-43-02.png",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
@@ -251,7 +251,6 @@
     "Images/BOOKS/oop-165.png",
     "Images/BOOKS/Screenshot from 2024-06-03 09-30-06.png",
     "Images/BOOKS/oop-164.png",
-    "Images/BOOKS/Screenshot from 2024-06-03 09-21-13.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
