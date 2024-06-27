@@ -64,12 +64,25 @@
             }
           },
           {
-            "id": "102fb8ed96555159",
+            "id": "7f9b495adfc66a55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "102fb8ed96555159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -207,10 +220,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "102fb8ed96555159",
+  "active": "7f9b495adfc66a55",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Images/BOOKS/oop-173.png",
     "Images/BOOKS/Screenshot from 2024-06-27 13-13-08.png",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
@@ -222,12 +237,10 @@
     "Images/BOOKS/ôp-170.png",
     "Images/BOOKS/Screenshot from 2024-06-27 10-19-52.png",
     "Images/BOOKS/oop-169.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Knowledge/Developer/Markdown.md",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
     "Plan/Kế hoạch cá nhân.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
