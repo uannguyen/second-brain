@@ -60,9 +60,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3198357ff1fd4e41",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+                "viewState": {
+                  "x": 202.84731943528448,
+                  "y": -1150.5673085033727,
+                  "zoom": -0.7753036984519225
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas"
               }
             }
           },
@@ -192,13 +207,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa4c9ad85902e126",
+  "active": "3198357ff1fd4e41",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Images/BOOKS/oop-177.png",
     "Images/BOOKS/oop-178.png",
     "Images/BOOKS/Screenshot from 2024-07-01 08-51-24.png",
     "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Images/BOOKS/oopp-177.png",
     "Images/BOOKS/Screenshot from 2024-06-28 14-49-07.png",
     "Images/BOOKS/oop-176.png",
@@ -206,7 +221,6 @@
     "Images/BOOKS/oop-175.png",
     "Images/BOOKS/Screenshot from 2024-06-28 08-54-08.png",
     "Images/BOOKS/oop-174.png",
-    "Images/BOOKS/Screenshot from 2024-06-28 08-43-27.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/Example Code.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
