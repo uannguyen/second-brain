@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Đọc sách.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Đọc sách.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md"
               }
             }
           },
@@ -191,10 +192,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31238bbe10df5aad",
+  "active": "aa4c9ad85902e126",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
+    "Images/BOOKS/oop-177.png",
+    "Images/BOOKS/oop-178.png",
+    "Images/BOOKS/Screenshot from 2024-07-01 08-51-24.png",
     "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Images/BOOKS/oopp-177.png",
     "Images/BOOKS/Screenshot from 2024-06-28 14-49-07.png",
     "Images/BOOKS/oop-176.png",
@@ -208,8 +212,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
-    "Images/BOOKS/oop-173.png",
-    "Images/BOOKS/Screenshot from 2024-06-27 13-13-08.png",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
@@ -230,7 +232,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Be-Rule/Untitled.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Be-Rule",
