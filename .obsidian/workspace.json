@@ -80,8 +80,15 @@
             "id": "753a28f0426352de",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+                "viewState": {
+                  "x": -89.96240702125522,
+                  "y": 209.97515644146262,
+                  "zoom": -0.789150756999066
+                }
+              }
             }
           }
         ],
@@ -162,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas"
+              }
             }
           },
           {
