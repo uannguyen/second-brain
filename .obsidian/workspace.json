@@ -80,15 +80,8 @@
             "id": "753a28f0426352de",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-                "viewState": {
-                  "x": 34.5,
-                  "y": 572.9058726899384,
-                  "zoom": -1.189150756999066
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -169,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -224,7 +214,12 @@
   },
   "active": "753a28f0426352de",
   "lastOpenFiles": [
+    "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+    "Knowledge/Developer/Fundamentals/Principles/DRY Principle.md",
+    "Knowledge/Developer/Fundamentals/Principles/KISS Principle.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/3. Liskov Substitution Principle.md",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Images/BOOKS/oop-177.png",
     "Images/BOOKS/oop-178.png",
@@ -238,7 +233,6 @@
     "Images/BOOKS/Screenshot from 2024-06-28 08-54-08.png",
     "Images/BOOKS/oop-174.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/Example Code.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
@@ -258,10 +252,6 @@
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Array.md",
     "Knowledge/Developer/Fundamentals/Data Structures/Base.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.4 Mediator/3.4 Mediator.md",
-    "Books/Dive Into Design Pattern/II. Intro To Desiign Patterns/Introduce about Design pattern.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
-    "Projects/FINVIET/Backend/evnspc.md",
-    "Projects/FINVIET/Be-Rule/Untitled.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Be-Rule",
