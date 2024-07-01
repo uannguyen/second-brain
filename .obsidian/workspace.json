@@ -75,9 +75,24 @@
                 }
               }
             }
+          },
+          {
+            "id": "753a28f0426352de",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+                "viewState": {
+                  "x": 34.5,
+                  "y": 572.9058726899384,
+                  "zoom": -1.189150756999066
+                }
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas"
               }
             }
           },
@@ -207,8 +222,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3198357ff1fd4e41",
+  "active": "753a28f0426352de",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Images/BOOKS/oop-177.png",
     "Images/BOOKS/oop-178.png",
@@ -252,7 +268,6 @@
     "Projects/FINVIET/Eco Consumer/Verify Method",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Eco Consumer/Verify V2",
     "Excalidraw",
