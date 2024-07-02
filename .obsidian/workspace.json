@@ -80,14 +80,12 @@
             "id": "753a28f0426352de",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-                "viewState": {
-                  "x": -186.73359576023097,
-                  "y": 241.08018139327652,
-                  "zoom": -0.789150756999066
-                }
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -138,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas"
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md"
               }
             }
           },
@@ -224,12 +223,12 @@
   },
   "active": "753a28f0426352de",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Knowledge/Developer/Fundamentals/Principles/DRY Principle.md",
     "Knowledge/Developer/Fundamentals/Principles/KISS Principle.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/3. Liskov Substitution Principle.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Images/BOOKS/oop-177.png",
     "Images/BOOKS/oop-178.png",
