@@ -52,14 +52,12 @@
             "id": "aa4c9ad85902e126",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-                "viewState": {
-                  "x": 127.41614461330866,
-                  "y": 229.78065436043727,
-                  "zoom": -0.789150756999066
-                }
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -121,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kill",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas"
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md"
               }
             }
           },
@@ -224,10 +223,10 @@
   },
   "active": "aa4c9ad85902e126",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Knowledge/Developer/Fundamentals/Principles/DRY Principle.md",
     "Knowledge/Developer/Fundamentals/Principles/KISS Principle.md",
