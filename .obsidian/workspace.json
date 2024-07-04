@@ -49,19 +49,6 @@
             }
           },
           {
-            "id": "aa4c9ad85902e126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3198357ff1fd4e41",
             "type": "leaf",
             "state": {
@@ -90,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md"
+                "file": "Projects/FINVIET/Eco Consumer/Verify Method/index.md"
               }
             }
           },
@@ -221,11 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa4c9ad85902e126",
+  "active": "e0aac1ecc4c27fb8",
   "lastOpenFiles": [
+    "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
-    "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Knowledge/Developer/Fundamentals/Principles/DRY Principle.md",
