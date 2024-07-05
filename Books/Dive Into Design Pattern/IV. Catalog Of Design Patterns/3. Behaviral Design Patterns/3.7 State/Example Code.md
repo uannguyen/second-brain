@@ -2,118 +2,152 @@
 # Pseudocode
 
 ```ts
-// Giao diện subscriber.
-interface EventListener {
-  update(data: any): void;
-}
+// The AudioPlayer class acts as a context. It also maintains a
+// reference to an instance of one of the state classes that
+// represents the current state of the audio player
+class AudioPlayer {
+  state: State;
+  UI;
+  volume;
+  playlist;
+  currentSong;
 
-// Lớp base publisher bao gồm mã quản lý đăng ký và các phương thức thông báo.
-class EventManager {
-  private listeners: { eventType: string; listener: EventListener }[] = [];
-
-  subscribe(eventType: string, listener: EventListener) {
-    this.listeners.push({ eventType, listener });
+  constructor() {
+    this.state = new ReadyState(this);
+    // Context delegates handling user input to a state
+    // object. Naturally, the outcome depends on what state
+    // is currently active, since each state can handle the
+    // input differently
+    this.UI = new UserInterface();
+    this.UI.lockButton.onClick(this.clickLock);
+    this.UI.playButton.onClick(this.clickPlay);
+    this.UI.nextButton.onClick(this.clickNext);
+    this.UI.prevButton.onClick(this.clickPrevious);
   }
 
-  unSubscribe(eventType: string, listener: EventListener) {
-    const index = this.listeners.findIndex(
-      (item) => item.eventType === eventType && item.listener === listener
-    );
-    if (index !== -1) {
-      this.listeners.splice(index, 1);
+  // Other objects must be able to switch the audio player's
+  // active state.
+  changeState(state: State) {
+    this.state = state;
+  }
+
+  // UI methods delegate execution to the active state.
+  clickLock() {
+    this.state.clickLock();
+  }
+  clickPlay() {
+    this.state.clickPlay();
+  }
+  clickNext() {
+    this.state.clickNext();
+  }
+  clickPrevious() {
+    this.state.clickPrevious();
+  }
+
+  // A state may call some service methods on the context.
+  startPlayback() {
+    // ...
+  }
+  stopPlayback() {
+    // ...
+  }
+  nextSong() {
+    // ...
+  }
+  previousSong() {
+    // ...
+  }
+  fastForward() {
+    // ...
+  }
+  rewind() {
+    // ...
+  }
+}
+
+// The base state class declares methods that all concrete
+// states should implement and also provides a backreference to
+// the context object associated with the state. States can use
+// the backreference to transition the context to another state.
+abstract class State {
+  player: AudioPlayer;
+
+  // Context passes itself through the state constructor. This
+  // may help a state fetch some useful context data if it's
+  // needed.
+
+  constructor(player) {
+    this.player = player;
+  }
+
+  abstract clickLock();
+  abstract clickPlay();
+  abstract clickNext();
+  abstract clickPrevious();
+}
+
+// Concrete states implement various behaviors associated with a
+// state of the context.
+class LockedState extends State {
+  // When you unlock a locked player, it may assume one of two
+  // states.
+  clickLock() {
+    if (this.player.playing) {
+      this.player.changeState(new PlayingState(this.player));
+    } else {
+      this.player.changeState(new ReadyState(this.player));
     }
   }
 
-  notify(eventType: string, data: any) {
-    this.listeners.forEach((item) => {
-      if (item.eventType === eventType) {
-        item.listener.update(data);
-      }
-    });
+  clickPlay() {
+    // Locked, so do nothing.
+  }
+  clickNext() {
+    // Locked, so do nothing.
+  }
+  clickPrevious() {
+    // Locked, so do nothing.
   }
 }
 
-// Lớp publisher cụ thể chứa logic kinh doanh thực tế mà một số subscribers quan tâm.
-class Editor {
-  public events: EventManager;
-  private file: File;
-
-  constructor() {
-    this.events = new EventManager();
+// They can also trigger state transitions in the context.
+class ReadyState extends State {
+  clickLock() {
+    this.player.changeState(new LockedState(this.player));
   }
 
-  // Các phương thức logic kinh doanh có thể thông báo cho subscribers về các thay đổi.
-  openFile(path: string) {
-    this.file = new File(path);
-    this.events.notify("open", this.file.name);
+  clickPlay() {
+    this.player.startPlayback();
+    this.player.changeState(new PlayingState(this.player));
   }
 
-  saveFile() {
-    this.file.write();
-    this.events.notify("save", this.file.name);
-  }
-}
-
-// Các subscribers cụ thể phản ứng với các cập nhật do publisher phát hành mà họ được gắn vào.
-class LoggingListener implements EventListener {
-  private log: File;
-  private message: string;
-
-  constructor(log_filename: string, message: string) {
-    this.log = new File(log_filename);
-    this.message = message;
+  clickNext() {
+    this.player.nextSong();
   }
 
-  update(filename: string): void {
-    // Giả sử hàm replace đã được định nghĩa ở đâu đó để thay thế %s bằng filename
-    this.log.write(this.message.replace("%s", filename));
+  clickPrevious() {
+    this.player.previousSong();
   }
 }
 
-class EmailAlertsListener implements EventListener {
-  private email: string;
-  private message: string;
-
-  constructor(email: string, message: string) {
-    this.email = email;
-    this.message = message;
+class PlayingState extends State {
+  clickLock() {
+    this.player.changeState(new LockedState(this.player));
   }
-
-  update(filename: string): void {
-    // Giả lập gửi email
-    console.log(
-      `Email sent to ${this.email} with message: ${this.message.replace(
-        "%s",
-        filename
-      )}`
-    );
+  clickPlay() {
+    this.player.stopPlayback();
+    this.player.changeState(new ReadyState(this.player));
   }
-}
-
-// Ứng dụng có thể cấu hình các publishers và subscribers tại runtime.
-class Application {
-  config() {
-    const editor = new Editor();
-    const logger = new LoggingListener(
-      "/path/to/log.txt",
-      "Someone has opened the file: %s"
-    );
-    editor.events.subscribe("open", logger);
-
-    const emailAlerts = new EmailAlertsListener(
-      "admin@example.com",
-      "Someone has changed the file: %s"
-    );
-    editor.events.subscribe("save", emailAlerts);
-
-    // Mở và lưu tệp để kiểm tra thông báo.
-    editor.openFile("/path/to/file.txt");
-    editor.saveFile();
+  clickNext() {
+    if (event.doubleclick) this.player.nextSong();
+    else this.player.fastForward(5);
+  }
+  clickPrevious() {
+    if (event.doubleclick) {
+      this.player.previous();
+    } else this.player.rewind(5);
   }
 }
-
-// Chạy ứng dụng.
-const app = new Application();
-app.config();
 
 ```
