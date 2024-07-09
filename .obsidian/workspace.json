@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b2798cdcec734a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
+                "file": "Plan/Đọc sách.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md"
+                "file": "Plan/Đọc sách.md"
               }
             }
           },
@@ -166,10 +152,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2798cdcec734a93",
+  "active": "31238bbe10df5aad",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/Example Code.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/Example Code.md",
     "Knowledge/Developer/Markdown.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
@@ -206,8 +195,6 @@
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Heap.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Linked-List.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Graph.md",
-    "Knowledge/Developer/Fundamentals/Data Structures/DS-Hash-Table.md",
-    "Knowledge/Developer/Fundamentals/Data Structures/DS-Dictionary.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Be-Rule",
