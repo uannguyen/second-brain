@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Backend/DVS_VTE/noted.md",
+                "file": "Projects/FINVIET/Eco Consumer/Noti.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Backend/DVS_VTE/noted.md",
+                "file": "Projects/FINVIET/Eco Consumer/Noti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Backend/DVS_VTE/noted.md"
+                "file": "Projects/FINVIET/Eco Consumer/Noti.md"
               }
             }
           },
@@ -166,10 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0b42dd1d0b4fef8",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
-    "Plan/Đọc sách.md",
+    "Projects/FINVIET/Backend/noti.md",
     "Projects/FINVIET/Backend/DVS_VTE/noted.md",
+    "Plan/Đọc sách.md",
     "Projects/FINVIET/Backend/DVS_VTE",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
@@ -210,7 +211,6 @@
     "Projects/FINVIET/Common Noted.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Heap.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Linked-List.md",
-    "Knowledge/Developer/Fundamentals/Data Structures/DS-Graph.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Be-Rule",
