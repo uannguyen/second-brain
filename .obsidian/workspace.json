@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "894da5f9956c94e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/FINVIET/Backend/VDS/noted.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
+                "file": "Projects/FINVIET/Backend/VDS/noted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md"
+                "file": "Projects/FINVIET/Backend/VDS/noted.md"
               }
             }
           },
@@ -179,17 +192,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67a9c4cadd2f3442",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Images/BOOKS/oop-180.png",
     "Images/BOOKS/Screenshot from 2024-07-15 21-23-53.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/Example Code.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Backend/noti.md",
-    "Projects/FINVIET/Backend/DVS_VTE/noted.md",
-    "Projects/FINVIET/Backend/DVS_VTE",
+    "Projects/FINVIET/Backend/VDS/noted.md",
+    "Projects/FINVIET/Backend/VDS",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
@@ -218,7 +231,6 @@
     "Images/BOOKS/oopp-177.png",
     "Images/BOOKS/Screenshot from 2024-06-28 14-49-07.png",
     "Images/BOOKS/oop-176.png",
-    "Images/BOOKS/Screenshot from 2024-06-28 09-23-28.png",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
