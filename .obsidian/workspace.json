@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "2fbc1bc508cb245e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "d0b42dd1d0b4fef8",
             "type": "leaf",
             "state": {
@@ -62,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Noti.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Consumer/Noti.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md"
               }
             }
           },
@@ -192,15 +207,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67a9c4cadd2f3442",
+  "active": "2fbc1bc508cb245e",
   "lastOpenFiles": [
+    "Images/BOOKS/dive-into-design-pattern/oop-181.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
-    "Images/BOOKS/oop-181.png",
-    "Images/BOOKS/Screenshot from 2024-07-17 17-15-00.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
+    "Images/BOOKS/dive-into-design-pattern/oop-180.png",
+    "Images/BOOKS/dive-into-design-pattern/oop-179.png",
+    "Images/BOOKS/dive-into-design-pattern/oop-178.png",
+    "Images/BOOKS/dive-into-design-pattern/oop-177.png",
+    "Images/BOOKS/dive-into-design-pattern/oop-176.png",
+    "Images/BOOKS/dive-into-design-pattern/oop-175.png",
+    "Images/BOOKS/dive-into-design-pattern/oop-174.png",
+    "Images/BOOKS/dive-into-design-pattern/oop-173.png",
+    "Images/BOOKS/dive-into-design-pattern/oop-172.png",
+    "Images/BOOKS/dive-into-design-pattern",
+    "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Backend/VDS/noted.md",
-    "Images/BOOKS/oop-180.png",
-    "Images/BOOKS/Screenshot from 2024-07-15 21-23-53.png",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Plan/Đọc sách.md",
@@ -213,8 +236,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
-    "Images/BOOKS/oop-179.png",
-    "Images/BOOKS/Screenshot from 2024-07-05 10-47-42.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Knowledge/English/Videos/Video 1.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
@@ -227,15 +248,10 @@
     "Knowledge/Developer/Fundamentals/Principles/DRY Principle.md",
     "Knowledge/Developer/Fundamentals/Principles/KISS Principle.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/3. Liskov Substitution Principle.md",
-    "Images/BOOKS/oop-177.png",
-    "Images/BOOKS/oop-178.png",
-    "Images/BOOKS/Screenshot from 2024-07-01 08-51-24.png",
-    "Images/BOOKS/oopp-177.png",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
     "Plan/Kế hoạch cá nhân.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Be-Rule",
@@ -247,7 +263,6 @@
     "Knowledge/Developer/Docker/Reference",
     "Knowledge/Developer/Docker/Manuals",
     "Knowledge/Developer/Docker/Guides",
-    "Knowledge/Developer/Docker",
-    "Knowledge/Developer/Linux-Command"
+    "Knowledge/Developer/Docker"
   ]
 }
