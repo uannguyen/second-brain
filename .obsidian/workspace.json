@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
+                "file": "Projects/FINVIET/Eco Consumer/Noti.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
+                "file": "Projects/FINVIET/Eco Consumer/Noti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md"
+                "file": "Projects/FINVIET/Eco Consumer/Noti.md"
               }
             }
           },
@@ -194,10 +194,10 @@
   },
   "active": "67a9c4cadd2f3442",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Images/BOOKS/oop-181.png",
     "Images/BOOKS/Screenshot from 2024-07-17 17-15-00.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Projects/FINVIET/Backend/VDS/noted.md",
     "Images/BOOKS/oop-180.png",
     "Images/BOOKS/Screenshot from 2024-07-15 21-23-53.png",
@@ -231,7 +231,6 @@
     "Images/BOOKS/oop-178.png",
     "Images/BOOKS/Screenshot from 2024-07-01 08-51-24.png",
     "Images/BOOKS/oopp-177.png",
-    "Images/BOOKS/Screenshot from 2024-06-28 14-49-07.png",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
