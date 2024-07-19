@@ -49,9 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed78f829c55b2c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Backend/evnspc.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Backend/evnspc.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md"
               }
             }
           },
@@ -181,10 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dee4148cf5c3f13f",
+  "active": "ed78f829c55b2c06",
   "lastOpenFiles": [
+    "Images/BOOKS/dive-into-design-pattern/oop-186.png",
+    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-19 13-56-16.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
     "Projects/FINVIET/Backend/evnspc.md",
+    "Images/BOOKS/dive-into-design-pattern/oop-185.png",
+    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-19 13-42-34.png",
     "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Backend/VDS/noted.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/Example Code.md",
@@ -195,9 +213,6 @@
     "Images/BOOKS/dive-into-design-pattern/oop-182.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-18 16-27-48.png",
     "Images/BOOKS/dive-into-design-pattern/oop-181.png",
-    "Images/BOOKS/dive-into-design-pattern/oop-180.png",
-    "Images/BOOKS/dive-into-design-pattern/oop-179.png",
-    "Images/BOOKS/dive-into-design-pattern/oop-178.png",
     "Images/BOOKS/dive-into-design-pattern",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
@@ -225,8 +240,6 @@
     "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/3. Liskov Substitution Principle.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Request Example.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-    "Projects/FINVIET/Eco Consumer/Sync Trans.md",
-    "Plan/Kế hoạch cá nhân.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Be-Rule",
