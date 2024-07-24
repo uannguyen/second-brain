@@ -62,69 +62,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0a6f4cc7b291aa0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-                "viewState": {
-                  "x": 3363.2944120489915,
-                  "y": 2033.1504204557737,
-                  "zoom": -2.271205008953749
-                }
-              }
-            }
-          },
-          {
-            "id": "89b5a860059f1e45",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
-                "viewState": {
-                  "x": -2014.70163235796,
-                  "y": -427.96346524111425,
-                  "zoom": -1.442968089374824
-                }
-              }
-            }
-          },
-          {
-            "id": "c7e2d973190f1706",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-                "viewState": {
-                  "x": 4100.906327446379,
-                  "y": 2533.4765582513096,
-                  "zoom": -1.871205008953749
-                }
-              }
-            }
-          },
-          {
-            "id": "ec9084ff98bb311c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
-                "viewState": {
-                  "x": -2344.829947346483,
-                  "y": -360.06248622210774,
-                  "zoom": -1.042968089374824
-                }
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md"
               }
             }
           },
@@ -254,8 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec9084ff98bb311c",
+  "active": "ed78f829c55b2c06",
   "lastOpenFiles": [
+    "Images/BOOKS/dive-into-design-pattern/oop-190.png",
+    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-23 21-53-14.png",
+    "Images/BOOKS/dive-into-design-pattern/oop-189.png",
+    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-23 21-46-35.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
@@ -268,12 +212,9 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Images/BOOKS/dive-into-design-pattern/oop-185.png",
-    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-19 13-42-34.png",
     "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Backend/VDS/noted.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/Example Code.md",
-    "Images/BOOKS/dive-into-design-pattern/oop-184.png",
-    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-18 16-47-21.png",
     "Images/BOOKS/dive-into-design-pattern",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
