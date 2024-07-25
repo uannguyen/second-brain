@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "2fbc1bc508cb245e",
+            "id": "b47cda85298f491e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/Đọc sách.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/Đọc sách.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md"
               }
             }
           },
@@ -168,9 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "b47cda85298f491e",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
+    "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Images/BOOKS/dive-into-design-pattern/oop-190.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-23 21-53-14.png",
     "Images/BOOKS/dive-into-design-pattern/oop-189.png",
@@ -183,7 +186,6 @@
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-19 14-46-03.png",
     "Images/BOOKS/dive-into-design-pattern/oop-186.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-19 13-56-16.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Backend/VDS/noted.md",
@@ -191,7 +193,6 @@
     "Images/BOOKS/dive-into-design-pattern",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
-    "Plan/Đọc sách.md",
     "Projects/FINVIET/Backend/noti.md",
     "Projects/FINVIET/Backend/VDS",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
