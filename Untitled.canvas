@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"04f52f38b1e280b7","x":-160,"y":-720,"width":400,"height":400,"type":"group","label":"Screen Page"},
+		{"id":"e9bcacc34d4a7140","x":-582,"y":-373,"width":250,"height":60,"type":"text","text":""},
+		{"id":"1e36f0c0923c054a","x":-423,"y":-622,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
