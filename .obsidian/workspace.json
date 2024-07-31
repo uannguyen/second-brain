@@ -41,14 +41,12 @@
             "id": "2ad0852bf55064d9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -334.8,
-                  "zoom": 0
-                }
+                "file": "Projects/FINVIET/Eco Game/index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Projects/FINVIET/Eco Game/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Projects/FINVIET/Eco Game/index.md"
               }
             }
           },
@@ -185,8 +183,9 @@
   },
   "active": "2ad0852bf55064d9",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
     "Untitled.canvas",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
     "Knowledge/Developer/TS/Data Modifiers.md",
     "Knowledge/Developer/TS/Generic type.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/Example Code.md",
