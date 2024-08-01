@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
+                "file": "Projects/FINVIET/Eco Game/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas"
+                "file": "Projects/FINVIET/Eco Game/index.md"
               }
             }
           },
@@ -198,8 +198,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92cf97ec027b4559",
+  "active": "2ad0852bf55064d9",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Eco Game/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
@@ -214,7 +215,6 @@
     "Images/BOOKS/dive-into-design-pattern/oop-189.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-23 21-46-35.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Images/BOOKS/dive-into-design-pattern/oop-188.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-19 16-59-01.png",
     "Images/BOOKS/dive-into-design-pattern/oop-187.png",
@@ -245,7 +245,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-    "Knowledge/Developer/Fundamentals/Principles/SOLID Principles.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/flows-rule-fee.canvas",
     "Projects/FINVIET/Be-Rule",
