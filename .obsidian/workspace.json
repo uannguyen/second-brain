@@ -40,18 +40,35 @@
           {
             "id": "2ad0852bf55064d9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
+                "file": "Projects/FINVIET/Eco Game/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "92cf97ec027b4559",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
+                "viewState": {
+                  "x": -3029.2642479721985,
+                  "y": -122.13551628712358,
+                  "zoom": -0.30877119168365774
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas"
               }
             }
           },
@@ -181,12 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ad0852bf55064d9",
+  "active": "92cf97ec027b4559",
   "lastOpenFiles": [
     "Projects/FINVIET/Eco Game/index.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
     "Untitled.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
     "Knowledge/Developer/TS/Data Modifiers.md",
     "Knowledge/Developer/TS/Generic type.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/Example Code.md",
