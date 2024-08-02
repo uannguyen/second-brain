@@ -25,6 +25,7 @@
           {
             "id": "b47cda85298f491e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,7 +33,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -92,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Web App/auth-flows.canvas",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Web App/auth-flows.canvas"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md"
               }
             }
           },
@@ -222,10 +224,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f4f8c6389dff542",
+  "active": "b47cda85298f491e",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Web App/Issues.md",
+    "Images/BOOKS/dive-into-design-pattern/oop-193.png",
+    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 10-08-44.png",
     "Projects/FINVIET/Eco Web App/auth-flows.canvas",
+    "Projects/FINVIET/Eco Web App/Issues.md",
     "Projects/FINVIET/Eco Web App/Portal.md",
     "Projects/FINVIET/Eco Web App/Shoppage note.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
@@ -250,7 +254,6 @@
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-23 21-46-35.png",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Images/BOOKS/dive-into-design-pattern/oop-188.png",
-    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-07-19 16-59-01.png",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Backend/VDS/noted.md",
@@ -266,7 +269,6 @@
     "Knowledge/Developer/Markdown.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/3.5 Memento.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-asynchronous.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
