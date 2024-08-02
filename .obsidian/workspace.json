@@ -38,47 +38,6 @@
             }
           },
           {
-            "id": "34d7112067c36cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Eco Web App/Shoppage note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3037e792a302ce19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Eco Web App/Portal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f4f8c6389dff542",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Eco Web App/auth-flows.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "2ad0852bf55064d9",
             "type": "leaf",
             "pinned": true,
@@ -94,7 +53,7 @@
             }
           },
           {
-            "id": "72071f9ea009554b",
+            "id": "8d3b536e7c746aed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md"
+                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md"
               }
             }
           },
@@ -237,8 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72071f9ea009554b",
+  "active": "b47cda85298f491e",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/index.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "Images/BOOKS/dive-into-design-pattern/oop-193.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 10-08-44.png",
@@ -248,10 +209,8 @@
     "Projects/FINVIET/Eco Web App/Shoppage note.md",
     "Images/BOOKS/dive-into-design-pattern/oop-192.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 09-01-22.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
     "Images/BOOKS/dive-into-design-pattern/oop-191.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 08-51-18.png",
-    "Projects/FINVIET/Eco Game/index.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
     "Plan/Đọc sách.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
