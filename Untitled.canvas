@@ -1,4 +1,18 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"c2447464e8a63ac3","type":"text","text":"Nhập OTP","x":-280,"y":-340,"width":250,"height":60},
+		{"id":"02da020aed089dd9","type":"text","text":"BE App","x":-692,"y":-160,"width":250,"height":60},
+		{"id":"75d7e246fb1d2c81","type":"text","text":"App","x":-692,"y":-340,"width":250,"height":60},
+		{"id":"e090bf9ac464d14a","type":"text","text":"Verify OTP\n","x":-280,"y":-160,"width":250,"height":60},
+		{"id":"3e52b683f3c50204","type":"text","text":"Verify OTP","x":80,"y":-160,"width":250,"height":60},
+		{"id":"8db3bf32889c7cc3","type":"text","text":"Nhâp thông tin","x":80,"y":-340,"width":250,"height":60},
+		{"id":"421ff0e89d52d448","type":"text","text":"Verify OTP Token","x":380,"y":-161,"width":283,"height":61},
+		{"id":"3bd3591fc22eb70f","type":"text","text":"Register","x":-280,"y":-660,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"714950245fdb6212","fromNode":"3bd3591fc22eb70f","fromSide":"bottom","toNode":"c2447464e8a63ac3","toSide":"top"},
+		{"id":"c082926ec4216cb8","fromNode":"c2447464e8a63ac3","fromSide":"bottom","toNode":"e090bf9ac464d14a","toSide":"top"},
+		{"id":"845716b017cdb336","fromNode":"8db3bf32889c7cc3","fromSide":"bottom","toNode":"3e52b683f3c50204","toSide":"top","label":"call API: `register`"},
+		{"id":"98a1d5d07971ce50","fromNode":"3e52b683f3c50204","fromSide":"right","toNode":"421ff0e89d52d448","toSide":"left"}
+	]
 }
