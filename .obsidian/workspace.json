@@ -66,27 +66,12 @@
             }
           },
           {
-            "id": "81f380ab4346648d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 28,
-                  "y": -203.5999999999999,
-                  "zoom": -0.4
-                }
-              }
-            }
-          },
-          {
             "id": "cbfefb80621f3688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Developer/JS/Promis_Async_Await.md",
+                "file": "Ghi chú tạm thời.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/JS/Promis_Async_Await.md",
+                "file": "Ghi chú tạm thời.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/JS/Promis_Async_Await.md"
+                "file": "Ghi chú tạm thời.md"
               }
             }
           },
@@ -226,11 +211,14 @@
   },
   "active": "cbfefb80621f3688",
   "lastOpenFiles": [
+    "test.canvas",
+    "Ghi chú tạm thời.md",
+    "Noted Temporary.md",
+    "Untitled.canvas",
+    "Knowledge/Developer/JS/Promis_Async_Await.md",
     "Knowledge/Developer/JS/ForEach.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "Projects/FINVIET/Eco Game/index.md",
-    "Untitled.canvas",
-    "test.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
     "Images/BOOKS/dive-into-design-pattern/oop-196.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 15-35-24.png",
@@ -266,10 +254,6 @@
     "Projects/FINVIET/Backend/VDS",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/Example Code.md",
-    "Knowledge/Developer/Markdown.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/Example Code.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-asynchronous.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",
