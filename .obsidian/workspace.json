@@ -79,9 +79,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "cbfefb80621f3688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Developer/JS/Promis_Async_Await.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "foreach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
+                "file": "Knowledge/Developer/JS/Promis_Async_Await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md"
+                "file": "Knowledge/Developer/JS/Promis_Async_Await.md"
               }
             }
           },
@@ -211,12 +224,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b47cda85298f491e",
+  "active": "cbfefb80621f3688",
   "lastOpenFiles": [
+    "Knowledge/Developer/JS/ForEach.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Untitled.canvas",
     "test.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
     "Images/BOOKS/dive-into-design-pattern/oop-196.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 15-35-24.png",
