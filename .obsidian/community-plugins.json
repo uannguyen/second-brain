@@ -1,8 +1,8 @@
 [
   "highlightr-plugin",
   "obsidian-code-block-enhancer",
-  "obsidian-emoji-toolbar",
   "obsidian-icon-folder",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "open-vscode"
 ]

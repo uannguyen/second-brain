@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ghi chú tạm thời.md",
+                "file": "Projects/FINVIET/Eco Game/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ghi chú tạm thời.md"
+                "file": "Projects/FINVIET/Eco Game/index.md"
               }
             }
           },
@@ -206,13 +206,15 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "2ad0852bf55064d9",
   "lastOpenFiles": [
-    "Projects/FINVIET/Eco Web App/Req Example.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
     "Ghi chú tạm thời.md",
+    "Projects/FINVIET/Eco Web App/Req Example.md",
     "test.canvas",
     "Noted Temporary.md",
     "Untitled.canvas",
@@ -220,7 +222,6 @@
     "Knowledge/Developer/JS/ForEach.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "Projects/FINVIET/Eco Game/index.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
     "Images/BOOKS/dive-into-design-pattern/oop-196.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 15-35-24.png",
     "Images/BOOKS/dive-into-design-pattern/oop-195.png",
