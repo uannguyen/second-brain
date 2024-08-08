@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Web App/Req Example.md",
+                "file": "Ghi chú tạm thời.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Web App/Req Example.md",
+                "file": "Ghi chú tạm thời.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Web App/Req Example.md"
+                "file": "Ghi chú tạm thời.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbfefb80621f3688",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
-    "Ghi chú tạm thời.md",
     "Projects/FINVIET/Eco Web App/Req Example.md",
+    "Ghi chú tạm thời.md",
     "test.canvas",
     "Noted Temporary.md",
     "Untitled.canvas",
