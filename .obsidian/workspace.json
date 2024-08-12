@@ -53,12 +53,27 @@
             }
           },
           {
-            "id": "773c0df3d0ed93aa",
+            "id": "3bb6bf4be5aba09c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "test.canvas",
+                "viewState": {
+                  "x": -841,
+                  "y": -3016.4389805097453,
+                  "zoom": -0.03208497783958744
+                }
+              }
+            }
+          },
+          {
+            "id": "e51e95abbf04eb06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
+                "file": "Plan/Kế hoạch cá nhân.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,7 +81,7 @@
             }
           },
           {
-            "id": "cbfefb80621f3688",
+            "id": "2053f335a81ee269",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/index.md",
+                "file": "Ghi chú tạm thời.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/index.md"
+                "file": "Ghi chú tạm thời.md"
               }
             }
           },
@@ -210,18 +225,21 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "2ad0852bf55064d9",
+  "active": "2053f335a81ee269",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
+    "Plan/Kế hoạch cá nhân.md",
     "Ghi chú tạm thời.md",
-    "Projects/FINVIET/Eco Web App/Req Example.md",
+    "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "test.canvas",
+    "Projects/FINVIET/Eco Game/index.md",
+    "Drawing 2024-08-11 21.58.42.excalidraw.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
+    "Projects/FINVIET/Eco Web App/Req Example.md",
     "Noted Temporary.md",
     "Untitled.canvas",
     "Knowledge/Developer/JS/Promis_Async_Await.md",
     "Knowledge/Developer/JS/ForEach.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
-    "Projects/FINVIET/Eco Game/index.md",
     "Images/BOOKS/dive-into-design-pattern/oop-196.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 15-35-24.png",
     "Images/BOOKS/dive-into-design-pattern/oop-195.png",
@@ -237,7 +255,6 @@
     "Images/BOOKS/dive-into-design-pattern/oop-192.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 09-01-22.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
-    "Plan/Đọc sách.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
     "Knowledge/Developer/TS/Data Modifiers.md",
@@ -252,10 +269,7 @@
     "Images/BOOKS/dive-into-design-pattern",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
-    "Projects/FINVIET/Backend/noti.md",
     "Projects/FINVIET/Backend/VDS",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.0 Base.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-asynchronous.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/structure-file.canvas",

@@ -12,3 +12,8 @@
 
 3 - Kết nối ghi chú (Linking Notes):
 	- Một phần quan trọng của phương pháp Zettelkasten là kết nối các ghi chú với nhau. Bạn có thể tham chiếu các ghi chú liên quan bằng cách sử dụng mã số duy nhất của chúng. Điều này giúp tạo ra một mạng lưới thông tin liên kết và dễ dàng truy cập khi cần thiết
+
+
+
+
+
