@@ -92,9 +92,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c9f52faf6221e64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Việc cần làm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ghi chú tạm thời.md",
+                "file": "Việc cần làm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ghi chú tạm thời.md"
+                "file": "Việc cần làm.md"
               }
             }
           },
@@ -225,10 +238,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "2053f335a81ee269",
+  "active": "5c9f52faf6221e64",
   "lastOpenFiles": [
-    "Plan/Kế hoạch cá nhân.md",
     "Ghi chú tạm thời.md",
+    "Việc cần làm.md",
+    "Plan/Kế hoạch cá nhân.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "test.canvas",
