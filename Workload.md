@@ -2,7 +2,7 @@
 #  webapp
 - thêm api retry khi GD failed
 - bắn thông báo qua pos khi create trans
-- apply cash method khi thanh toán
+- apply cash_pos method khi thanh toán
 - 
 - update listTrans: transid ecopay, makh, payment_status, trans_status 
 # risk
