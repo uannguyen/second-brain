@@ -192,7 +192,6 @@
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.1 Chain Of Responsibility/Example Code.md": "VcVsCodeSvgrepoCom",
   "Projects/FINVIET/Loyalty/revert expired coin.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.2 Command/Example Code.md": "VcVsCodeSvgrepoCom",
-  "Knowledge/Developer/Internet": "FoFolderSvgrepoCom",
   "Knowledge/Developer/Linux-Command": "FoFolderSvgrepoCom",
   "Knowledge/Developer/Linux-Command/Commands.md": "CoTerminalSvgrepoCom",
   "Knowledge/Developer/Linux-Command/Linux-Command.md": "LiLinuxSvgrepoCom",
@@ -225,5 +224,8 @@
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/Example Code.md": "VcVsCodeSvgrepoCom",
   "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md": "VcVsCodeSvgrepoCom",
-  "Projects/FINVIET/Eco Web App/Req Example.md": "PaPaperTextTextsSvgrepoCom(1)"
+  "Projects/FINVIET/Eco Web App/Req Example.md": "PaPaperTextTextsSvgrepoCom(1)",
+  "Knowledge/Developer/Internet": "FoFolderSvgrepoCom",
+  "Knowledge/Developer/Sentry": "FoFolderSvgrepoCom",
+  "Knowledge/Developer/Sentry/Enriching Events.md": "PaPaperTextTextsSvgrepoCom(1)"
 }

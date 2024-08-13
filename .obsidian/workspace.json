@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ghi chú tạm thời.md",
+                "file": "Knowledge/Developer/Sentry/Enriching Events.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workload.md",
+                "file": "Knowledge/Developer/Sentry/Enriching Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workload.md"
+                "file": "Knowledge/Developer/Sentry/Enriching Events.md"
               }
             }
           },
@@ -238,11 +238,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "5c9f52faf6221e64",
+  "active": "2053f335a81ee269",
   "lastOpenFiles": [
-    "Chuẩn bị đi chơi.md",
-    "Workload.md",
     "Ghi chú tạm thời.md",
+    "Knowledge/Developer/Sentry/Enriching Events.md",
+    "Knowledge/Developer/Sentry",
+    "Workload.md",
+    "Chuẩn bị đi chơi.md",
     "Plan/Kế hoạch cá nhân.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
@@ -280,7 +282,6 @@
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
     "Projects/FINVIET/Backend/VDS/noted.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/Example Code.md",
     "Images/BOOKS/dive-into-design-pattern",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Projects/FINVIET/Backend/VDS",
@@ -294,7 +295,6 @@
     "Excalidraw",
     "Knowledge/Developer/Docker/Reference",
     "Knowledge/Developer/Docker/Manuals",
-    "Knowledge/Developer/Docker/Guides",
-    "Knowledge/Developer/Docker"
+    "Knowledge/Developer/Docker/Guides"
   ]
 }
