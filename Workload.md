@@ -15,6 +15,9 @@
 - update file storaged
 
 
+# Consumer
+
+- bug noti consumer: https://hotro.finviet.com.vn/browse/CON-997
 
 
 
