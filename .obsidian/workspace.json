@@ -99,7 +99,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Việc cần làm.md",
+                "file": "Workload.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "466737d96af44f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chuẩn bị đi chơi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Việc cần làm.md",
+                "file": "Chuẩn bị đi chơi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Việc cần làm.md"
+                "file": "Chuẩn bị đi chơi.md"
               }
             }
           },
@@ -238,10 +251,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "5c9f52faf6221e64",
+  "active": "466737d96af44f48",
   "lastOpenFiles": [
+    "Workload.md",
+    "Chuẩn bị đi chơi.md",
     "Ghi chú tạm thời.md",
-    "Việc cần làm.md",
     "Plan/Kế hoạch cá nhân.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
@@ -281,7 +295,6 @@
     "Projects/FINVIET/Backend/VDS/noted.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/Example Code.md",
     "Images/BOOKS/dive-into-design-pattern",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Projects/FINVIET/Backend/VDS",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
