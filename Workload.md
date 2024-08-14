@@ -9,7 +9,8 @@
 - tách rule 1
 - update rule 3: add thêm GD nếu rule đã tồn tại
 - update rule 3,4 
-
+- rule 3 4 10 11 - update bank ibft
+- 
 
 # be docs
 - update file storaged

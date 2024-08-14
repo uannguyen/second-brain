@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/Sentry/Enriching Events.md",
+                "file": "Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/Sentry/Enriching Events.md"
+                "file": "Workload.md"
               }
             }
           },
@@ -238,10 +238,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "2053f335a81ee269",
+  "active": "5c9f52faf6221e64",
   "lastOpenFiles": [
-    "Ghi chú tạm thời.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
+    "Ghi chú tạm thời.md",
     "Knowledge/Developer/Sentry",
     "Workload.md",
     "Chuẩn bị đi chơi.md",
