@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chuẩn bị đi chơi.md",
+                "file": "Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chuẩn bị đi chơi.md"
+                "file": "Workload.md"
               }
             }
           },
@@ -238,14 +238,14 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "2053f335a81ee269",
+  "active": "5c9f52faf6221e64",
   "lastOpenFiles": [
+    "Plan/Kế hoạch cá nhân.md",
+    "Chuẩn bị đi chơi.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
     "Workload.md",
     "Ghi chú tạm thời.md",
     "Knowledge/Developer/Sentry",
-    "Chuẩn bị đi chơi.md",
-    "Plan/Kế hoạch cá nhân.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "test.canvas",
