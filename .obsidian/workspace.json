@@ -58,11 +58,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "test.canvas",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
                 "viewState": {
-                  "x": -841,
-                  "y": -3016.4389805097453,
-                  "zoom": -0.03208497783958744
+                  "x": 4208.208456401909,
+                  "y": 4944.833826586916,
+                  "zoom": -1.871205008953749
                 }
               }
             }
@@ -74,19 +74,6 @@
               "type": "markdown",
               "state": {
                 "file": "Plan/Kế hoạch cá nhân.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2053f335a81ee269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chuẩn bị đi chơi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chuẩn bị đi chơi.md",
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chuẩn bị đi chơi.md"
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas"
               }
             }
           },
@@ -238,17 +225,18 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "2053f335a81ee269",
+  "active": "3bb6bf4be5aba09c",
   "lastOpenFiles": [
-    "Ghi chú tạm thời.md",
-    "Workload.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
+    "test.canvas",
     "Plan/Kế hoạch cá nhân.md",
+    "Ghi chú tạm thời.md",
     "Chuẩn bị đi chơi.md",
+    "Workload.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
     "Knowledge/Developer/Sentry",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
-    "test.canvas",
     "Projects/FINVIET/Eco Game/index.md",
     "Drawing 2024-08-11 21.58.42.excalidraw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
@@ -272,7 +260,6 @@
     "Images/BOOKS/dive-into-design-pattern/oop-192.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 09-01-22.png",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
     "Knowledge/Developer/TS/Data Modifiers.md",
     "Knowledge/Developer/TS/Generic type.md",
@@ -281,7 +268,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/Eco Consumer/Noti.md",
-    "Projects/FINVIET/Backend/VDS/noted.md",
     "Images/BOOKS/dive-into-design-pattern",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Projects/FINVIET/Backend/VDS",
