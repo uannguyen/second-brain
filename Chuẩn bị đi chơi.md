@@ -32,3 +32,25 @@
 - Mua quà tặng SN ô.Lâm
 
 ```
+
+
+
+```
+=== Balo trắng
+- Quần áo/khăn (ngăn giữa)
+- Kính bơi (tai trái balo)
+- Khẩu trang/Salonpass/dầu gió (tai phải balo)
+- Vớ/Khăn ướt/Sạc ĐT (ngăn trước)
+
+=== Balo đen
+- Bàn chải/Kem đáng răng/Nước hoa/Hộp mắt kính (Ngăn trước)
+- Bịch nilon để ói/Bịch khăn ướt (Tai phải balo)
+- Để chai nước (Tai trái balo)
+- Phao/Đồ ăn vặt/Tai nghe (Ngăn giữa)
+- Móc treo đồ (Ngăn sau)
+
+=== Túi đep hông 
+- Điện thoại
+- Bóp
+- Dùng để đựng mắt kính khi xuống nước
+```

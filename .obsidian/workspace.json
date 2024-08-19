@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ghi chú tạm thời.md",
+                "file": "Chuẩn bị đi chơi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ghi chú tạm thời.md"
+                "file": "Chuẩn bị đi chơi.md"
               }
             }
           },
@@ -238,13 +238,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "5c9f52faf6221e64",
+  "active": "2053f335a81ee269",
   "lastOpenFiles": [
+    "Ghi chú tạm thời.md",
     "Workload.md",
     "Plan/Kế hoạch cá nhân.md",
     "Chuẩn bị đi chơi.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
-    "Ghi chú tạm thời.md",
     "Knowledge/Developer/Sentry",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
