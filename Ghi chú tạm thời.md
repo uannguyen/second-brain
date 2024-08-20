@@ -23,4 +23,8 @@
   - **Project notes**
   - 
 
+---
+
+# Take Smart Notes
+
 
