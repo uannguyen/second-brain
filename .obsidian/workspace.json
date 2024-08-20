@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ghi chú tạm thời.md",
+                "file": "Projects/FINVIET/Eco Game/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ghi chú tạm thời.md",
+                "file": "Projects/FINVIET/Eco Game/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ghi chú tạm thời.md"
+                "file": "Projects/FINVIET/Eco Game/index.md"
               }
             }
           },
@@ -199,12 +199,12 @@
   },
   "active": "e47b1c49d31d221b",
   "lastOpenFiles": [
+    "Ghi chú tạm thời.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "test.canvas",
     "Plan/Kế hoạch cá nhân.md",
-    "Ghi chú tạm thời.md",
     "Chuẩn bị đi chơi.md",
     "Workload.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",

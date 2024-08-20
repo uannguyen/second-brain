@@ -1,5 +1,6 @@
 {
   "snapToObjects": true,
   "snapToGrid": true,
-  "defaultWheelBehavior": "pan"
+  "defaultWheelBehavior": "pan",
+  "defaultModDragBehavior": "menu"
 }
