@@ -53,20 +53,46 @@
             }
           },
           {
-            "id": "e47b1c49d31d221b",
+            "id": "191f448d93013b8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/index.md",
+                "file": "Ghi chú tạm thời.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "058462c2d682cb24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "669b8e6f61e0ace1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -95,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foreach",
+                "query": "tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/index.md",
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/index.md"
+                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md"
               }
             }
           },
@@ -176,8 +203,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,19 +220,33 @@
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e47b1c49d31d221b",
+  "active": "669b8e6f61e0ace1",
   "lastOpenFiles": [
-    "Ghi chú tạm thời.md",
+    "Knowledge/Developer/Markdown/Obsidian.md",
     "Projects/FINVIET/Eco Game/index.md",
+    "Ghi chú tạm thời.md",
+    "Knowledge/Developer/Markdown/Markdown.md",
+    "Knowledge/Developer/Markdown",
+    "Knowledge/Developer/Linux-Command/Linux-Command.md",
+    "Excalidraw/Drawing 2024-05-21 08.42.05.excalidraw.md",
+    "Workload.md",
+    "test.canvas",
+    "Projects/FINVIET/Eco Web App/Issues.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "().md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
+    "abc.md",
+    "ABC.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
-    "test.canvas",
     "Plan/Kế hoạch cá nhân.md",
     "Chuẩn bị đi chơi.md",
-    "Workload.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
     "Knowledge/Developer/Sentry",
     "Plan/Đọc sách.md",
@@ -227,19 +267,8 @@
     "Images/BOOKS/dive-into-design-pattern/oop-193.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 10-08-44.png",
     "Projects/FINVIET/Eco Web App/auth-flows.canvas",
-    "Projects/FINVIET/Eco Web App/Issues.md",
-    "Projects/FINVIET/Eco Web App/Portal.md",
-    "Projects/FINVIET/Eco Web App/Shoppage note.md",
     "Images/BOOKS/dive-into-design-pattern/oop-192.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 09-01-22.png",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/3.9 Template Method.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Quick Script.md",
-    "Knowledge/Developer/TS/Data Modifiers.md",
-    "Knowledge/Developer/TS/Generic type.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.9 Template Method/Example Code.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
-    "Projects/FINVIET/Backend/evnspc.md",
-    "Projects/FINVIET/Eco Consumer/Noti.md",
     "Images/BOOKS/dive-into-design-pattern",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Projects/FINVIET/Backend/VDS",
@@ -252,7 +281,6 @@
     "Projects/FINVIET/Eco Consumer/Verify V2",
     "Excalidraw",
     "Knowledge/Developer/Docker/Reference",
-    "Knowledge/Developer/Docker/Manuals",
-    "Knowledge/Developer/Docker/Guides"
+    "Knowledge/Developer/Docker/Manuals"
   ]
 }

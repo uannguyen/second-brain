@@ -196,7 +196,6 @@
   "Knowledge/Developer/Linux-Command/Commands.md": "CoTerminalSvgrepoCom",
   "Knowledge/Developer/Linux-Command/Linux-Command.md": "LiLinuxSvgrepoCom",
   "Knowledge/Developer/Telegram Tips.md": "TeTelegramSvgrepoCom",
-  "Knowledge/Developer/Markdown.md": "MaMarkdownMarkWhite",
   "Knowledge/Developer/VS Code.md": "VcVsCodeSvgrepoCom",
   "Knowledge/Developer/Docker": "DoDockerSvgrepoCom",
   "Knowledge/Developer/Docker/Overview.md": "PaPaperTextTextsSvgrepoCom(1)",
@@ -227,5 +226,8 @@
   "Projects/FINVIET/Eco Web App/Req Example.md": "PaPaperTextTextsSvgrepoCom(1)",
   "Knowledge/Developer/Internet": "FoFolderSvgrepoCom",
   "Knowledge/Developer/Sentry": "FoFolderSvgrepoCom",
-  "Knowledge/Developer/Sentry/Enriching Events.md": "PaPaperTextTextsSvgrepoCom(1)"
+  "Knowledge/Developer/Sentry/Enriching Events.md": "PaPaperTextTextsSvgrepoCom(1)",
+  "Knowledge/Developer/Markdown": "FoFolderSvgrepoCom",
+  "Knowledge/Developer/Markdown/Markdown.md": "MaMarkdownMarkWhite",
+  "Knowledge/Developer/Markdown/Obsidian.md": "PaPaperTextTextsSvgrepoCom(1)"
 }

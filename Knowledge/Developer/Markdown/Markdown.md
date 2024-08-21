@@ -197,3 +197,6 @@ hoặc
 ```
 
 
+# Obsidian
+
+[[Obsidian]]
