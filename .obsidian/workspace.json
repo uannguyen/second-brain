@@ -147,8 +147,7 @@
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "open-vscode:VSCode": false,
-      "obsidian-importer:Open Importer": false
+      "open-vscode:VSCode": false
     }
   },
   "active": "e9e879b4f5a74a3d",
