@@ -19,9 +19,13 @@
 
 # Tags
 
---- 
-tags: 
-- recipe 
-- cooking 
+- Phải nằm ở đầu file
 
+```
 ---
+tags:
+- a
+- b
+- c
+---
+```

@@ -4,95 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cf5b01d41bce3a3a",
+        "id": "8c036a575a4ad489",
         "type": "tabs",
         "children": [
           {
-            "id": "31238bbe10df5aad",
+            "id": "a15c71a0f5e9f28e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan/Đọc sách.md",
+                "file": "Knowledge/Developer/Markdown/Obsidian.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b47cda85298f491e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2ad0852bf55064d9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "191f448d93013b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ghi chú tạm thời.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "058462c2d682cb24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "669b8e6f61e0ace1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
-                "mode": "preview",
-                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
+                "file": "Knowledge/Developer/Markdown/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md"
+                "file": "Knowledge/Developer/Markdown/Obsidian.md"
               }
             }
           },
@@ -224,14 +151,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "669b8e6f61e0ace1",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
-    "Knowledge/Developer/Markdown/Obsidian.md",
+    "Plan/Đọc sách.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Ghi chú tạm thời.md",
+    "Knowledge/Developer/Linux-Command/Linux-Command.md",
+    "Knowledge/Developer/Markdown/Obsidian.md",
     "Knowledge/Developer/Markdown/Markdown.md",
     "Knowledge/Developer/Markdown",
-    "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Excalidraw/Drawing 2024-05-21 08.42.05.excalidraw.md",
     "Workload.md",
     "test.canvas",
@@ -249,8 +178,6 @@
     "Chuẩn bị đi chơi.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
     "Knowledge/Developer/Sentry",
-    "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "Drawing 2024-08-11 21.58.42.excalidraw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/Example Code.md",
     "Projects/FINVIET/Eco Web App/Req Example.md",
