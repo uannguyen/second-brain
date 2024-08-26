@@ -26,11 +26,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Backend/Forgot Password.canvas",
+                "file": "Projects/FINVIET/Backend/forgot pass.canvas",
                 "viewState": {
-                  "x": -583.0816704857848,
-                  "y": -32.24462632488792,
-                  "zoom": -0.23794324189102745
+                  "x": -488.3348752877296,
+                  "y": 718.3855274002074,
+                  "zoom": -0.6974379412170418
                 }
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Backend/Forgot Password.canvas",
+                "file": "Projects/FINVIET/Backend/forgot pass.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Backend/Forgot Password.canvas"
+                "file": "Projects/FINVIET/Backend/forgot pass.canvas"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "aa47f02d921e24e8",
   "lastOpenFiles": [
-    "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
+    "Projects/FINVIET/Backend/forgot pass.canvas",
+    "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
     "Projects/FINVIET/Eco Consumer/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
@@ -201,7 +202,6 @@
     "Chuẩn bị đi chơi.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
     "Knowledge/Developer/Sentry",
-    "Drawing 2024-08-11 21.58.42.excalidraw.md",
     "Untitled.canvas",
     "Images/BOOKS/dive-into-design-pattern/oop-196.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 15-35-24.png",
