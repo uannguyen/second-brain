@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b4c55d31cc5b464",
+        "id": "34518a95f29d7a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5b86325e64709c",
+            "id": "edd38a54e21eb977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/FINVIET/Eco Web App/POS.md",
+                "file": "z - Inbox/Ghi chú tạm thời.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Web App/POS.md",
+                "file": "z - Inbox/Ghi chú tạm thời.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Web App/POS.md"
+                "file": "z - Inbox/Ghi chú tạm thời.md"
               }
             }
           },
@@ -150,11 +150,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "8a5b86325e64709c",
+  "active": "edd38a54e21eb977",
   "lastOpenFiles": [
-    "Workload.md",
+    "References/Drawing 2024-08-26 11.04.21.excalidraw.md",
+    "z - Inbox/Ghi chú tạm thời.md",
     "Projects/FINVIET/Eco Web App/POS.md",
-    "Ghi chú tạm thời.md",
+    "z - Inbox",
+    "z - Inbox/Workload.md",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "Projects/FINVIET/Eco Game/index.md",
@@ -163,7 +165,7 @@
     "Knowledge/Developer/Markdown/Markdown.md",
     "Knowledge/Developer/Markdown",
     "Excalidraw/Drawing 2024-05-21 08.42.05.excalidraw.md",
-    "test.canvas",
+    "z - Inbox/test.canvas",
     "Projects/FINVIET/Eco Web App/Issues.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -183,7 +185,6 @@
     "Projects/FINVIET/Eco Web App/Req Example.md",
     "Noted Temporary.md",
     "Untitled.canvas",
-    "Knowledge/Developer/JS/Promis_Async_Await.md",
     "Images/BOOKS/dive-into-design-pattern/oop-196.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 15-35-24.png",
     "Images/BOOKS/dive-into-design-pattern/oop-195.png",
@@ -206,7 +207,6 @@
     "Projects/FINVIET/Eco Consumer/Verify Method",
     "Projects/FINVIET/Eco Consumer/Verify V2",
     "Excalidraw",
-    "Knowledge/Developer/Docker/Reference",
-    "Knowledge/Developer/Docker/Manuals"
+    "Knowledge/Developer/Docker/Reference"
   ]
 }
