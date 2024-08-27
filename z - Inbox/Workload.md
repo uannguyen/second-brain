@@ -24,7 +24,8 @@
 
 # Consumer
 
-- bug noti consumer: https://hotro.finviet.com.vn/browse/CON-997
+- [ ] Forgot pass phase 2
+- [ ] 
 
 
 
