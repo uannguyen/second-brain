@@ -43,15 +43,15 @@
               "state": {
                 "file": "Projects/FINVIET/Backend/forgot pass.canvas",
                 "viewState": {
-                  "x": -488.3348752877296,
-                  "y": 718.3855274002074,
-                  "zoom": -0.6974379412170418
+                  "x": -334,
+                  "y": -120,
+                  "zoom": -1.889205661173039
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Projects/FINVIET/Backend/forgot pass.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Workload.md"
+                "file": "Projects/FINVIET/Backend/forgot pass.canvas"
               }
             }
           },
@@ -181,15 +181,15 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "96608f77ce99fe27",
+  "active": "aa47f02d921e24e8",
   "lastOpenFiles": [
+    "z - Inbox/Workload.md",
     "Projects/FINVIET/Backend/forgot pass.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
     "Projects/FINVIET/Eco Consumer/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-    "z - Inbox/Workload.md",
     "z - Inbox/Ghi chú tạm thời.md",
     "References/Drawing 2024-08-26 11.04.21.excalidraw.md",
     "Projects/FINVIET/Eco Web App/POS.md",
@@ -233,7 +233,6 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Projects/FINVIET/Backend/VDS",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-asynchronous.canvas",
     "Projects/FINVIET/Be-Rule",
     "Projects/FINVIET/Eco Consumer/Verify Method",
     "Projects/FINVIET/Eco Consumer/Verify V2",
