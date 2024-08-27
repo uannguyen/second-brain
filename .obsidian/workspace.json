@@ -41,17 +41,32 @@
             "state": {
               "type": "canvas",
               "state": {
+                "file": "Projects/FINVIET/Backend/Forgot Password.canvas",
+                "viewState": {
+                  "x": 1261.9086930722408,
+                  "y": -489.70618207026985,
+                  "zoom": -0.8365819153778132
+                }
+              }
+            }
+          },
+          {
+            "id": "a7501c9344520d9f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
                 "file": "Projects/FINVIET/Backend/forgot pass.canvas",
                 "viewState": {
-                  "x": -187.02181304704618,
-                  "y": -413.33963750291434,
-                  "zoom": -1.0892056611730392
+                  "x": -317.5466949023354,
+                  "y": 179.02423911811582,
+                  "zoom": -0.28920566117303914
                 }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,11 +196,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "aa47f02d921e24e8",
+  "active": "a7501c9344520d9f",
   "lastOpenFiles": [
+    "Projects/FINVIET/Backend/Forgot Password.canvas",
     "z - Inbox/Workload.md",
     "Projects/FINVIET/Backend/forgot pass.canvas",
-    "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/Forgot Password.md",
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
     "Projects/FINVIET/Eco Consumer/index.md",
