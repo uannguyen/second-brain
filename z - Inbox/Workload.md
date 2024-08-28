@@ -5,7 +5,10 @@
 - [x] apply cash_pos method khi thanh toán
 - [x] update listTrans: transid ecopay, makh, payment_status, trans_status 
 - [ ]  Check thanh toán các loại dịch vụ
-- [ ] Zụ clear localStoraged 
+- [ ] Zụ clear localStoraged
+- [ ] zụ `amount` của thẻ card khi quantity khác 1
+- [ ] ẩn mấy cái api ecom => performance
+- [ ] 
 
 # Eco game
 
