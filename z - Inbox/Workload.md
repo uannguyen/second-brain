@@ -6,9 +6,9 @@
 - [x] update listTrans: transid ecopay, makh, payment_status, trans_status 
 - [ ]  Check thanh toán các loại dịch vụ
 - [ ] Zụ clear localStoraged
-- [ ] zụ `amount` của thẻ card khi quantity khác 1
-- [ ] ẩn mấy cái api ecom => performance
-- [ ] 
+- [x] zụ `amount` của thẻ card khi quantity khác 1
+- [x] ẩn mấy cái api ecom => performance
+- [ ] Thêm `extra_data` lúc init GD ecopay
 
 # Eco game
 
