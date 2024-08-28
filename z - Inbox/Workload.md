@@ -4,11 +4,16 @@
 - [x] bắn thông báo qua pos khi create trans
 - [x] apply cash_pos method khi thanh toán
 - [x] update listTrans: transid ecopay, makh, payment_status, trans_status 
-- [ ]  Check thanh toán các loại dịch vụ
 - [x] Zụ clear localStoraged
 - [x] zụ `amount` của thẻ card khi quantity khác 1
 - [x] ẩn mấy cái api ecom => performance
-- [ ] Thêm `extra_data` lúc init GD ecopay
+- [x] fix account này có thể lấy thông tin GD của account khác
+- [x] Thêm `extra_data` lúc init GD ecopay
+- [ ]  Check thanh toán các loại dịch vụ:
+    - [ ] tuition
+    - [ ] landline
+    - [ ] credit
+    - [ ] loan
 
 # Eco game
 

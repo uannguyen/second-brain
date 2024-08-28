@@ -1,5 +1,6 @@
 - Thiếu một mục tổng quan để mô tả nội dung của tài liệu (giờ mà lượng thông tin ngày càng nhiều )
-
+- Tìm hiểu về Digital Garden - Nơi public kiến thức cá nhân đã học được
+- 
 ---
 
 1 - Ghi chú đọc hiểu
