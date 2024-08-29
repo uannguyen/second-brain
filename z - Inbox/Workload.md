@@ -18,9 +18,9 @@
 # Eco game
 
 - [ ] Fix eco-game popup cộng lượt
-- [ ] setup `promotion_id` mảnh quà
+- [x] setup `promotion_id` mảnh quà
 - [ ] sửa icon
-- [ ] 
+- [ ] fix quay trúng quà may mắn lần sau status bị null
 # risk
 - [x] tách rule 1
 - [x] update rule 3: add thêm GD nếu rule đã tồn tại

@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Ghi chú tạm thời.md",
+                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Ghi chú tạm thời.md"
+                "file": "z - Inbox/Workload.md"
               }
             }
           },
@@ -195,8 +196,9 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "edd38a54e21eb977",
+  "active": "96608f77ce99fe27",
   "lastOpenFiles": [
+    "z - Inbox/Ghi chú tạm thời.md",
     "z - Inbox/Workload.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/forgot pass.canvas",
@@ -204,7 +206,6 @@
     "Projects/FINVIET/Eco Consumer/Sync Trans.md",
     "Projects/FINVIET/Eco Consumer/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-    "z - Inbox/Ghi chú tạm thời.md",
     "References/Drawing 2024-08-26 11.04.21.excalidraw.md",
     "Projects/FINVIET/Eco Web App/POS.md",
     "z - Inbox",
