@@ -20,7 +20,8 @@
 - [ ] Fix eco-game popup cộng lượt
 - [x] setup `promotion_id` mảnh quà
 - [ ] sửa icon
-- [ ] fix quay trúng quà may mắn lần sau status bị null
+- [x] fix quay trúng quà may mắn lần sau status bị null
+- [ ] lịch sử bỏ quà `may mắn lần sau` đi 
 # risk
 - [x] tách rule 1
 - [x] update rule 3: add thêm GD nếu rule đã tồn tại
