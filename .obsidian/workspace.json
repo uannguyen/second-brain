@@ -10,6 +10,7 @@
           {
             "id": "edd38a54e21eb977",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -33,36 +35,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "aa47f02d921e24e8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Backend/Forgot Password.canvas",
-                "viewState": {
-                  "x": 1261.9086930722408,
-                  "y": -489.70618207026985,
-                  "zoom": -0.8365819153778132
-                }
-              }
-            }
-          },
-          {
-            "id": "a7501c9344520d9f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/FINVIET/Backend/forgot pass.canvas",
-                "viewState": {
-                  "x": -33.76508704938607,
-                  "y": -332.8358257651455,
-                  "zoom": -0.6892056611730392
-                }
-              }
             }
           }
         ],

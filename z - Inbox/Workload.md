@@ -14,12 +14,14 @@
     - [ ] landline
     - [ ] credit
     - [ ] loan
-
+- [ ] Thêm response cho api IPN (pos method)
+- [ ] Update thêm field `tax`, `cards` vào extra_data khi inti GD
+- [ ] 
 # Eco game
 
 - [ ] Fix eco-game popup cộng lượt
 - [x] setup `promotion_id` mảnh quà
-- [ ] sửa icon
+- [x] sửa icon
 - [x] fix quay trúng quà may mắn lần sau status bị null
 - [ ] lịch sử bỏ quà `may mắn lần sau` đi 
 # risk
@@ -28,6 +30,7 @@
 - [x] update rule 3,4 
 - [x] rule 3 4 10 11 - update bank ibft
 - [x] check case first bank_map
+- [ ] Update thời gian cho các rules
 - [ ] 
 
 # be docs
