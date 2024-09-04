@@ -17,6 +17,7 @@
 - [ ] Thêm response cho api IPN (pos method)
 - [x] Update thêm field `tax`, vào extra_data khi inti GD
 - [ ] check api get-setting chỉ trả những field cần thiết
+- [ ] fix navigate vào screen từng dịch vụ luôn
 - [ ] 
 # Eco game
 
