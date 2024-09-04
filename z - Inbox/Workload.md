@@ -16,6 +16,7 @@
     - [ ] loan
 - [ ] Thêm response cho api IPN (pos method)
 - [x] Update thêm field `tax`, vào extra_data khi inti GD
+- [ ] check api get-setting chỉ trả những field cần thiết
 - [ ] 
 # Eco game
 
@@ -24,6 +25,7 @@
 - [x] sửa icon
 - [x] fix quay trúng quà may mắn lần sau status bị null
 - [x] lịch sử bỏ quà `may mắn lần sau` đi 
+- [ ] map lại screen page (`spin history`, `prize spin`)
 - [ ] 
 # risk
 - [x] tách rule 1
