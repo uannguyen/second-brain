@@ -23,15 +23,17 @@
 - [x] setup `promotion_id` mảnh quà
 - [x] sửa icon
 - [x] fix quay trúng quà may mắn lần sau status bị null
-- [ ] lịch sử bỏ quà `may mắn lần sau` đi 
+- [x] lịch sử bỏ quà `may mắn lần sau` đi 
+- [ ] 
 # risk
 - [x] tách rule 1
 - [x] update rule 3: add thêm GD nếu rule đã tồn tại
 - [x] update rule 3,4 
 - [x] rule 3 4 10 11 - update bank ibft
 - [x] check case first bank_map
-- [ ] Update thời gian cho các rules
-- [ ] 
+- [x] Update thời gian cho các rules
+- [ ] Tạo file chạy cronjob cho các rules
+- [ ] Sửa portal
 
 # be docs
 - [x] update file storaged
