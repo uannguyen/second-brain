@@ -15,7 +15,7 @@
     - [ ] credit
     - [ ] loan
 - [ ] Thêm response cho api IPN (pos method)
-- [ ] Update thêm field `tax`, `cards` vào extra_data khi inti GD
+- [x] Update thêm field `tax`, vào extra_data khi inti GD
 - [ ] 
 # Eco game
 

@@ -36,6 +36,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3eded8beb880d331",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
+                "viewState": {
+                  "x": -2975.3155853223434,
+                  "y": 87.72908035831443,
+                  "zoom": -0.3132377433655489
+                }
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -170,8 +185,9 @@
   },
   "active": "96608f77ce99fe27",
   "lastOpenFiles": [
-    "z - Inbox/Ghi chú tạm thời.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "z - Inbox/Workload.md",
+    "z - Inbox/Ghi chú tạm thời.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/forgot pass.canvas",
     "Projects/FINVIET/Backend/Forgot Password.md",
@@ -199,7 +215,6 @@
     "abc.md",
     "ABC.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Plan/Kế hoạch cá nhân.md",
     "Chuẩn bị đi chơi.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
