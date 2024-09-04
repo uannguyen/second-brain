@@ -28,6 +28,7 @@
 - [x] update rule 3,4 
 - [x] rule 3 4 10 11 - update bank ibft
 - [x] check case first bank_map
+- [ ] 
 
 # be docs
 - [x] update file storaged
