@@ -18,7 +18,7 @@
 - [x] Update thêm field `tax`, vào extra_data khi inti GD
 - [ ] check api get-setting chỉ trả những field cần thiết
 - [ ] fix navigate vào screen từng dịch vụ luôn
-- [ ] 
+- [ ] update extra_data => `provider_name`, `provider_code`
 # Eco game
 
 - [ ] Fix eco-game popup cộng lượt
