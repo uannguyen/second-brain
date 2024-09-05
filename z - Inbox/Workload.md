@@ -27,6 +27,7 @@
 - [x] fix quay trúng quà may mắn lần sau status bị null
 - [x] lịch sử bỏ quà `may mắn lần sau` đi 
 - [ ] map lại screen page (`spin history`, `prize spin`)
+- [ ] thêm gift_type none ở portal
 - [ ] 
 # risk
 - [x] tách rule 1
