@@ -17,8 +17,9 @@
 - [ ] Thêm response cho api IPN (pos method)
 - [x] Update thêm field `tax`, vào extra_data khi inti GD
 - [ ] check api get-setting chỉ trả những field cần thiết
-- [ ] fix navigate vào screen từng dịch vụ luôn
-- [ ] update extra_data => `provider_name`, `provider_code`
+- [x] fix navigate vào screen từng dịch vụ luôn
+- [x] update extra_data => `provider_name`, `provider_code`
+- [ ] check `merchan_bill_id` ko cho trùng
 # Eco game
 
 - [ ] Fix eco-game popup cộng lượt

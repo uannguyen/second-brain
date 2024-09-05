@@ -43,17 +43,17 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
+                "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -2975.3155853223434,
-                  "y": 87.72908035831443,
-                  "zoom": -0.3132377433655489
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Workload.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -183,8 +183,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "96608f77ce99fe27",
+  "active": "3eded8beb880d331",
   "lastOpenFiles": [
+    "Plan/Kế hoạch cá nhân.md",
+    "Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "z - Inbox/Workload.md",
     "z - Inbox/Ghi chú tạm thời.md",
@@ -215,11 +217,9 @@
     "abc.md",
     "ABC.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Plan/Kế hoạch cá nhân.md",
     "Chuẩn bị đi chơi.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
     "Knowledge/Developer/Sentry",
-    "Untitled.canvas",
     "Images/BOOKS/dive-into-design-pattern/oop-196.png",
     "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 15-35-24.png",
     "Images/BOOKS/dive-into-design-pattern/oop-195.png",

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"18d6f1e64c704cb7","x":-200,"y":-200,"width":250,"height":60,"type":"text","text":"Books"},
+		{"id":"2df861c3b329ae43","x":-325,"y":-380,"width":250,"height":60,"type":"text","text":"Images"},
+		{"id":"0aa4f6ea69723a01","x":-160,"y":42,"width":250,"height":60,"type":"text","text":"Plan"},
+		{"id":"29004c73540f482c","x":-680,"y":72,"width":250,"height":60,"type":"text","text":"References"},
+		{"id":"12e3a067c6b5275a","x":-555,"y":-140,"width":250,"height":60,"type":"text","text":"Projects"},
+		{"id":"80bd07691ea739a2","x":-720,"y":-380,"width":250,"height":60,"type":"text","text":"Knowledge"}
+	],
+	"edges":[]
+}

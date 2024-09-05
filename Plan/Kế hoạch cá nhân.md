@@ -15,7 +15,7 @@
 
 - Giao tiếp tiếng anh cơ bản
 - Đọc thành thạo docs/books bằng tiếng anh
-- Nắm vững cơ bản về lập trình
+- Nắm vững cơ bản về lập trình để vững nền móng phát triển lên cao
 - Tìm ra đam mê, ước mơ để theo đuổi
 - Thể dục thể thao, rèn luyện thể chất
 - 
