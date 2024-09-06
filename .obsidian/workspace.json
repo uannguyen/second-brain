@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/index.md",
+                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/Eco Game/index.md"
+                "file": "z - Inbox/Workload.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "af75902be5691ddf",
+  "active": "96608f77ce99fe27",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Game/index.md",
     "z - Inbox/Workload.md",
     "z - Inbox/Ghi chú tạm thời.md",
     "Plan/Kế hoạch cá nhân.md",
@@ -199,7 +200,6 @@
     "z - Inbox",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
-    "Projects/FINVIET/Eco Game/index.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Knowledge/Developer/Markdown/Obsidian.md",
     "Knowledge/Developer/Markdown/Markdown.md",
