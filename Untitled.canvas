@@ -1,11 +1,16 @@
 {
 	"nodes":[
-		{"id":"18d6f1e64c704cb7","x":-200,"y":-200,"width":250,"height":60,"type":"text","text":"Books"},
-		{"id":"2df861c3b329ae43","x":-325,"y":-380,"width":250,"height":60,"type":"text","text":"Images"},
 		{"id":"0aa4f6ea69723a01","x":-160,"y":42,"width":250,"height":60,"type":"text","text":"Plan"},
 		{"id":"29004c73540f482c","x":-680,"y":72,"width":250,"height":60,"type":"text","text":"References"},
 		{"id":"12e3a067c6b5275a","x":-555,"y":-140,"width":250,"height":60,"type":"text","text":"Projects"},
-		{"id":"80bd07691ea739a2","x":-720,"y":-380,"width":250,"height":60,"type":"text","text":"Knowledge"}
+		{"id":"80bd07691ea739a2","x":-720,"y":-380,"width":250,"height":60,"type":"text","text":"Knowledge"},
+		{"id":"18d6f1e64c704cb7","x":40,"y":-220,"width":250,"height":60,"type":"text","text":"Books"},
+		{"id":"a83ef26f866f9fe5","x":340,"y":-320,"width":250,"height":60,"type":"text","text":"Book A"},
+		{"id":"71a149f58fd89f40","type":"text","text":"Book B","x":360,"y":-110,"width":250,"height":60},
+		{"id":"2df861c3b329ae43","x":-285,"y":-380,"width":250,"height":60,"type":"text","text":"Images"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"62a8e3370111680f","fromNode":"18d6f1e64c704cb7","fromSide":"top","toNode":"a83ef26f866f9fe5","toSide":"left"},
+		{"id":"8354fe9a83b04227","fromNode":"18d6f1e64c704cb7","fromSide":"bottom","toNode":"71a149f58fd89f40","toSide":"left"}
+	]
 }

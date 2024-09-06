@@ -29,3 +29,23 @@
 # Take Smart Notes
 
 
+
+---
+
+# Read Method
+
+- SQ3R
+- SQ5R
+
+
+---
+
+# Slip box
+
+0
+    0a
+        0a0
+1
+    1a
+        1a1
+    
