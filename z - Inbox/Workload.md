@@ -31,8 +31,8 @@
 - [x] sửa icon
 - [x] fix quay trúng quà may mắn lần sau status bị null
 - [x] lịch sử bỏ quà `may mắn lần sau` đi 
-- [ ] map lại screen page (`spin history`, `prize spin`)
-- [ ] thêm gift_type none ở portal
+- [x] map lại screen page (`spin history`, `prize spin`)
+- [x] thêm gift_type none ở portal
 - [ ] gắn vòng quay mới (map lại thứ tự quà)
 - [ ] 
 
@@ -45,7 +45,7 @@
 - [x] check case first bank_map
 - [x] Update thời gian cho các rules
 - [ ] Tạo file chạy cronjob cho các rules
-- [ ] Sửa portal
+- [x] Sửa portal
 
 # be docs
 - [x] update file storaged
