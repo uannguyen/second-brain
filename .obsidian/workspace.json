@@ -4,112 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "0dadb5427979d835",
-        "type": "split",
+        "id": "34518a95f29d7a8f",
+        "type": "tabs",
         "children": [
           {
-            "id": "34518a95f29d7a8f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "edd38a54e21eb977",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z - Inbox/Ghi chú tạm thời.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                }
+            "id": "edd38a54e21eb977",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z - Inbox/Ghi chú tạm thời.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              {
-                "id": "96608f77ce99fe27",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z - Inbox/Workload.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true
+            }
           },
           {
-            "id": "aab205d99fb85f5c",
-            "type": "split",
-            "children": [
-              {
-                "id": "ea9f49e4c522d94b",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "cdf1da9e79303f62",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "z - Inbox/Workload.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
+            "id": "96608f77ce99fe27",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z - Inbox/Workload.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              {
-                "id": "16356d153ccd3595",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "3eded8beb880d331",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Plan/Kế hoạch cá nhân.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "150ed0b777e71598",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "36c952d0d01815d3",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "z - Inbox/Ghi chú tạm thời.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+              "pinned": true
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,13 +168,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "cdf1da9e79303f62",
+  "active": "96608f77ce99fe27",
   "lastOpenFiles": [
     "z - Inbox/Ghi chú tạm thời.md",
+    "z - Inbox/Workload.md",
     "Plan/Kế hoạch cá nhân.md",
     "Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
-    "z - Inbox/Workload.md",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/forgot pass.canvas",
     "Projects/FINVIET/Backend/Forgot Password.md",

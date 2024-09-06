@@ -14,12 +14,15 @@
     - [ ] landline
     - [ ] credit
     - [ ] loan
-- [ ] Thêm response cho api IPN (pos method)
+- [x] Thêm response cho api IPN (pos method)
 - [x] Update thêm field `tax`, vào extra_data khi inti GD
 - [ ] check api get-setting chỉ trả những field cần thiết
 - [x] fix navigate vào screen từng dịch vụ luôn
 - [x] update extra_data => `provider_name`, `provider_code`
-- [ ] check `merchan_bill_id` ko cho trùng
+- [x] check `merchan_bill_id` ko cho trùng
+
+
+
 # Eco game
 
 - [ ] Fix eco-game popup cộng lượt
@@ -29,7 +32,8 @@
 - [x] lịch sử bỏ quà `may mắn lần sau` đi 
 - [ ] map lại screen page (`spin history`, `prize spin`)
 - [ ] thêm gift_type none ở portal
-- [ ] 
+
+
 # risk
 - [x] tách rule 1
 - [x] update rule 3: add thêm GD nếu rule đã tồn tại
