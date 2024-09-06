@@ -19,7 +19,9 @@
 - [ ] check api get-setting chỉ trả những field cần thiết
 - [x] fix navigate vào screen từng dịch vụ luôn
 - [x] update extra_data => `provider_name`, `provider_code`
-- [x] check `merchan_bill_id` ko cho trùng
+- [x] check `merchan_bill_id` ko cho trùng (trừ case `failed`)
+- [x] bắn postMessage khi request failed
+- [ ] 
 
 
 
@@ -32,6 +34,8 @@
 - [x] lịch sử bỏ quà `may mắn lần sau` đi 
 - [ ] map lại screen page (`spin history`, `prize spin`)
 - [ ] thêm gift_type none ở portal
+- [ ] gắn vòng quay mới (map lại thứ tự quà)
+- [ ] 
 
 
 # risk
