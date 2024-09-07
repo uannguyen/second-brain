@@ -49,9 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e2f03d236acf499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z - Inbox/Ghi chú tạm thời.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "z - Inbox/Ghi chú tạm thời.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Workload.md"
+                "file": "z - Inbox/Ghi chú tạm thời.md"
               }
             }
           },
@@ -181,8 +194,24 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "96608f77ce99fe27",
+  "active": "5e2f03d236acf499",
   "lastOpenFiles": [
+    "Assests/Images",
+    "Assests/Images/PROJECT/CyHome-flow-payment.drawio.png",
+    "Assests/Images/PROJECT/CyHome-flow-cash.drawio.png",
+    "Assests/Images/PROJECT",
+    "Assests/Images/KNOWLEDGE/ch1.6-concurrent-process.png",
+    "Assests/Images/KNOWLEDGE/ch1-5-sequence-programming.png",
+    "Assests/Images/KNOWLEDGE/ch1-5-parallelprograming.png",
+    "Assests/Images/KNOWLEDGE/binary-tree (1).png",
+    "Assests/Images/KNOWLEDGE/binary-tree.png",
+    "Assests/Images/KNOWLEDGE/b-tree.png",
+    "Assests/Images/KNOWLEDGE/avl-tree.png",
+    "Assests/Images/KNOWLEDGE/Queue-program-enqueue-dequeue.webp",
+    "Assests/Images/KNOWLEDGE",
+    "Assests/Images/BOOKS/dive-into-design-pattern",
+    "Assests/Images/BOOKS",
+    "Assests",
     "Projects/FINVIET/Eco Game/index.md",
     "z - Inbox/Workload.md",
     "z - Inbox/Ghi chú tạm thời.md",
@@ -218,25 +247,10 @@
     "Chuẩn bị đi chơi.md",
     "Knowledge/Developer/Sentry/Enriching Events.md",
     "Knowledge/Developer/Sentry",
-    "Images/BOOKS/dive-into-design-pattern/oop-196.png",
-    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 15-35-24.png",
-    "Images/BOOKS/dive-into-design-pattern/oop-195.png",
-    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 14-44-26.png",
-    "Images/BOOKS/dive-into-design-pattern/oop-194.png",
-    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 14-36-33.png",
-    "Images/BOOKS/dive-into-design-pattern/oop-193.png",
-    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 10-08-44.png",
     "Projects/FINVIET/Eco Web App/auth-flows.canvas",
-    "Images/BOOKS/dive-into-design-pattern/oop-192.png",
-    "Images/BOOKS/dive-into-design-pattern/Screenshot from 2024-08-02 09-01-22.png",
-    "Images/BOOKS/dive-into-design-pattern",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
     "Projects/FINVIET/Backend/VDS",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas",
-    "Projects/FINVIET/Be-Rule",
-    "Projects/FINVIET/Eco Consumer/Verify Method",
-    "Projects/FINVIET/Eco Consumer/Verify V2",
-    "Excalidraw",
-    "Knowledge/Developer/Docker/Reference"
+    "Projects/FINVIET/Be-Rule"
   ]
 }
