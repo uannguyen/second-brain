@@ -36,37 +36,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "af75902be5691ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/Eco Game/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e2f03d236acf499",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -55,
-                  "y": -235.60000000000002,
-                  "zoom": 0
-                }
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "z - Inbox/Workload.md"
               }
             }
           },
@@ -196,8 +168,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "5e2f03d236acf499",
+  "active": "96608f77ce99fe27",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "z - Inbox/Workload.md",
+    "Projects/FINVIET/Eco Game/index.md",
     "z - Inbox/Ghi chú tạm thời.md",
     "Assests/Images",
     "Assests/Images/PROJECT/CyHome-flow-payment.drawio.png",
@@ -215,10 +190,7 @@
     "Assests/Images/BOOKS/dive-into-design-pattern",
     "Assests/Images/BOOKS",
     "Assests",
-    "Projects/FINVIET/Eco Game/index.md",
-    "z - Inbox/Workload.md",
     "Plan/Kế hoạch cá nhân.md",
-    "Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/forgot pass.canvas",

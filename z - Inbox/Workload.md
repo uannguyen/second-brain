@@ -21,7 +21,9 @@
 - [x] update extra_data => `provider_name`, `provider_code`
 - [x] check `merchan_bill_id` ko cho trùng (trừ case `failed`)
 - [x] bắn postMessage khi request failed
-- [ ] 
+- [ ] Check sao khi thanh toán thành công ecopay bắn IPN status = `initial`
+- [ ] Hỏi case status `processing` khi thanh toán bên connector thì sao ?
+- [ ] Sửa lại case partner check trans (sửa env `internal_username`)
 
 
 # Eco game
