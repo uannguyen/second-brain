@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "z - Inbox/Ghi chú tạm thời.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Workload.md"
+                "file": "z - Inbox/Ghi chú tạm thời.md"
               }
             }
           },
@@ -181,7 +180,7 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "96608f77ce99fe27",
+  "active": "edd38a54e21eb977",
   "lastOpenFiles": [
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "z - Inbox/Workload.md",
