@@ -46,7 +46,7 @@
 - [x] rule 3 4 10 11 - update bank ibft
 - [x] check case first bank_map
 - [x] Update thời gian cho các rules
-- [ ] Tạo file chạy cronjob cho các rules
+- [x] Tạo file chạy cronjob cho các rules
 - [x] Sửa portal
 
 # be docs
