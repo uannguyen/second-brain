@@ -38,6 +38,19 @@
             }
           },
           {
+            "id": "549b0205bab69810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intergrate - VAS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "81d7b33700eca033",
             "type": "leaf",
             "state": {
@@ -51,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Intergrate - VAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Workload.md"
+                "file": "Intergrate - VAS.md"
               }
             }
           },
@@ -181,11 +194,12 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "96608f77ce99fe27",
+  "active": "549b0205bab69810",
   "lastOpenFiles": [
+    "z - Inbox/Workload.md",
+    "Intergrate - VAS.md",
     "z - Inbox/Ghi chú tạm thời.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
-    "z - Inbox/Workload.md",
     "Untitled.canvas",
     "Projects/FINVIET/Eco Game/index.md",
     "Assests/Images",
@@ -226,7 +240,6 @@
     "Projects/FINVIET/Eco Web App/Issues.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
     "().md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "abc.md",
