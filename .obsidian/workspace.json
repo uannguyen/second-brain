@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Ghi chú tạm thời.md",
+                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Ghi chú tạm thời.md"
+                "file": "z - Inbox/Workload.md"
               }
             }
           },
@@ -180,13 +181,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "edd38a54e21eb977",
+  "active": "96608f77ce99fe27",
   "lastOpenFiles": [
+    "z - Inbox/Ghi chú tạm thời.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "z - Inbox/Workload.md",
     "Untitled.canvas",
     "Projects/FINVIET/Eco Game/index.md",
-    "z - Inbox/Ghi chú tạm thời.md",
     "Assests/Images",
     "Assests/Images/PROJECT/CyHome-flow-payment.drawio.png",
     "Assests/Images/PROJECT/CyHome-flow-cash.drawio.png",

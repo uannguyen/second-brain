@@ -28,14 +28,14 @@
 
 # Eco game
 
-- [ ] Fix eco-game popup cộng lượt
+- [x] Fix eco-game popup cộng lượt
 - [x] setup `promotion_id` mảnh quà
 - [x] sửa icon
 - [x] fix quay trúng quà may mắn lần sau status bị null
 - [x] lịch sử bỏ quà `may mắn lần sau` đi 
 - [x] map lại screen page (`spin history`, `prize spin`)
 - [x] thêm gift_type none ở portal
-- [ ] gắn vòng quay mới (map lại thứ tự quà)
+- [x] gắn vòng quay mới (map lại thứ tự quà)
 - [ ] 
 
 
