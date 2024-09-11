@@ -36,32 +36,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "549b0205bab69810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intergrate - VAS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81d7b33700eca033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -197,9 +171,9 @@
   "active": "96608f77ce99fe27",
   "lastOpenFiles": [
     "Intergrate - VAS.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "z - Inbox/Workload.md",
     "z - Inbox/Ghi chú tạm thời.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Untitled.canvas",
     "Projects/FINVIET/Eco Game/index.md",
     "Assests/Images",
