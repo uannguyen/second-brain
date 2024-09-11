@@ -14,6 +14,7 @@
     - [ ] landline
     - [ ] credit
     - [ ] loan
+    - [ ] Data card/Game card
 
 - [ ] 
 - [x] Thêm response cho api IPN (pos method)
