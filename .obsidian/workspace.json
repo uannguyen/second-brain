@@ -4,41 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "34518a95f29d7a8f",
+        "id": "20690d8f95c9765b",
         "type": "tabs",
         "children": [
           {
-            "id": "edd38a54e21eb977",
+            "id": "939602163d032c36",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z - Inbox/Ghi chú tạm thời.md",
+                "file": "Fleeting Notes/Obsidian basic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "96608f77ce99fe27",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z - Inbox/Workload.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tags",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Fleeting Notes/Obsidian basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Workload.md"
+                "file": "Fleeting Notes/Obsidian basic.md"
               }
             }
           },
@@ -168,13 +150,21 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "96608f77ce99fe27",
+  "active": "939602163d032c36",
   "lastOpenFiles": [
-    "Intergrate - VAS.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
-    "z - Inbox/Workload.md",
     "z - Inbox/Ghi chú tạm thời.md",
+    "Fleeting Notes/Obsidian basic.md",
+    "Fleeting Notes",
+    "z - Inbox/test.canvas",
+    "Intergrate - VAS.md",
     "Untitled.canvas",
+    "z - Inbox/Workload.md",
+    "Knowledge/Developer/Docker/Overview.md",
+    "Knowledge/Developer/Linux-Command/Linux-Command.md",
+    "Templates/Note Template.md",
+    "ABC.md",
+    "Templates",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Projects/FINVIET/Eco Game/index.md",
     "Assests/Images",
     "Assests/Images/PROJECT/CyHome-flow-payment.drawio.png",
@@ -205,26 +195,18 @@
     "z - Inbox",
     "Plan/Đọc sách.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
-    "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Knowledge/Developer/Markdown/Obsidian.md",
     "Knowledge/Developer/Markdown/Markdown.md",
     "Knowledge/Developer/Markdown",
     "Excalidraw/Drawing 2024-05-21 08.42.05.excalidraw.md",
-    "z - Inbox/test.canvas",
     "Projects/FINVIET/Eco Web App/Issues.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "().md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
-    "abc.md",
-    "ABC.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Chuẩn bị đi chơi.md",
-    "Knowledge/Developer/Sentry/Enriching Events.md",
-    "Knowledge/Developer/Sentry",
     "Projects/FINVIET/Eco Web App/auth-flows.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
-    "Projects/FINVIET/Backend/VDS",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas"
   ]
 }
