@@ -29,13 +29,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md"
+                "file": "Excalidraw/webapp - start session flows.md"
               },
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md",
+                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md"
+                "file": "z - Inbox/Workload.md"
               }
             }
           },
@@ -165,10 +164,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "aaa73ccfc2d7ab8a",
+  "active": "1cb07dd45f1da486",
   "lastOpenFiles": [
+    "Excalidraw/webapp - start session flows.md",
     "z - Inbox/Workload.md",
-    "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md",
     "Excalidraw/Drawing 2024-09-12 08.38.23.excalidraw.md",
     "Excalidraw",
     "Fleeting Notes/Obsidian basic.md",
