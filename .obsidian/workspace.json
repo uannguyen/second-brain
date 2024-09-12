@@ -34,7 +34,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Workload.md"
+                "file": "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md"
               }
             }
           },
@@ -164,10 +165,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "1cb07dd45f1da486",
+  "active": "aaa73ccfc2d7ab8a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md",
     "z - Inbox/Workload.md",
+    "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md",
     "Excalidraw/Drawing 2024-09-12 08.38.23.excalidraw.md",
     "Excalidraw",
     "Fleeting Notes/Obsidian basic.md",
