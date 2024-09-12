@@ -4,20 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "20690d8f95c9765b",
+        "id": "2e7762e3acde508e",
         "type": "tabs",
         "children": [
           {
-            "id": "939602163d032c36",
+            "id": "1cb07dd45f1da486",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/Obsidian basic.md",
+                "file": "z - Inbox/Workload.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "aaa73ccfc2d7ab8a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md"
+              },
+              "pinned": true
             }
           }
         ]
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Obsidian basic.md",
+                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Obsidian basic.md"
+                "file": "z - Inbox/Workload.md"
               }
             }
           },
@@ -150,15 +164,18 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "939602163d032c36",
+  "active": "1cb07dd45f1da486",
   "lastOpenFiles": [
-    "z - Inbox/Ghi chú tạm thời.md",
+    "Excalidraw/Drawing 2024-09-12 08.38.36.excalidraw.md",
+    "z - Inbox/Workload.md",
+    "Excalidraw/Drawing 2024-09-12 08.38.23.excalidraw.md",
+    "Excalidraw",
     "Fleeting Notes/Obsidian basic.md",
+    "z - Inbox/Ghi chú tạm thời.md",
     "Fleeting Notes",
     "z - Inbox/test.canvas",
     "Intergrate - VAS.md",
     "Untitled.canvas",
-    "z - Inbox/Workload.md",
     "Knowledge/Developer/Docker/Overview.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Templates/Note Template.md",
@@ -197,13 +214,10 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
     "Knowledge/Developer/Markdown/Obsidian.md",
     "Knowledge/Developer/Markdown/Markdown.md",
-    "Knowledge/Developer/Markdown",
     "Excalidraw/Drawing 2024-05-21 08.42.05.excalidraw.md",
     "Projects/FINVIET/Eco Web App/Issues.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "().md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Web App/auth-flows.canvas",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
