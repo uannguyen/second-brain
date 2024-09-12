@@ -40,6 +40,8 @@
 - [x] thêm gift_type none ở portal
 - [x] gắn vòng quay mới (map lại thứ tự quà)
 - [ ] Xuất file export lịch sử quay thưởng thiếu `Quà tặng`
+- [x] Reupload spin banner
+- [ ] 
 
 
 # risk
