@@ -1,4 +1,4 @@
-
+ 
 ![[queue.png]]
 
 # Khái niệm

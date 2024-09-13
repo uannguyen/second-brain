@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e7762e3acde508e",
+        "id": "ee2b10af28a319f8",
         "type": "tabs",
         "children": [
           {
-            "id": "1cb07dd45f1da486",
+            "id": "6a361e8df9acdb82",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Dataview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,18 +23,15 @@
             }
           },
           {
-            "id": "aaa73ccfc2d7ab8a",
+            "id": "61b90621a54893d5",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/webapp - start session flows.md"
-              },
-              "pinned": true
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 371.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -111,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "z - Inbox/Workload.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,19 +155,41 @@
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "open-vscode:VSCode": false
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "1cb07dd45f1da486",
+  "active": "61b90621a54893d5",
   "lastOpenFiles": [
-    "Excalidraw/webapp - start session flows.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Example Code.md",
+    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
+    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",
+    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
+    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns",
+    "[Books/Dive Into Design Pattern",
+    "[Books",
+    "Books/Dive Into Design Pattern/Catalog.md",
+    "Dataview.md",
+    "Knowledge/Developer/Docker/Reference/Command.md",
+    "Projects/FINVIET/Backend/noti.md",
+    "Excalidraw/Drawing 2024-09-12 21.38.10.excalidraw.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Hash-Table.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Dictionary.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Graph.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Heap.md",
+    "Knowledge/Developer/Fundamentals/Algorithm/Base Concept.md",
+    "Knowledge/Developer/Fundamentals/Data Structures/DS-Queue.md",
+    "Assests/Images/BOOKS/dive-into-design-pattern/oop-76.png",
+    "Assests/Images/BOOKS/dive-into-design-pattern/oop-75.png",
+    "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
+    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "z - Inbox/Workload.md",
+    "Excalidraw/webapp - start session flows.md",
+    "z - Inbox/test.canvas",
     "Excalidraw/Drawing 2024-09-12 08.38.23.excalidraw.md",
     "Excalidraw",
     "Fleeting Notes/Obsidian basic.md",
     "z - Inbox/Ghi chú tạm thời.md",
     "Fleeting Notes",
-    "z - Inbox/test.canvas",
     "Intergrate - VAS.md",
     "Untitled.canvas",
     "Knowledge/Developer/Docker/Overview.md",
@@ -193,34 +209,12 @@
     "Assests/Images/KNOWLEDGE/binary-tree (1).png",
     "Assests/Images/KNOWLEDGE/binary-tree.png",
     "Assests/Images/KNOWLEDGE/b-tree.png",
-    "Assests/Images/KNOWLEDGE/avl-tree.png",
-    "Assests/Images/KNOWLEDGE/Queue-program-enqueue-dequeue.webp",
-    "Assests/Images/KNOWLEDGE",
-    "Assests/Images/BOOKS/dive-into-design-pattern",
-    "Assests/Images/BOOKS",
-    "Assests",
-    "Plan/Kế hoạch cá nhân.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/forgot pass.canvas",
-    "Projects/FINVIET/Backend/Forgot Password.md",
-    "Projects/FINVIET/Eco Consumer/Sync Trans.md",
-    "Projects/FINVIET/Eco Consumer/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-    "References/Drawing 2024-08-26 11.04.21.excalidraw.md",
-    "Projects/FINVIET/Eco Web App/POS.md",
-    "z - Inbox",
-    "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.10 Visitor/3.10 Visitor.md",
-    "Knowledge/Developer/Markdown/Obsidian.md",
-    "Knowledge/Developer/Markdown/Markdown.md",
-    "Excalidraw/Drawing 2024-05-21 08.42.05.excalidraw.md",
-    "Projects/FINVIET/Eco Web App/Issues.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
     "Projects/FINVIET/Eco Web App/auth-flows.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-prize-spin.canvas"
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas"
   ]
 }

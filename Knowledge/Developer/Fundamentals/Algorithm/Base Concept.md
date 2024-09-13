@@ -3,10 +3,9 @@
 - Thuật toán là ==một tập hợp các bước hoặc hướng dẫn== để ==giải quyết một bài toán==, ==nhiệm vụ== nào đó.
 - Ví dụ - Thuật toán cộng hai số:
   1. Lấy hai số đầu vào
-  2. Thêm số bằng toán tử +
-  3. Hiển thị kết quả
+  2. Thêm số bằng toán tử +  
 
-# Tại sao cần Thuật toán ?
+# Tại sao cần Thuật toán ?  
 
 - **Khả năng mở rộng**: Giải quyết các vấn đề lớn & phức tạp => nhỏ => nhỏ hơn
 - **Hiệu suất**: tối ưu thời gian thực thi & tài nguyên
