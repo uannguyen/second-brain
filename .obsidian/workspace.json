@@ -29,9 +29,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "cbe7e2e390dc4f36",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md"
+              }
             }
           },
           {
@@ -154,12 +167,12 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61b90621a54893d5",
+  "active": "cbe7e2e390dc4f36",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Example Code.md",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",
@@ -198,7 +211,6 @@
     "ABC.md",
     "Templates",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
-    "Projects/FINVIET/Eco Game/index.md",
     "Assests/Images",
     "Assests/Images/PROJECT/CyHome-flow-payment.drawio.png",
     "Assests/Images/PROJECT/CyHome-flow-cash.drawio.png",
