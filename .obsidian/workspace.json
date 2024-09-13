@@ -34,9 +34,12 @@
             "id": "cbe7e2e390dc4f36",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md"
+                "file": "Knowledge/Developer/JS/ForEach.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -70,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "forea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md",
+                "file": "Knowledge/Developer/JS/ForEach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md"
+                "file": "Knowledge/Developer/JS/ForEach.md"
               }
             }
           },
@@ -170,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbe7e2e390dc4f36",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
+    "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/2. Program to an Interface, not an Implementation.md",
     "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Example Code.md",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
@@ -210,7 +214,6 @@
     "Templates/Note Template.md",
     "ABC.md",
     "Templates",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Assests/Images",
     "Assests/Images/PROJECT/CyHome-flow-payment.drawio.png",
     "Assests/Images/PROJECT/CyHome-flow-cash.drawio.png",
