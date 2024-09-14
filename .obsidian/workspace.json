@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Projects/FINVIET/SmartPOS/Service Setting.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Projects/FINVIET/SmartPOS/Service Setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Workload.md"
+                "file": "Projects/FINVIET/SmartPOS/Service Setting.md"
               }
             }
           },
@@ -175,6 +175,11 @@
   },
   "active": "cbe7e2e390dc4f36",
   "lastOpenFiles": [
+    "Projects/FINVIET/Common Noted.md",
+    "Projects/FINVIET/SmartPOS/Service Setting.md",
+    "z - Inbox/Workload.md",
+    "Projects/FINVIET/SmartPOS/Untitled",
+    "Projects/FINVIET/SmartPOS",
     "Knowledge/Developer/JS/ForEach.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/2. Program to an Interface, not an Implementation.md",
     "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md",
@@ -200,7 +205,6 @@
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-75.png",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
-    "z - Inbox/Workload.md",
     "Excalidraw/webapp - start session flows.md",
     "z - Inbox/test.canvas",
     "Excalidraw/Drawing 2024-09-12 08.38.23.excalidraw.md",
@@ -211,13 +215,9 @@
     "Intergrate - VAS.md",
     "Untitled.canvas",
     "Knowledge/Developer/Docker/Overview.md",
-    "Knowledge/Developer/Linux-Command/Linux-Command.md",
-    "Templates/Note Template.md",
     "Templates",
-    "Assests/Images",
     "Assests/Images/PROJECT/CyHome-flow-payment.drawio.png",
     "Assests/Images/PROJECT/CyHome-flow-cash.drawio.png",
-    "Assests/Images/PROJECT",
     "Assests/Images/KNOWLEDGE/ch1.6-concurrent-process.png",
     "Assests/Images/KNOWLEDGE/ch1-5-sequence-programming.png",
     "Assests/Images/KNOWLEDGE/ch1-5-parallelprograming.png",
