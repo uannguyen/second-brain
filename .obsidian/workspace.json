@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Developer/JS/ForEach.md",
+                "file": "z - Inbox/Workload.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/JS/ForEach.md",
+                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Developer/JS/ForEach.md"
+                "file": "z - Inbox/Workload.md"
               }
             }
           },
@@ -173,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "cbe7e2e390dc4f36",
   "lastOpenFiles": [
+    "Knowledge/Developer/JS/ForEach.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Design Principles/2. Program to an Interface, not an Implementation.md",
     "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/2. Structural Design Patterns/2.4 Decorator/Example Code.md",
@@ -212,7 +213,6 @@
     "Knowledge/Developer/Docker/Overview.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Templates/Note Template.md",
-    "ABC.md",
     "Templates",
     "Assests/Images",
     "Assests/Images/PROJECT/CyHome-flow-payment.drawio.png",
