@@ -1,4 +1,9 @@
 
-# {{title}}
+# {{title}} - {{date}} {{time}}
 
-{{date}} {{time}}
+Source
+Tag
+Context
+
+
+
