@@ -1,4 +1,7 @@
 
+# KPI
+- [ ] Điền KPI tháng 8
+
 # SmartPOS API
 
 - [ ] Api get setting
