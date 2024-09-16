@@ -2,10 +2,14 @@
 # SmartPOS API
 
 - [ ] Api get setting
+    - [ ] Upload ảnh nhà mạng lên
 - [ ] Api thanh toán (topup)
+    - [ ] 
 - [ ] Tạo acc cho smartpos bên `backend`
+- [ ] API ecopay get merchant profile
 - [ ] Tích hợp đầu openapi
-- 
+
+
 #  webapp
 - [x] thêm api retry khi GD failed
 - [x] bắn thông báo qua pos khi create trans
