@@ -36,6 +36,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "34ef8e48b3e643fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Developer/Telegram Tips.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -67,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tele",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,9 +183,10 @@
   },
   "active": "fe5d0c6be646fbcb",
   "lastOpenFiles": [
+    "Knowledge/Developer/Telegram Tips.md",
+    "z - Inbox/Workload.md",
     "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/SmartPOS/POS Topup setting.md",
-    "z - Inbox/Workload.md",
     "Dataview.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Assests/Images/BOOKS/dive-into-design-pattern/dive-into-design-pattern.png.jpg",
