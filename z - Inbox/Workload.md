@@ -1,10 +1,10 @@
 
 # SmartPOS API
 
-- Api get setting
-- Api thanh toán (topup)
-- Tạo acc cho smartpos bên `backend`
-- Tích hợp đầu openapi
+- [ ] Api get setting
+- [ ] Api thanh toán (topup)
+- [ ] Tạo acc cho smartpos bên `backend`
+- [ ] Tích hợp đầu openapi
 - 
 #  webapp
 - [x] thêm api retry khi GD failed
