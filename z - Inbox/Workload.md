@@ -74,6 +74,7 @@
 - [x] Tạo file chạy cronjob cho các rules
 - [x] Sửa portal
 - [ ] improve rule 12,13 => dùng `count` thay vì `findOne`
+- [ ] fix rule 3 => GD bị lệch ngày
 - [ ] 
 
 # be docs
