@@ -36,9 +36,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9363c0d1223ba24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/FINVIET/SmartPOS/POS buycard setting.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tele",
+                "query": "pos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Projects/FINVIET/SmartPOS/POS buycard setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z - Inbox/Workload.md"
+                "file": "Projects/FINVIET/SmartPOS/POS buycard setting.md"
               }
             }
           },
@@ -167,12 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "9363c0d1223ba24e",
   "lastOpenFiles": [
-    "Knowledge/Developer/Telegram Tips.md",
-    "z - Inbox/Workload.md",
-    "Projects/FINVIET/Common Noted.md",
     "Projects/FINVIET/SmartPOS/POS Topup setting.md",
+    "Projects/FINVIET/SmartPOS/POS buycard setting.md",
+    "z - Inbox/Workload.md",
+    "Knowledge/Developer/Telegram Tips.md",
+    "Projects/FINVIET/Common Noted.md",
     "Dataview.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Assests/Images/BOOKS/dive-into-design-pattern/dive-into-design-pattern.png.jpg",
@@ -212,7 +226,6 @@
     "Knowledge/Developer/Fundamentals/Algorithm/Base Concept.md",
     "Knowledge/Developer/Fundamentals/Data Structures/DS-Queue.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/DB-schema.md",
     "z - Inbox/test.canvas",
     "Excalidraw",
     "Fleeting Notes",

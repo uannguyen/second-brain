@@ -5,9 +5,9 @@
 # SmartPOS API
 
 - [x] Api get setting
-    - [ ] Upload ảnh nhà mạng lên
+    - [x] Upload ảnh nhà mạng lên
 - [ ] Api thanh toán (topup)
-    - [ ] 
+    - [ ]  Xử lý chỗ update trans, call api ecopay update status cho api `topup`
 - [x] Tạo acc cho smartpos bên `backend`
 - [x] API ecopay get merchant profile(ko cần dùng)
 - [x] Tích hợp đầu openapi
@@ -16,7 +16,8 @@
 - [ ] Flows quẹt thẻ: nếu thanh toán thành công mà gạch nợ(bill, ...) thất bại thì xử lý như nào ? Hoàn tiền hay gạch nợ lại ?
 - [x] Xử lý GD được tạo ra bên phía smartpos ? (Mobile tự call tạo)
 - [ ] Ko thấy tạo task trên Jira
-- [ ] Thêm cấu hình cho 
+- [ ] Thêm cấu hình cho mấy dịch vụ viễn thông khác
+
 
 
 #  webapp
