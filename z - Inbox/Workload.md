@@ -4,13 +4,19 @@
 
 # SmartPOS API
 
-- [ ] Api get setting
+- [x] Api get setting
     - [ ] Upload ảnh nhà mạng lên
 - [ ] Api thanh toán (topup)
     - [ ] 
 - [ ] Tạo acc cho smartpos bên `backend`
 - [ ] API ecopay get merchant profile
 - [ ] Tích hợp đầu openapi
+- [ ] Có cần map lại response data từ bên openapi ?
+    - [ ] Khi call gạch nợ thì có trả về `code(mã lỗi)`, `message(nội dung)` 
+- [ ] Flows quẹt thẻ: nếu thanh toán thành công mà gạch nợ(bill, ...) thất bại thì xử lý như nào ? Hoàn tiền hay gạch nợ lại ?
+- [ ] Xử lý GD được tạo ra bên phía smartpos ?
+- [ ] Ko thấy tạo task trên Jira
+- [ ] 
 
 
 #  webapp

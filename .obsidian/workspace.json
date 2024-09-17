@@ -36,19 +36,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "34ef8e48b3e643fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Developer/Telegram Tips.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -97,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +167,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe5d0c6be646fbcb",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
     "Knowledge/Developer/Telegram Tips.md",
     "z - Inbox/Workload.md",
