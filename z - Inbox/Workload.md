@@ -73,6 +73,8 @@
 - [x] Update thời gian cho các rules
 - [x] Tạo file chạy cronjob cho các rules
 - [x] Sửa portal
+- [ ] improve rule 12,13 => dùng `count` thay vì `findOne`
+- [ ] 
 
 # be docs
 - [x] update file storaged
