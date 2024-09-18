@@ -80,6 +80,7 @@
 
 # be docs
 - [x] update file storaged
+- [ ] Update docs `trươnghai`
 
 
 # Consumer
