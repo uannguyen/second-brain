@@ -82,6 +82,7 @@
 - [x] update file storaged
 - [ ] Update docs `trươnghai`
 - [ ] update docs `iomedia2`
+- [ ] Thêm Openapi get bill
 
 
 # Consumer
