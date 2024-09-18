@@ -75,12 +75,13 @@
 - [x] Tạo file chạy cronjob cho các rules
 - [x] Sửa portal
 - [ ] improve rule 12,13 => dùng `count` thay vì `findOne`
-- [ ] fix rule 3 => GD bị lệch ngày
+- [x] fix rule 3 => GD bị lệch ngày
 - [ ] 
 
 # be docs
 - [x] update file storaged
 - [ ] Update docs `trươnghai`
+- [ ] update docs `iomedia2`
 
 
 # Consumer
