@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "path:Projects/FINVIET tag:#pos",
-  "showTags": false,
+  "search": "",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9999999999999988,
+  "scale": 0.44444444444444386,
   "close": false
 }
