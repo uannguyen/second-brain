@@ -177,8 +177,7 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "zk-prefixer:Create new unique note": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "fe5d0c6be646fbcb",
