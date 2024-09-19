@@ -1,5 +1,9 @@
+---
+tags: []
+---
 
-- [ ] Viết ticket xin off ngày mai
+
+- [x] Viết ticket xin off ngày mai
 # KPI
 - [ ] Điền KPI tháng 8
 
@@ -15,7 +19,7 @@
 - [ ] Api billpay
     - [ ] Api get bill info
     - [ ] Api pay bill
-- [ ] Api buycard
+- [ ] Api buycard (đt, game)
 - [ ] Update trans ecopay (`payment_status`, `received_amount`)
 - [x] Tạo acc cho smartpos bên `backend`
 - [x] API ecopay get merchant profile(ko cần dùng)
@@ -71,8 +75,9 @@
 - [x] gắn vòng quay mới (map lại thứ tự quà)
 - [x] Xuất file export lịch sử quay thưởng thiếu `Quà tặng`
 - [x] Reupload spin banner
-- [ ] Coi game phase 2
-- [ ]  
+- [ ] Coi game phase 2 
+- [ ] quét portal docs
+- [ ] 
 
 # risk
 - [x] tách rule 1

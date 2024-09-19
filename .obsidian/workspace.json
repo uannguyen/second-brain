@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#xxx",
+                "query": "tag:#z",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe5d0c6be646fbcb",
+  "active": "b79a319d5e640948",
   "lastOpenFiles": [
     "Projects/FINVIET/SmartPOS/POS buycard setting.md",
     "Projects/FINVIET/SmartPOS/index.md",
