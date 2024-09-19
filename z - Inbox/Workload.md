@@ -16,7 +16,7 @@
 - [ ] Flows quẹt thẻ: nếu thanh toán thành công mà gạch nợ(bill, ...) thất bại thì xử lý như nào ? Hoàn tiền hay gạch nợ lại ?
 - [x] Xử lý GD được tạo ra bên phía smartpos ? (Mobile tự call tạo)
 - [ ] Ko thấy tạo task trên Jira
-- [ ] Thêm cấu hình cho mấy dịch vụ viễn thông khác
+- [x] Thêm cấu hình cho mấy dịch vụ viễn thông khác
 
 
 
@@ -80,8 +80,8 @@
 
 # be docs
 - [x] update file storaged
-- [ ] Update docs `trươnghai`
-- [ ] update docs `iomedia2`
+- [x] Update docs `trươnghai`
+- [x] update docs `iomedia2`
 - [ ] Thêm Openapi get bill
 
 
