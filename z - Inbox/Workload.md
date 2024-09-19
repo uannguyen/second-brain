@@ -1,4 +1,5 @@
 
+- [ ] Viết ticket xin off ngày mai
 # KPI
 - [ ] Điền KPI tháng 8
 
@@ -8,11 +9,19 @@
     - [x] Upload ảnh nhà mạng lên
 - [ ] Api thanh toán (topup)
     - [ ]  Xử lý chỗ update trans, call api ecopay update status cho api `topup`
+- [ ] Api postpaid
+    - [ ] Api get postpaid info
+    - [ ] Api pay postpaid
+- [ ] Api billpay
+    - [ ] Api get bill info
+    - [ ] Api pay bill
+- [ ] Api buycard
+- [ ] Update trans ecopay (`payment_status`, `received_amount`)
 - [x] Tạo acc cho smartpos bên `backend`
 - [x] API ecopay get merchant profile(ko cần dùng)
 - [x] Tích hợp đầu openapi
-- [ ] Có cần map lại response data từ bên openapi ?
-    - [ ] Khi call gạch nợ thì có trả về `code(mã lỗi)`, `message(nội dung)` 
+- [x] Có cần map lại response data từ bên openapi ?
+    - [x] Khi call gạch nợ thì có trả về `code(mã lỗi)`, `message(nội dung)` 
 - [ ] Flows quẹt thẻ: nếu thanh toán thành công mà gạch nợ(bill, ...) thất bại thì xử lý như nào ? Hoàn tiền hay gạch nợ lại ?
 - [x] Xử lý GD được tạo ra bên phía smartpos ? (Mobile tự call tạo)
 - [ ] Ko thấy tạo task trên Jira

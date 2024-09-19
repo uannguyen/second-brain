@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/SmartPOS/index.md",
+                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FINVIET/SmartPOS/index.md"
+                "file": "z - Inbox/Workload.md"
               }
             }
           },
@@ -193,11 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5379a4639ad533e1",
+  "active": "fe5d0c6be646fbcb",
   "lastOpenFiles": [
-    "z - Inbox/Workload.md",
-    "Projects/FINVIET/SmartPOS/index.md",
     "Projects/FINVIET/SmartPOS/POS buycard setting.md",
+    "Projects/FINVIET/SmartPOS/index.md",
+    "z - Inbox/Workload.md",
     "Projects/FINVIET/SmartPOS/POS Topup setting.md",
     "Untitled.md",
     "Projects/FINVIET/Backend/noti Merchant.md",
