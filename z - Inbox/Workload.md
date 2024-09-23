@@ -11,16 +11,17 @@ tags: []
 
 - [x] Api get setting
     - [x] Upload ảnh nhà mạng lên
-- [ ] topup
-    - [ ]  Xử lý chỗ update trans, call api ecopay update status cho api `topup`
-- [ ] Api postpaid
-    - [ ] Api get postpaid info
-    - [ ] Api pay postpaid
-- [ ] Api billpay
-    - [ ] Api get bill info
-    - [ ] Api pay bill
-- [ ] Api buycard (đt, game)
-- [ ] Update trans ecopay (`payment_status`, `received_amount`)
+- [x] topup
+    - [x]  Xử lý chỗ update trans, call api ecopay update status cho api `topup`
+- [x] Api postpaid
+    - [x] Api get postpaid info
+    - [x] Api pay postpaid
+- [x] Api billpay
+    - [x] Api get bill info
+    - [x] Api pay bill
+- [x] Api buycard (đt, game)
+- [x] Update trans ecopay (`payment_status`, `received_amount`)
+- [ ] 
 - [x] Tạo acc cho smartpos bên `backend`
 - [x] API ecopay get merchant profile(ko cần dùng)
 - [x] Tích hợp đầu openapi
@@ -30,6 +31,11 @@ tags: []
 - [x] Xử lý GD được tạo ra bên phía smartpos ? (Mobile tự call tạo)
 - [ ] Ko thấy tạo task trên Jira
 - [x] Thêm cấu hình cho mấy dịch vụ viễn thông khác
+- [ ] Map provider name billpay
+- [ ] Check buycard 3G bên openapi
+- [ ] Check get bill info evn ra có một bill
+- [ ] Up lại mấy hình provider
+- [ ] 
 
 
 
