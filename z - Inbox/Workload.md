@@ -11,7 +11,7 @@ tags: []
 
 - [x] Api get setting
     - [x] Upload ảnh nhà mạng lên
-- [ ] Api thanh toán (topup)
+- [ ] topup
     - [ ]  Xử lý chỗ update trans, call api ecopay update status cho api `topup`
 - [ ] Api postpaid
     - [ ] Api get postpaid info

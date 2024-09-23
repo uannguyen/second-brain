@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview.md",
+                "file": "z - Inbox/Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview.md"
+                "file": "z - Inbox/Workload.md"
               }
             }
           },
@@ -194,8 +194,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b79a319d5e640948",
+  "active": "fe5d0c6be646fbcb",
   "lastOpenFiles": [
+    "Dataview.md",
     "Projects/FINVIET/SmartPOS/POS buycard setting.md",
     "Projects/FINVIET/SmartPOS/index.md",
     "z - Inbox/Workload.md",
@@ -203,7 +204,6 @@
     "Untitled.md",
     "Projects/FINVIET/Backend/noti Merchant.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-    "Dataview.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
     "Projects/FINVIET/Eco Web App/Buycard Openapi.md",
