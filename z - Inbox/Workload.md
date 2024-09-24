@@ -33,8 +33,9 @@ tags: []
 - [x] Thêm cấu hình cho mấy dịch vụ viễn thông khác
 - [ ] Map provider name billpay
 - [ ] Check buycard 3G bên openapi
-- [ ] Check get bill info evn ra có một bill
-- [ ] Up lại mấy hình provider
+    - [ ] Tạm chờ check lại
+- [x] Check get bill info evn ra có một bill
+- [x] Up lại mấy hình provider
 - [ ] 
 
 

@@ -4,80 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ee2b10af28a319f8",
+        "id": "f520266af1a2605e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a361e8df9acdb82",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fe5d0c6be646fbcb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z - Inbox/Workload.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f32d2a1d5b317b50",
+            "id": "964adb1fa816b2c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/SmartPOS/POS game_buycard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5379a4639ad533e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FINVIET/SmartPOS/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a4ae358166f3c72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Developer/Linux-Command/Linux-Command.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FINVIET/SmartPOS/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/FINVIET/SmartPOS/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,24 +141,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5379a4639ad533e1",
+  "active": "964adb1fa816b2c1",
   "lastOpenFiles": [
+    "Dataview.md",
+    "202409172205.md",
+    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
+    "Untitled.md",
     "z - Inbox/Workload.md",
     "Projects/FINVIET/SmartPOS/POS game_buycard.md",
     "Projects/FINVIET/SmartPOS/index.md",
-    "Projects/FINVIET/SmartPOS/POS buycard setting.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
+    "Projects/FINVIET/Backend/VDS/noted.md",
+    "Projects/FINVIET/SmartPOS/POS buycard setting.md",
     "Projects/FINVIET/SmartPOS/POS Topup setting.md",
     "Projects/FINVIET/Common Noted.md",
-    "Dataview.md",
-    "Untitled.md",
     "Projects/FINVIET/Backend/noti Merchant.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
     "Projects/FINVIET/Eco Web App/Buycard Openapi.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
-    "202409172205.md",
     "Excalidraw/webapp - start session flows.md",
     "Untitled",
     "Excalidraw/Drawing 2024-09-12 21.38.10.excalidraw.md",
@@ -244,7 +180,6 @@
     "Books/Dive Into Design Pattern/Catalog.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Features of Good Design.md",
     "Templates/Note Template.md",
-    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
     "Projects/FINVIET/SmartPOS/Untitled",
     "Projects/FINVIET/SmartPOS",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",
