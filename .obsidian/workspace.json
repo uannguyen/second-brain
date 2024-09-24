@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f520266af1a2605e",
+        "id": "2d82779339e0dbae",
         "type": "tabs",
         "children": [
           {
-            "id": "964adb1fa816b2c1",
+            "id": "edb249af9a97cfcf",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -141,8 +141,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "964adb1fa816b2c1",
+  "active": "edb249af9a97cfcf",
   "lastOpenFiles": [
+    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Dataview.md",
     "202409172205.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
@@ -179,7 +180,6 @@
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-81.png",
     "Books/Dive Into Design Pattern/Catalog.md",
     "Books/Dive Into Design Pattern/III. Software Design Principles/Features of Good Design.md",
-    "Templates/Note Template.md",
     "Projects/FINVIET/SmartPOS/Untitled",
     "Projects/FINVIET/SmartPOS",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",
