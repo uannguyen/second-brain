@@ -4,18 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2d82779339e0dbae",
+        "id": "b17cd764f01748d8",
         "type": "tabs",
         "children": [
           {
-            "id": "edb249af9a97cfcf",
+            "id": "41ea36db93acbee5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z - Inbox/Workload.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d512d79e8aec4fe6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/TT40.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/TT40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/TT40.md"
+              }
             }
           },
           {
@@ -123,11 +147,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,16 +166,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edb249af9a97cfcf",
+  "active": "d512d79e8aec4fe6",
   "lastOpenFiles": [
+    "Projects/Thông tư 40.canvas",
+    "Projects/TT40.md",
+    "z - Inbox/Workload.md",
+    "z - Inbox/Ghi chú tạm thời.md",
+    "Projects/FINVIET/Backend/evnspc.md",
+    "Projects/FINVIET/SmartPOS/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
     "Dataview.md",
     "202409172205.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Untitled.md",
-    "z - Inbox/Workload.md",
     "Projects/FINVIET/SmartPOS/POS game_buycard.md",
-    "Projects/FINVIET/SmartPOS/index.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Projects/FINVIET/Backend/VDS/noted.md",
     "Projects/FINVIET/SmartPOS/POS buycard setting.md",
@@ -166,8 +195,6 @@
     "Excalidraw/Drawing 2024-09-12 21.38.10.excalidraw.md",
     "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md",
     "Excalidraw/Drawing 2024-09-17 21.57.55.excalidraw.md",
-    "Knowledge/Developer/Telegram Tips.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.8 Strategy/3.8 Strategy.md",
     "Assests/Images/BOOKS/dive-into-design-pattern/dive-into-design-pattern.png.jpg",
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-101.png",
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-119.png.png",
@@ -178,8 +205,6 @@
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-52.jpg",
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-77.png",
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-81.png",
-    "Books/Dive Into Design Pattern/Catalog.md",
-    "Books/Dive Into Design Pattern/III. Software Design Principles/Features of Good Design.md",
     "Projects/FINVIET/SmartPOS/Untitled",
     "Projects/FINVIET/SmartPOS",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",
@@ -197,7 +222,6 @@
     "Projects/FINVIET/Backend/forgot pass.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Projects/FINVIET/Eco Web App/auth-flows.canvas",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.1 Factory Method.canvas"
+    "Projects/FINVIET/Eco Web App/auth-flows.canvas"
   ]
 }
