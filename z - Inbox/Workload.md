@@ -13,6 +13,7 @@ tags: []
 
 - [ ] Xử cron TT40
 - [ ] Chặn hủy LK bank nếu là bank cuối cùng (có thể hú Trung xử, check theo version release)
+- [ ] Khi mở khóa cần update `unlocked_by_activated_rule_at` cho nó (VD case R5 sau khi mở khóa trong vòng bn ngày mà KH chưa thực hiện GD thì mới đc khóa tiếp)
 
 # SmartPOS API
 
