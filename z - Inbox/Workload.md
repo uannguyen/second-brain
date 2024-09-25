@@ -92,6 +92,7 @@ tags: []
 - [x] Reupload spin banner
 - [ ] Coi game phase 2 
 - [ ] quét portal docs
+- [ ] Chỉ được follow 1 store trong suốt chương trình
 - [ ] 
 
 # risk
