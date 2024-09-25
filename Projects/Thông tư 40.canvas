@@ -1,29 +1,37 @@
 {
 	"nodes":[
-		{"id":"afb294cd1f84b583","x":-380,"y":-1440,"width":1140,"height":799,"type":"group","label":"Cron rule"},
-		{"id":"8541298563ab5bde","x":-160,"y":0,"width":400,"height":589,"type":"group","label":"Mở khóa"},
-		{"id":"196933e9aca8e193","x":-115,"y":27,"width":320,"height":97,"type":"text","text":"CSKH/Admin mở khoá trên NPP\n"},
-		{"id":"2ff99325dc1deb24","x":-115,"y":175,"width":320,"height":147,"type":"text","text":"Tự động khi hoàn thành eKYC (được duyệt) và đã map bank"},
-		{"id":"85f0c95942c3b241","x":-117,"y":382,"width":322,"height":177,"type":"text","text":"CSKH/Admin mở khoá trên NPP (cần có nhật ký khoá ví để Admin quyết định mở khoá)"},
-		{"id":"b0c910c4c270a26d","x":-997,"y":-412,"width":354,"height":267,"type":"text","text":"**R1 - acct_Init** (Auto)\n- Khi mở ví, ví sẽ có trạng thái Khoá cho đến khi hoàn thành eKYC và map Bank"},
-		{"id":"c9af7b2f66320416","x":-997,"y":-107,"width":357,"height":203,"type":"text","text":"**R2 - admin_lock** (Manual)\n\n- CSKH/Admin khoá trên NPP"},
-		{"id":"3111de524d150240","type":"text","text":"**R3 - risk_lock** (Semi Auto)\n- Ví khách hàng vi phạm các Rule quản lý rủi ro (Risk)","x":-997,"y":135,"width":354,"height":267},
-		{"id":"84660d016366a4cb","type":"text","text":"**R4 - id_expired** (Auto)\n- Khoá do hết hạn giấy tờ (CCCD)","x":-994,"y":446,"width":354,"height":267},
-		{"id":"4fed4ff7a3416c17","type":"text","text":"**R5 - no_trans_1yrs** (Auto)\n- Ví không phát sinh giao dịch 1 năm thì tạm khoá\t","x":-997,"y":760,"width":354,"height":267},
-		{"id":"c75630dc30ae710d","x":554,"y":150,"width":606,"height":470,"color":"3","type":"text","text":"\n- Nếu ví bị OFF thì mở như nào ?\n- Case R3 có thể mở khóa trên NPP nhưng cần nhật ký khóa ví ? Nhật ký này là notes chăng ? Hay chỉ cần show ra list flag lý do khóa ví\n- Giả sử trước đó ví bị khóa bởi `R1` và đã gắn flag `acct_init`, sau đó ví lại bị khóa bởi `R3` và gắn thêm flag `risk_lock` - Có xảy ra case này không ?\n    - Nếu có case  trên, vậy khi EKYC và mapbank xong, vẫn ko được mở khóa vì dính `R3` cần admin mở trên NPP ?"},
-		{"id":"446bb68e6a73c746","x":554,"y":-243,"width":559,"height":319,"color":"6","type":"text","text":"- Define thêm field `wallet_lock_flags` lưu lại danh sách cờ khi bị khóa ví\n- Nếu khóa bởi `R1`, `R4` thì mới đc tự động mở khóa\n- Nếu khóa bởi `R2`, `R3`, `R5` thì buộc phải mở khóa bởi Admin trên NPP\n"},
-		{"id":"589502a15fe13071","x":-340,"y":-1400,"width":600,"height":340,"type":"text","text":"- Thời gian check là sau ngày release app\n- ..."},
+		{"id":"afb294cd1f84b583","type":"group","x":-380,"y":-1440,"width":1140,"height":799,"label":"Cron rule"},
+		{"id":"8541298563ab5bde","type":"group","x":-210,"y":-100,"width":400,"height":589,"label":"Mở khóa"},
+		{"id":"dd382301e9f312be","type":"group","x":760,"y":-149,"width":400,"height":589,"label":"Cần check ?"},
+		{"id":"dbab66b1bec8aef4","type":"group","x":280,"y":-150,"width":320,"height":689,"label":"Giả lập case khóa ví"},
+		{"id":"589502a15fe13071","type":"text","text":"- Thời gian check là sau ngày release app\n- ...","x":-340,"y":-1400,"width":600,"height":340},
 		{"id":"fcde34c691ca9ad7","type":"text","text":"Ví hoạt động:\n- Tải app, đk thông tin\n- EKYC\n- Mapbank\n- Ko hết hạn CCCD\n- Phát sinh GD trong vòng 1 năm","x":-340,"y":-978,"width":354,"height":320,"color":"4"},
 		{"id":"86b76ec4ce8b0d8f","type":"text","text":"Ví Khóa:\n- Ko EKYC và Mapbank (sau 7 ngày mở ví)\n- Ko phát sinh GD trong 1 năm","x":40,"y":-978,"width":320,"height":320,"color":"2"},
-		{"id":"03ee7ed8c15e4745","x":384,"y":-978,"width":340,"height":320,"type":"text","text":"Ví OFF:\n- Ko EKYC và mapbank sau 1 tháng kể từ ngày mở ví\n"}
+		{"id":"03ee7ed8c15e4745","type":"text","text":"Ví OFF:\n- Ko EKYC và mapbank sau 1 tháng kể từ ngày mở ví\n","x":384,"y":-978,"width":340,"height":320},
+		{"id":"b0c910c4c270a26d","type":"text","text":"**R1 - acct_Init** (Auto)\n- Khi mở ví, ví sẽ có trạng thái Khoá cho đến khi hoàn thành eKYC và map Bank","x":-1001,"y":-412,"width":354,"height":267},
+		{"id":"c9af7b2f66320416","type":"text","text":"**R2 - admin_lock** (Manual)\n\n- CSKH/Admin khoá trên NPP","x":-1001,"y":-107,"width":357,"height":203},
+		{"id":"3111de524d150240","type":"text","text":"**R3 - risk_lock** (Semi Auto)\n- Ví khách hàng vi phạm các Rule quản lý rủi ro (Risk)","x":-1001,"y":135,"width":354,"height":267},
+		{"id":"84660d016366a4cb","type":"text","text":"**R4 - id_expired** (Auto)\n- Khoá do hết hạn giấy tờ (CCCD)","x":-998,"y":446,"width":354,"height":267},
+		{"id":"4fed4ff7a3416c17","type":"text","text":"**R5 - no_trans_1yrs** (Auto)\n- Ví không phát sinh giao dịch 1 năm thì tạm khoá\t","x":-1001,"y":760,"width":354,"height":267},
+		{"id":"c75630dc30ae710d","type":"text","text":"\n\n- Case R3 có thể mở khóa trên NPP nhưng cần nhật ký khóa ví ? Nhật ký này là notes chăng ? Hay chỉ cần show ra list flags lý do khóa ví\n\n- Giả sử trước đó ví bị khóa bởi `R1` và đã gắn flag `acct_init`, sau đó ví lại bị khóa bởi `R3` và gắn thêm flag `risk_lock` - Có xảy ra case này không ?\n    - Nếu có case  trên, vậy khi EKYC và mapbank xong, vẫn ko được mở khóa vì dính `R3` cần admin mở trên NPP ?","x":-727,"y":1320,"width":606,"height":580,"color":"3"},
+		{"id":"446bb68e6a73c746","type":"text","text":"- Define thêm field `wallet_lock_flags` lưu lại danh sách cờ khi bị khóa ví\n- Nếu khóa bởi `R1`, `R4` thì mới đc tự động mở khóa\n- Nếu khóa bởi `R2`, `R3`, `R5` thì buộc phải mở khóa bởi Admin trên NPP\n","x":40,"y":1396,"width":559,"height":319,"color":"6"},
+		{"id":"85f0c95942c3b241","type":"text","text":"CSKH/Admin mở khoá trên NPP (cần có nhật ký khoá ví để Admin quyết định mở khoá)","x":-171,"y":282,"width":322,"height":177},
+		{"id":"196933e9aca8e193","type":"text","text":"CSKH/Admin mở khoá trên NPP\n","x":-169,"y":-73,"width":320,"height":97},
+		{"id":"2ff99325dc1deb24","type":"text","text":"Tự động khi hoàn thành eKYC (được duyệt) và đã map bank","x":-169,"y":75,"width":320,"height":147},
+		{"id":"f88ad43977bf797f","x":780,"y":-103,"width":250,"height":79,"type":"text","text":"EKYC"},
+		{"id":"cc6dbfe0174763dc","x":780,"y":17,"width":250,"height":60,"type":"text","text":"Mapbank"},
+		{"id":"d4b93a7522e1fe66","x":1247,"y":-135,"width":250,"height":60,"type":"text","text":"Xóa Flag"},
+		{"id":"a4702c853cc1b270","x":1247,"y":100,"width":250,"height":60,"type":"text","text":"Update Status"},
+		{"id":"4ba7d170a013bb53","x":300,"y":26,"width":250,"height":207,"type":"text","text":" R1\n R2\n R3\n R4\n R5\n "},
+		{"id":"a0e995b6e4eabdd6","x":354,"y":-105,"width":142,"height":82,"type":"text","text":"R1\nR4"}
 	],
 	"edges":[
-		{"id":"491ca7ffd7e72244","fromNode":"8541298563ab5bde","fromSide":"right","toNode":"c75630dc30ae710d","toSide":"left","color":"3","label":"Noted"},
+		{"id":"491ca7ffd7e72244","fromNode":"8541298563ab5bde","fromSide":"bottom","toNode":"c75630dc30ae710d","toSide":"top","color":"3","label":"Noted"},
 		{"id":"d8bbe317c2988f8f","fromNode":"b0c910c4c270a26d","fromSide":"right","toNode":"2ff99325dc1deb24","toSide":"left","color":"1"},
 		{"id":"d7d4c685a793304d","fromNode":"84660d016366a4cb","fromSide":"right","toNode":"2ff99325dc1deb24","toSide":"left","color":"1"},
 		{"id":"90234db3218fdcd6","fromNode":"c9af7b2f66320416","fromSide":"right","toNode":"196933e9aca8e193","toSide":"left","color":"4"},
 		{"id":"eae3b5d0b49d2f62","fromNode":"4fed4ff7a3416c17","fromSide":"right","toNode":"196933e9aca8e193","toSide":"left","color":"4"},
 		{"id":"10b4824f5a53d49b","fromNode":"3111de524d150240","fromSide":"right","toNode":"85f0c95942c3b241","toSide":"left","color":"5"},
-		{"id":"81cd22f1d570bc05","fromNode":"8541298563ab5bde","fromSide":"right","toNode":"446bb68e6a73c746","toSide":"left","color":"6","label":"Confirm"}
+		{"id":"81cd22f1d570bc05","fromNode":"8541298563ab5bde","fromSide":"bottom","toNode":"446bb68e6a73c746","toSide":"left","color":"6","label":"Confirm"}
 	]
 }

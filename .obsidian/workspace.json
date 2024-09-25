@@ -26,14 +26,12 @@
             "id": "d512d79e8aec4fe6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Thông tư 40.canvas",
-                "viewState": {
-                  "x": 735.4439686679893,
-                  "y": -14.525094303405957,
-                  "zoom": 0.5217324380322839
-                }
+                "file": "Projects/TT40.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Thông tư 40.canvas",
+                "file": "Projects/TT40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Thông tư 40.canvas"
+                "file": "Projects/TT40.md"
               }
             }
           },
@@ -170,8 +168,8 @@
   },
   "active": "d512d79e8aec4fe6",
   "lastOpenFiles": [
-    "z - Inbox/Workload.md",
     "Projects/Thông tư 40.canvas",
+    "z - Inbox/Workload.md",
     "Projects/TT40.md",
     "z - Inbox/Ghi chú tạm thời.md",
     "Projects/FINVIET/Backend/evnspc.md",
