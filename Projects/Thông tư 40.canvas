@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"86b76ec4ce8b0d8f","x":-227,"y":-300,"width":250,"height":160,"type":"text","text":""},
-		{"id":"fcde34c691ca9ad7","x":-740,"y":-380,"width":340,"height":220,"type":"text","text":"ĐK ví hoạt động:\n- Tải app, đk thông tin\n- EKYC\n- Mapbank"}
+		{"id":"fcde34c691ca9ad7","type":"text","text":"Ví hoạt động:\n- Tải app, đk thông tin\n- EKYC\n- Mapbank","x":-880,"y":-560,"width":340,"height":220},
+		{"id":"86b76ec4ce8b0d8f","type":"text","text":"Ví Khóa:\n- Ko EKYC và Mapbank (sau 7 ngày mở ví)\n- Ko phát sinh GD trong 1 năm","x":-480,"y":-600,"width":320,"height":300},
+		{"id":"03ee7ed8c15e4745","x":-120,"y":-566,"width":314,"height":232,"type":"text","text":"Ví OFF:\n- 1 Tháng kể từ ngày mở ví\n- "}
 	],
 	"edges":[]
 }

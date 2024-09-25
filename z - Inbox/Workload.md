@@ -4,6 +4,8 @@ tags: []
 
 
 - [x] Viết ticket xin off ngày mai
+- [ ] Tách FV project ra một vaul riêng, bỏ hết docs, file liên quan vào luôn (kể cả folder FV-Docs ở ngoài Desktop)
+- [ ] 
 # KPI
 - [ ] Điền KPI tháng 8
 
