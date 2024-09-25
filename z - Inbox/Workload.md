@@ -9,6 +9,11 @@ tags: []
 # KPI
 - [ ] Điền KPI tháng 8
 
+# Merchant
+
+- [ ] Xử cron TT40
+- [ ] Chặn hủy LK bank nếu là bank cuối cùng (có thể hú Trung xử, check theo version release)
+
 # SmartPOS API
 
 - [x] Api get setting
