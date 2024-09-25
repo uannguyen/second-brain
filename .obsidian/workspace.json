@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b17cd764f01748d8",
+        "id": "a212d6e97f31bce6",
         "type": "tabs",
         "children": [
           {
-            "id": "41ea36db93acbee5",
+            "id": "8efa86a276fa4ac1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z - Inbox/Workload.md",
+                "file": "Dataview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,23 +23,20 @@
             }
           },
           {
-            "id": "d512d79e8aec4fe6",
+            "id": "03e4ba716b819239",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6cc2119c7f08a834",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Books/How To Smart Note/3.1 The Tool Box.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -105,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/How To Smart Note/3.1 The Tool Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/How To Smart Note/3.1 The Tool Box.md"
+              }
             }
           },
           {
@@ -162,19 +162,33 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cc2119c7f08a834",
+  "active": "03e4ba716b819239",
   "lastOpenFiles": [
+    "Books/How To Smart Note/3 Everything You Need to Have.md",
+    "Books/How To Smart Note/3.1 The Tool Box.md",
+    "Books/How To Smart Note/2.1 Writing a paper step by step.md",
+    "Books/How To Smart Note/2 Everything You Need to Do.md",
+    "Books/How To Smart Note/1.3 - The slip-box manual.md",
+    "Plan/Kế hoạch cá nhân.md",
+    "Books/How To Smart Note",
+    "Plan/Đọc sách.md",
+    "Dataview.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
+    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
+    "z - Inbox/test.canvas",
+    "z - Inbox/Ghi chú tạm thời.md",
+    "Templates/Note Template.md",
+    "z - Inbox/Workload.md",
     "Projects/TT40.md",
     "Projects/Thông tư 40.canvas",
-    "z - Inbox/Workload.md",
-    "z - Inbox/Ghi chú tạm thời.md",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/SmartPOS/index.md",
     "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-    "Dataview.md",
     "202409172205.md",
     "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
     "Untitled.md",
@@ -183,17 +197,7 @@
     "Projects/FINVIET/Backend/VDS/noted.md",
     "Projects/FINVIET/SmartPOS/POS buycard setting.md",
     "Projects/FINVIET/SmartPOS/POS Topup setting.md",
-    "Projects/FINVIET/Common Noted.md",
-    "Projects/FINVIET/Backend/noti Merchant.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.7 State/3.7 State.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.6 Observer/3.6 Observer.md",
-    "Projects/FINVIET/Eco Web App/Buycard Openapi.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
-    "Excalidraw/webapp - start session flows.md",
     "Untitled",
-    "Excalidraw/Drawing 2024-09-12 21.38.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-13 14.42.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-17 21.57.55.excalidraw.md",
     "Assests/Images/BOOKS/dive-into-design-pattern/dive-into-design-pattern.png.jpg",
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-101.png",
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-119.png.png",
@@ -212,9 +216,7 @@
     "[Books/Dive Into Design Pattern",
     "[Books",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-    "z - Inbox/test.canvas",
     "Excalidraw",
-    "Fleeting Notes",
     "Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
