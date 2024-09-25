@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"afb294cd1f84b583","x":-380,"y":-1360,"width":1140,"height":799,"type":"group","label":"Cron rule"},
+		{"id":"afb294cd1f84b583","x":-380,"y":-1440,"width":1140,"height":799,"type":"group","label":"Cron rule"},
 		{"id":"8541298563ab5bde","x":-160,"y":0,"width":400,"height":589,"type":"group","label":"Mở khóa"},
 		{"id":"196933e9aca8e193","x":-115,"y":27,"width":320,"height":97,"type":"text","text":"CSKH/Admin mở khoá trên NPP\n"},
 		{"id":"2ff99325dc1deb24","x":-115,"y":175,"width":320,"height":147,"type":"text","text":"Tự động khi hoàn thành eKYC (được duyệt) và đã map bank"},
@@ -10,19 +10,20 @@
 		{"id":"3111de524d150240","type":"text","text":"**R3 - risk_lock** (Semi Auto)\n- Ví khách hàng vi phạm các Rule quản lý rủi ro (Risk)","x":-997,"y":135,"width":354,"height":267},
 		{"id":"84660d016366a4cb","type":"text","text":"**R4 - id_expired** (Auto)\n- Khoá do hết hạn giấy tờ (CCCD)","x":-994,"y":446,"width":354,"height":267},
 		{"id":"4fed4ff7a3416c17","type":"text","text":"**R5 - no_trans_1yrs** (Auto)\n- Ví không phát sinh giao dịch 1 năm thì tạm khoá\t","x":-997,"y":760,"width":354,"height":267},
-		{"id":"fcde34c691ca9ad7","type":"text","text":"Ví hoạt động:\n- Tải app, đk thông tin\n- EKYC\n- Mapbank\n- Ko hết hạn CCCD\n- Phát sinh GD trong vòng 1 năm","x":-340,"y":-898,"width":354,"height":320,"color":"4"},
-		{"id":"86b76ec4ce8b0d8f","type":"text","text":"Ví Khóa:\n- Ko EKYC và Mapbank (sau 7 ngày mở ví)\n- Ko phát sinh GD trong 1 năm","x":40,"y":-898,"width":320,"height":320,"color":"2"},
-		{"id":"03ee7ed8c15e4745","x":384,"y":-898,"width":340,"height":320,"type":"text","text":"Ví OFF:\n- Ko EKYC và mapbank sau 1 tháng kể từ ngày mở ví\n"},
-		{"id":"589502a15fe13071","x":-340,"y":-1320,"width":600,"height":340,"type":"text","text":"- Thời gian check là sau ngày relase app"},
-		{"id":"446bb68e6a73c746","x":-199,"y":-418,"width":559,"height":273,"type":"text","text":"Ví dụ:\n- User bị khóa bởi 2 case:"},
-		{"id":"c75630dc30ae710d","x":440,"y":26,"width":480,"height":533,"color":"3","type":"text","text":"- Tính ra ko cần chạy cron cho mở khóa\n- Nếu ví bị OFF thì mở như nào ?\n- Nếu user bị khóa bởi `R1`"}
+		{"id":"c75630dc30ae710d","x":554,"y":150,"width":606,"height":470,"color":"3","type":"text","text":"\n- Nếu ví bị OFF thì mở như nào ?\n- Case R3 có thể mở khóa trên NPP nhưng cần nhật ký khóa ví ? Nhật ký này là notes chăng ? Hay chỉ cần show ra list flag lý do khóa ví\n- Giả sử trước đó ví bị khóa bởi `R1` và đã gắn flag `acct_init`, sau đó ví lại bị khóa bởi `R3` và gắn thêm flag `risk_lock` - Có xảy ra case này không ?\n    - Nếu có case  trên, vậy khi EKYC và mapbank xong, vẫn ko được mở khóa vì dính `R3` cần admin mở trên NPP ?"},
+		{"id":"446bb68e6a73c746","x":554,"y":-243,"width":559,"height":319,"color":"6","type":"text","text":"- Define thêm field `wallet_lock_flags` lưu lại danh sách cờ khi bị khóa ví\n- Nếu khóa bởi `R1`, `R4` thì mới đc tự động mở khóa\n- Nếu khóa bởi `R2`, `R3`, `R5` thì buộc phải mở khóa bởi Admin trên NPP\n"},
+		{"id":"589502a15fe13071","x":-340,"y":-1400,"width":600,"height":340,"type":"text","text":"- Thời gian check là sau ngày release app\n- ..."},
+		{"id":"fcde34c691ca9ad7","type":"text","text":"Ví hoạt động:\n- Tải app, đk thông tin\n- EKYC\n- Mapbank\n- Ko hết hạn CCCD\n- Phát sinh GD trong vòng 1 năm","x":-340,"y":-978,"width":354,"height":320,"color":"4"},
+		{"id":"86b76ec4ce8b0d8f","type":"text","text":"Ví Khóa:\n- Ko EKYC và Mapbank (sau 7 ngày mở ví)\n- Ko phát sinh GD trong 1 năm","x":40,"y":-978,"width":320,"height":320,"color":"2"},
+		{"id":"03ee7ed8c15e4745","x":384,"y":-978,"width":340,"height":320,"type":"text","text":"Ví OFF:\n- Ko EKYC và mapbank sau 1 tháng kể từ ngày mở ví\n"}
 	],
 	"edges":[
-		{"id":"491ca7ffd7e72244","fromNode":"8541298563ab5bde","fromSide":"right","toNode":"c75630dc30ae710d","toSide":"left","color":"3","label":"noted"},
+		{"id":"491ca7ffd7e72244","fromNode":"8541298563ab5bde","fromSide":"right","toNode":"c75630dc30ae710d","toSide":"left","color":"3","label":"Noted"},
 		{"id":"d8bbe317c2988f8f","fromNode":"b0c910c4c270a26d","fromSide":"right","toNode":"2ff99325dc1deb24","toSide":"left","color":"1"},
 		{"id":"d7d4c685a793304d","fromNode":"84660d016366a4cb","fromSide":"right","toNode":"2ff99325dc1deb24","toSide":"left","color":"1"},
 		{"id":"90234db3218fdcd6","fromNode":"c9af7b2f66320416","fromSide":"right","toNode":"196933e9aca8e193","toSide":"left","color":"4"},
 		{"id":"eae3b5d0b49d2f62","fromNode":"4fed4ff7a3416c17","fromSide":"right","toNode":"196933e9aca8e193","toSide":"left","color":"4"},
-		{"id":"10b4824f5a53d49b","fromNode":"3111de524d150240","fromSide":"right","toNode":"85f0c95942c3b241","toSide":"left","color":"5"}
+		{"id":"10b4824f5a53d49b","fromNode":"3111de524d150240","fromSide":"right","toNode":"85f0c95942c3b241","toSide":"left","color":"5"},
+		{"id":"81cd22f1d570bc05","fromNode":"8541298563ab5bde","fromSide":"right","toNode":"446bb68e6a73c746","toSide":"left","color":"6","label":"Confirm"}
 	]
 }
