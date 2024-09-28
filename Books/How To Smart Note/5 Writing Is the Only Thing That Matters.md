@@ -1,0 +1,6 @@
+
+Việc viết lách đóng vai trò quan trọng đối với sinh viên, đặc biệt trong các kỳ thi, nhằm thể hiện khả năng học tập, tư duy phản biện và phát triển ý tưởng. Tuy nhiên, việc viết không chỉ là một kỹ năng riêng biệt cần học mà là một phần của nghiên cứu độc lập. Thay vì tách rời các nhiệm vụ học tập, nghiên cứu là quá trình liên tục khám phá và chia sẻ kiến thức trong cộng đồng khoa học.
+
+Trong trường học, học sinh thường không được khuyến khích theo đuổi con đường học tập riêng. Nhưng trong môi trường đại học, mọi thứ hướng đến việc công khai kiến thức. Việc viết là phương tiện chính để truyền đạt nghiên cứu và những gì sinh viên trình bày đều có giá trị công khai. Việc viết lách không chỉ là về kỹ năng mà còn là cách trình bày sự thật.
+
+Tập trung vào viết lách không có nghĩa là bỏ qua các nhiệm vụ khác mà thay vào đó giúp sinh viên tiếp cận mọi thứ một cách có mục đích rõ ràng. Khi tập trung vào viết, sinh viên sẽ học cách phân biệt giữa các lập luận tốt và yếu, đọc tài liệu với sự tập trung và hiểu sâu hơn, và biến những gì đã đọc thành điều gì đó mới mẻ. Bằng cách thực hành viết có chủ đích, họ sẽ cải thiện kỹ năng đọc, tư duy và phát triển các kỹ năng trí tuệ khác.

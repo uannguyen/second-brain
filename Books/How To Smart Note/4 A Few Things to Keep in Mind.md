@@ -1,0 +1,1 @@
+Việc hiểu cách dùng slip-box quan trọng hơn việc chỉ chuẩn bị nó. Nhiều người thất vọng vì không biết cách sử dụng đúng, biến nó thành nơi lưu trữ ghi chú vô ích. Dự án nghiên cứu tại Đại học Bielefeld đang giúp làm rõ cách Luhmann sử dụng slip-box, cho thấy tại sao nó hiệu quả. Hiểu cách và lý do nó hoạt động là chìa khóa để tùy chỉnh theo nhu cầu cá nhân

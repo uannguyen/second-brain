@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/How To Smart Note/4 A Few Things to Keep in Mind.md",
+                "file": "Books/How To Smart Note/6 Simplicity Is Paramount.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/How To Smart Note/4 A Few Things to Keep in Mind.md",
+                "file": "Books/How To Smart Note/6 Simplicity Is Paramount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/How To Smart Note/4 A Few Things to Keep in Mind.md"
+                "file": "Books/How To Smart Note/6 Simplicity Is Paramount.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "03e4ba716b819239",
   "lastOpenFiles": [
-    "Books/How To Smart Note/3.1 The Tool Box.md",
+    "Books/How To Smart Note/5 Writing Is the Only Thing That Matters.md",
+    "Books/How To Smart Note/6 Simplicity Is Paramount.md",
     "Books/How To Smart Note/4 A Few Things to Keep in Mind.md",
+    "Books/How To Smart Note/3.1 The Tool Box.md",
     "Books/How To Smart Note/3 Everything You Need to Have.md",
     "Books/How To Smart Note/2.1 Writing a paper step by step.md",
     "Books/How To Smart Note/2 Everything You Need to Do.md",
@@ -195,8 +197,6 @@
     "Untitled.md",
     "Projects/FINVIET/SmartPOS/POS game_buycard.md",
     "Knowledge/Developer/Linux-Command/Linux-Command.md",
-    "Projects/FINVIET/Backend/VDS/noted.md",
-    "Projects/FINVIET/SmartPOS/POS buycard setting.md",
     "Untitled",
     "Assests/Images/BOOKS/dive-into-design-pattern/dive-into-design-pattern.png.jpg",
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-101.png",
