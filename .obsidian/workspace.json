@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "03e4ba716b819239",
+            "id": "5d385328f3eb8ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/How To Smart Note/6 Simplicity Is Paramount.md",
+                "file": "Books/How To Smart Note/9.3 Give Each Task the Right Kind of Attention.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/How To Smart Note/6 Simplicity Is Paramount.md",
+                "file": "Books/How To Smart Note/9.3 Give Each Task the Right Kind of Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/How To Smart Note/6 Simplicity Is Paramount.md"
+                "file": "Books/How To Smart Note/9.3 Give Each Task the Right Kind of Attention.md"
               }
             }
           },
@@ -166,20 +166,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03e4ba716b819239",
+  "active": "5d385328f3eb8ae0",
   "lastOpenFiles": [
-    "Books/How To Smart Note/5 Writing Is the Only Thing That Matters.md",
+    "Books/How To Smart Note/9.2 Multitasking is not a good idea.md",
+    "Books/How To Smart Note/9.3 Give Each Task the Right Kind of Attention.md",
+    "Books/How To Smart Note/9.1 Give Each Task Your Undivided Attention.md",
+    "Dataview.md",
+    "Books/How To Smart Note/3 Everything You Need to Have.md",
+    "Books/How To Smart Note/9 Separate and Interlocking Tasks.md",
+    "Books/How To Smart Note/8 Let the Work Carry You Forward.md",
+    "Books/How To Smart Note/7 Nobody Ever Starts From Scratch.md",
     "Books/How To Smart Note/6 Simplicity Is Paramount.md",
+    "Books/How To Smart Note/5 Writing Is the Only Thing That Matters.md",
     "Books/How To Smart Note/4 A Few Things to Keep in Mind.md",
     "Books/How To Smart Note/3.1 The Tool Box.md",
-    "Books/How To Smart Note/3 Everything You Need to Have.md",
     "Books/How To Smart Note/2.1 Writing a paper step by step.md",
     "Books/How To Smart Note/2 Everything You Need to Do.md",
     "Books/How To Smart Note/1.3 The slip-box manual.md",
     "Plan/Kế hoạch cá nhân.md",
     "Books/How To Smart Note",
     "Plan/Đọc sách.md",
-    "Dataview.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
@@ -191,12 +197,6 @@
     "Projects/Thông tư 40.canvas",
     "Projects/FINVIET/Backend/evnspc.md",
     "Projects/FINVIET/SmartPOS/index.md",
-    "Projects/FINVIET/Eco Consumer/Verify Method/index.md",
-    "202409172205.md",
-    "Projects/FINVIET/Eco Game/LuckyWheel/Lucky wheel.md",
-    "Untitled.md",
-    "Projects/FINVIET/SmartPOS/POS game_buycard.md",
-    "Knowledge/Developer/Linux-Command/Linux-Command.md",
     "Untitled",
     "Assests/Images/BOOKS/dive-into-design-pattern/dive-into-design-pattern.png.jpg",
     "Assests/Images/BOOKS/dive-into-design-pattern/oop-101.png",
