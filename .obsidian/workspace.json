@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/How To Smart Note/10. 3 Get the Gist.md",
+                "file": "Dataview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/How To Smart Note/10. 3 Get the Gist.md",
+                "file": "Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/How To Smart Note/10. 3 Get the Gist.md"
+                "file": "Dataview.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "5d385328f3eb8ae0",
   "lastOpenFiles": [
+    "Books/How To Smart Note/11 Take Smart Notes.md",
+    "Books/How To Smart Note/10.5 Learn by Reading.md",
     "Books/How To Smart Note/10.2 Keep an Open Mind.md",
-    "Books/How To Smart Note/10. 3 Get the Gist.md",
+    "Books/How To Smart Note/10.3 Get the Gist.md",
+    "Books/How To Smart Note/10.4 Learn to Read.md",
     "Books/How To Smart Note/10.1 Read With a Pen in Hand.md",
     "Books/How To Smart Note/10 Read for Understanding.md",
     "Books/How To Smart Note/9.6 Reduce the Number of Decisions.md",
@@ -192,9 +195,6 @@
     "Books/How To Smart Note/2.1 Writing a paper step by step.md",
     "Plan/Kế hoạch cá nhân.md",
     "Books/How To Smart Note",
-    "Plan/Đọc sách.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
-    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento/Example Code.md",
     "z - Inbox/test.canvas",
     "Projects/Thông tư 40.canvas",
     "Untitled",
