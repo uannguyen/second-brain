@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fd8bfd533c21e628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Developer/Markdown/Markdown.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview.md",
+                "file": "Knowledge/Developer/Markdown/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview.md"
+                "file": "Knowledge/Developer/Markdown/Markdown.md"
               }
             }
           },
@@ -132,13 +146,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,8 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8efa86a276fa4ac1",
+  "active": "fd8bfd533c21e628",
   "lastOpenFiles": [
+    "Knowledge/Developer/Markdown/Obsidian.md",
+    "Dataview.md",
+    "Knowledge/Developer/Markdown/Markdown.md",
     "Books/How To Smart Note/1.2 The Slip-box.md",
     "Books/How To Smart Note/1.1 Good Solutions are Simple – and Unexpected.md",
     "Books/How To Smart Note/1 Everything You Need to Know.md",
@@ -177,9 +192,6 @@
     "Books/How To Smart Note/12.1 Develop Topics.md",
     "Books/How To Smart Note/11.2 Make Smart Connections.md",
     "Books/How To Smart Note/11.4 Adding Permanent Notes to the Slip-Box.md",
-    "Dataview.md",
-    "Books/How To Smart Note/11.3 Learn by not Trying.md",
-    "Books/How To Smart Note/11.2 Think Outside the Brain.md",
     "Books/How To Smart Note",
     "z - Inbox/test.canvas",
     "Projects/Thông tư 40.canvas",
