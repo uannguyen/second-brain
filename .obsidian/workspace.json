@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c6a89d44925e17ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/How To Smart Note/15 AFTERWORD.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/How To Smart Note/15 AFTERWORD.md",
+                "file": "Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/How To Smart Note/15 AFTERWORD.md"
+                "file": "Dataview.md"
               }
             }
           },
@@ -166,10 +152,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6a89d44925e17ea",
+  "active": "8efa86a276fa4ac1",
   "lastOpenFiles": [
-    "Books/How To Smart Note/14 Make It a Habit.md",
+    "Books/How To Smart Note/1.2 The Slip-box.md",
+    "Books/How To Smart Note/1.1 Good Solutions are Simple – and Unexpected.md",
+    "Books/How To Smart Note/1 Everything You Need to Know.md",
     "Books/How To Smart Note/15 AFTERWORD.md",
+    "Books/How To Smart Note/14 Make It a Habit.md",
     "Books/How To Smart Note/13.6 The Actual Writing.md",
     "Books/How To Smart Note/13.5 Becoming an Expert by Giving up Planning.md",
     "Books/How To Smart Note/13.4 Finishing and Review.md",
@@ -191,9 +180,6 @@
     "Dataview.md",
     "Books/How To Smart Note/11.3 Learn by not Trying.md",
     "Books/How To Smart Note/11.2 Think Outside the Brain.md",
-    "Books/How To Smart Note/11.1 Make a Career One Note at a Time.md",
-    "Books/How To Smart Note/11 Take Smart Notes.md",
-    "Books/How To Smart Note/10.5 Learn by Reading.md",
     "Books/How To Smart Note",
     "z - Inbox/test.canvas",
     "Projects/Thông tư 40.canvas",
