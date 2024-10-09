@@ -26,13 +26,8 @@
             "id": "fd8bfd533c21e628",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Developer/Markdown/Markdown.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Developer/Markdown/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Knowledge/Developer/Markdown/Markdown.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,9 +158,9 @@
   },
   "active": "fd8bfd533c21e628",
   "lastOpenFiles": [
+    "Knowledge/Developer/Markdown/Markdown.md",
     "Knowledge/Developer/Markdown/Obsidian.md",
     "Dataview.md",
-    "Knowledge/Developer/Markdown/Markdown.md",
     "Books/How To Smart Note/1.2 The Slip-box.md",
     "Books/How To Smart Note/1.1 Good Solutions are Simple – and Unexpected.md",
     "Books/How To Smart Note/1 Everything You Need to Know.md",
