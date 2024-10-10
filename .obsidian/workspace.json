@@ -26,8 +26,13 @@
             "id": "fd8bfd533c21e628",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Developer/Fundamentals/Data Structures/DS-Array.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -81,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 364.5
   },
   "right": {
     "id": "337706b808fe28a1",
@@ -97,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview.md",
+                "file": "Knowledge/Developer/Fundamentals/Data Structures/DS-Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview.md"
+                "file": "Knowledge/Developer/Fundamentals/Data Structures/DS-Array.md"
               }
             }
           },
@@ -159,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd8bfd533c21e628",
+  "active": "e9e879b4f5a74a3d",
   "lastOpenFiles": [
     "Knowledge/Developer/Markdown/Markdown.md",
     "Knowledge/Developer/Markdown/Obsidian.md",
