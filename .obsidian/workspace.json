@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Developer/Fundamentals/Data Structures/DS-Array.md",
+                "file": "Books/How To Smart Note/1.2 The Slip-box.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview.md",
+                "file": "Books/How To Smart Note/1.2 The Slip-box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview.md"
+                "file": "Books/How To Smart Note/1.2 The Slip-box.md"
               }
             }
           },
@@ -164,14 +164,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "fd8bfd533c21e628",
   "lastOpenFiles": [
-    "Knowledge/Developer/Markdown/Markdown.md",
-    "Knowledge/Developer/Markdown/Obsidian.md",
-    "Dataview.md",
-    "Books/How To Smart Note/1.2 The Slip-box.md",
     "Books/How To Smart Note/1.1 Good Solutions are Simple – and Unexpected.md",
     "Books/How To Smart Note/1 Everything You Need to Know.md",
+    "Dataview.md",
+    "Knowledge/Developer/Markdown/Markdown.md",
+    "Knowledge/Developer/Markdown/Obsidian.md",
+    "Books/How To Smart Note/1.2 The Slip-box.md",
     "Books/How To Smart Note/15 AFTERWORD.md",
     "Books/How To Smart Note/14 Make It a Habit.md",
     "Books/How To Smart Note/13.6 The Actual Writing.md",
