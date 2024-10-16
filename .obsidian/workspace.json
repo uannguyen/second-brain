@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "542a3be844732632",
+        "id": "fa854029b878b610",
         "type": "tabs",
         "children": [
           {
-            "id": "422b685c1298504b",
+            "id": "05f732d807d82b12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Developer/Fundamentals/Algorithm/Base Concept.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Developer/Fundamentals/Algorithm/Base Concept.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Developer/Fundamentals/Algorithm/Base Concept.md"
+              }
             }
           },
           {
@@ -142,36 +150,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "422b685c1298504b",
+  "active": "05f732d807d82b12",
   "lastOpenFiles": [
-    "Dataview.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
-    "Ghi chú tạm thời.md",
-    "index.md",
-    "2. Excalidraw/Drawing 2024-10-13 20.53.27.excalidraw.md",
-    "Books/How To Smart Note/8 Let the Work Carry You Forward.md",
-    "Books/How To Smart Note/7 Nobody Ever Starts From Scratch.md",
-    "Books/How To Smart Note/6 Simplicity Is Paramount.md",
-    "Books/How To Smart Note/5 Writing Is the Only Thing That Matters.md",
-    "Youtube.md",
+    "Developer/Nestjs/Dependency Injection.md",
+    "Developer/Sentry/Enriching Events.md",
+    "Developer/Markdown/Obsidian.md",
+    "Developer/Markdown/Markdown.md",
+    "Developer/Linux-Command/Linux-Command.md",
+    "Developer/Linux-Command/Commands.md",
+    "Developer/JS/Promis_Async_Await.md",
+    "Developer/JS/ForEach.md",
+    "Developer/Internet/Internet.md",
+    "Developer/Git/Basic Commands.md",
+    "English/Videos/Video 1.md",
+    "English/Music/index.md",
+    "0. Templates/Note Template.md",
+    "1. Storaged/Images/PROJECT/CyHome-flow-cash.drawio.png",
+    "Viết về một thứ gì đó.md",
+    "Tải subtitles từ youtube.md",
+    "Logo Free.md",
+    "Link Docs Data structure & Algorithm.md",
+    "Kế hoạch cá nhân.md",
     "Golang.md",
-    "Books/How To Smart Note/4 A Few Things to Keep in Mind.md",
-    "Books/How To Smart Note/3.1 The Tool Box.md",
+    "Dataview Excalidraw.md",
+    "Đọc sách.md",
+    "1. Storaged/Images/KNOWLEDGE/heap-data-structure.png",
+    "index.md",
+    "Books/How To Smart Note/7 Nobody Ever Starts From Scratch.md",
+    "Ghi chú tạm thời.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
+    "2. Excalidraw/Drawing 2024-10-13 20.53.27.excalidraw.md",
     "z - Inbox/test.canvas",
     "Document Notes",
-    "Viết về một thứ gì đó.md",
-    "0. Templates/Note Template.md",
-    "Books/How To Smart Note/3 Everything You Need to Have.md",
-    "Books/How To Smart Note/2.1 Writing a paper step by step.md",
-    "Books/How To Smart Note/2 Everything You Need to Do.md",
-    "Books/How To Smart Note/1.3 The slip-box manual.md",
-    "Books/How To Smart Note/1.2 The Slip-box.md",
-    "Books/How To Smart Note/1.1 Good Solutions are Simple – and Unexpected.md",
-    "Books/How To Smart Note/1 Everything You Need to Know.md",
-    "Knowledge/Developer/Markdown/Markdown.md",
-    "Knowledge/Developer/Markdown/Obsidian.md",
-    "Books/How To Smart Note/15 AFTERWORD.md",
-    "Books/How To Smart Note/14 Make It a Habit.md",
     "Books/How To Smart Note",
     "Projects/Thông tư 40.canvas",
     "1. Storaged/Images/BOOKS/dive-into-design-pattern/dive-into-design-pattern.png.jpg",
@@ -182,8 +192,6 @@
     "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-23.png",
     "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-44.png",
     "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-52.jpg",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-77.png",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-81.png",
     "Projects/FINVIET/SmartPOS/Untitled",
     "Projects/FINVIET/SmartPOS",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",

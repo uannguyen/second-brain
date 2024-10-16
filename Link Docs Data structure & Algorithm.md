@@ -1,16 +1,4 @@
 
-# ==Logo free==
-
-Logo của Branch
-https://www.vectorlogo.zone/
-
-Logo svg
-https://www.svgrepo.com/
-https://www.freepik.com/
-
----
-
-# Data structure & Algorithm
 
 - Docs:
 https://www.javatpoint.com/
@@ -19,6 +7,3 @@ https://www.programiz.com/dsa/data-structure-types
 - Git:
 https://github.com/trekhleb/javascript-algorithms
 https://github.com/everthis/leetcode-js
-
----
-

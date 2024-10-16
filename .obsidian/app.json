@@ -30,5 +30,6 @@
   "showInlineTitle": true,
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "attachmentFolderPath": "1. Storaged"
 }
