@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a212d6e97f31bce6",
+        "id": "542a3be844732632",
         "type": "tabs",
         "children": [
           {
-            "id": "8efa86a276fa4ac1",
+            "id": "422b685c1298504b",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dataview.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,10 +142,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8efa86a276fa4ac1",
+  "active": "422b685c1298504b",
   "lastOpenFiles": [
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "Dataview.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "Ghi chú tạm thời.md",
     "index.md",
     "2. Excalidraw/Drawing 2024-10-13 20.53.27.excalidraw.md",

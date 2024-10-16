@@ -29,5 +29,6 @@
   "propertiesInDocument": "visible",
   "showInlineTitle": true,
   "defaultViewMode": "source",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
 }
