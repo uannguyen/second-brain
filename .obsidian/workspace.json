@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36d9ecd371bf7ef4",
+        "id": "72855a7d3571a2f7",
         "type": "tabs",
         "children": [
           {
-            "id": "9af1ccf0995fecd9",
+            "id": "7ffedbcd92f2e1a4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,7 @@
             }
           },
           {
-            "id": "c0be404385397720",
+            "id": "51045159455119d1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -172,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0be404385397720",
+  "active": "7ffedbcd92f2e1a4",
   "lastOpenFiles": [
     "Untitled.md",
     "Books/Untitled.md",
