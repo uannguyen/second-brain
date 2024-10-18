@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fa854029b878b610",
+        "id": "36d9ecd371bf7ef4",
         "type": "tabs",
         "children": [
           {
-            "id": "05f732d807d82b12",
+            "id": "9af1ccf0995fecd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developer/Fundamentals/Algorithm/Base Concept.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Base Concept"
-            }
-          },
-          {
-            "id": "9d873dd573e9a96a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +68,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "c0be404385397720",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,8 +172,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d873dd573e9a96a",
+  "active": "c0be404385397720",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Books/Untitled.md",
+    "Tags",
+    "Golang.md",
+    "Tags/#golang/#golang.md",
+    "Tags/#golang",
+    "Untitled.canvas",
+    "Kế hoạch cá nhân.md",
+    "Developer/Fundamentals/Data Structures/Untitled.md",
+    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
+    "Dataview Excalidraw.md",
+    "Link Docs Data structure & Algorithm.md",
+    "Logo Free.md",
+    "Tải subtitles từ youtube.md",
+    "Viết về một thứ gì đó.md",
+    "Developer/Fundamentals/Algorithm/Base Concept.md",
     "Developer/Nestjs/Dependency Injection.md",
     "Developer/Sentry/Enriching Events.md",
     "Developer/Markdown/Obsidian.md",
@@ -195,20 +204,7 @@
     "English/Music/index.md",
     "0. Templates/Note Template.md",
     "1. Storaged/Images/PROJECT/CyHome-flow-cash.drawio.png",
-    "Viết về một thứ gì đó.md",
-    "Tải subtitles từ youtube.md",
-    "Logo Free.md",
-    "Link Docs Data structure & Algorithm.md",
-    "Kế hoạch cá nhân.md",
-    "Golang.md",
-    "Dataview Excalidraw.md",
-    "Đọc sách.md",
     "1. Storaged/Images/KNOWLEDGE/heap-data-structure.png",
-    "index.md",
-    "Books/How To Smart Note/7 Nobody Ever Starts From Scratch.md",
-    "Ghi chú tạm thời.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
-    "2. Excalidraw/Drawing 2024-10-13 20.53.27.excalidraw.md",
     "z - Inbox/test.canvas",
     "Document Notes",
     "Books/How To Smart Note",
@@ -227,10 +223,7 @@
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns",
     "[Books/Dive Into Design Pattern",
-    "[Books",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
-    "2. Excalidraw",
-    "Untitled.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/forgot pass.canvas",

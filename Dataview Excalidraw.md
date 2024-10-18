@@ -1,6 +1,6 @@
 
 ```dataview
-list from #excalidraw  
+list from #excalidraw
 ```
 
 
