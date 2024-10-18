@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "72855a7d3571a2f7",
+        "id": "30649bd12fe4b7c2",
         "type": "tabs",
         "children": [
           {
-            "id": "7ffedbcd92f2e1a4",
+            "id": "660a3f491f3db409",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "Developer"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Developer"
             }
           }
         ]
@@ -70,7 +72,7 @@
             }
           },
           {
-            "id": "ca3af169fea01243",
+            "id": "caf9fdca531e1984",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -100,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developer/Fundamentals/Algorithm/Base Concept.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Base Concept"
+              "title": "Backlinks"
             }
           },
           {
@@ -152,13 +153,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,9 +171,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ffedbcd92f2e1a4",
+  "active": "660a3f491f3db409",
   "lastOpenFiles": [
+    "Developer/Developer.md",
+    "test space 1.md",
     "Untitled.md",
+    ".md",
+    "Tags/Tags.md",
+    "Tải subtitles từ youtube.md",
+    "jfesf.md",
+    "Developer/Fundamentals/Algorithm/Base Concept.md",
+    "Logo Free.md",
+    "0. Templates/0. Templates.md",
+    "0. Templates/Note Template.md",
     "Books/Untitled.md",
     "Tags",
     "Golang.md",
@@ -186,10 +195,7 @@
     "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
     "Dataview Excalidraw.md",
     "Link Docs Data structure & Algorithm.md",
-    "Logo Free.md",
-    "Tải subtitles từ youtube.md",
     "Viết về một thứ gì đó.md",
-    "Developer/Fundamentals/Algorithm/Base Concept.md",
     "Developer/Nestjs/Dependency Injection.md",
     "Developer/Sentry/Enriching Events.md",
     "Developer/Markdown/Obsidian.md",
@@ -197,12 +203,6 @@
     "Developer/Linux-Command/Linux-Command.md",
     "Developer/Linux-Command/Commands.md",
     "Developer/JS/Promis_Async_Await.md",
-    "Developer/JS/ForEach.md",
-    "Developer/Internet/Internet.md",
-    "Developer/Git/Basic Commands.md",
-    "English/Videos/Video 1.md",
-    "English/Music/index.md",
-    "0. Templates/Note Template.md",
     "1. Storaged/Images/PROJECT/CyHome-flow-cash.drawio.png",
     "1. Storaged/Images/KNOWLEDGE/heap-data-structure.png",
     "z - Inbox/test.canvas",
@@ -222,7 +222,6 @@
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
     "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns",
-    "[Books/Dive Into Design Pattern",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",

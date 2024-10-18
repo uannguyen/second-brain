@@ -1,1 +1,1 @@
-[{"name":"Home","sticker":"ui//home","paths":["/"]}]
+[{"name":"Home","sticker":"ui//home","paths":["/"]},{"sticker":"ui//spaces","name":"space 1","paths":["test space 1.md","Developer"]},{"sticker":"lucide//tag","name":"space 2","paths":["Tags"]}]
