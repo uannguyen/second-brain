@@ -1,0 +1,1 @@
+- Phân giải tên miền thành địa chỉ IP của server.

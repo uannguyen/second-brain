@@ -29,7 +29,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 1,
+  "currentWaypoint": 0,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -46,7 +46,14 @@
   "expandedSpaces": [
     "/",
     "Tags",
-    "Developer"
+    "Developer",
+    "Developer/Developer/Docker/Developer/Docker/Guides",
+    "Developer/Developer/Internet",
+    "Developer/Developer/JS",
+    "Developer/Developer/Linux-Command",
+    "Developer/Developer/Markdown",
+    "Developer/Developer/Nestjs",
+    "Developer/Developer/TS"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

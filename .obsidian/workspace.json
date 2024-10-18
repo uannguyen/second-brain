@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "30649bd12fe4b7c2",
+        "id": "207b49917f6e885d",
         "type": "tabs",
         "children": [
           {
-            "id": "660a3f491f3db409",
+            "id": "65f2b78ea4c436d9",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer"
+                "file": "Golang/Go - convert from nodejs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Developer"
+              "title": "Go - convert from nodejs"
             }
           }
         ]
@@ -70,19 +73,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "caf9fdca531e1984",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "Golang/Go - convert from nodejs.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -111,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Go - convert from nodejs"
             }
           },
           {
@@ -171,38 +164,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "660a3f491f3db409",
+  "active": "65f2b78ea4c436d9",
   "lastOpenFiles": [
-    "Developer/Developer.md",
-    "test space 1.md",
-    "Untitled.md",
-    ".md",
-    "Tags/Tags.md",
-    "Tải subtitles từ youtube.md",
-    "jfesf.md",
-    "Developer/Fundamentals/Algorithm/Base Concept.md",
-    "Logo Free.md",
-    "0. Templates/0. Templates.md",
-    "0. Templates/Note Template.md",
-    "Books/Untitled.md",
-    "Tags",
+    "Golang/Go tutorial vietnamese (zalopay).md",
     "Golang.md",
-    "Tags/#golang/#golang.md",
+    "Golang/Go - convert from nodejs.md",
+    "Golang",
+    "Data Types.md",
+    "Dataview Excalidraw.md",
+    "Knowledge/Data Structures/Untitled.canvas",
+    "Knowledge/Data Structures",
+    "Knowledge",
+    "TS/TS protected key (Data Modifiers).md",
+    "TS/Data Modifiers.md",
+    "TS/Generic type.md",
+    "TS/TS private key (Data Modifiers).md",
+    "TS/TS public key (Data Modifiers).md",
+    "Principles/DRY Principle.md",
+    "Principles/KISS Principle.md",
+    "Principles/SOLID Principles.md",
+    "Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/2. Open&Close Principle.md",
+    "Nestjs/Dependency Injection.md",
+    "Markdown/Obsidian.md",
+    "Linux-Command/Linux-Command.md",
+    "Linux-Command/Commands.md",
+    "JS/Promis_Async_Await.md",
+    "JS/ForEach.md",
+    "Git/Basic Commands.md",
+    "Git/Introduction.md",
+    "English/Videos/Video 1.md",
+    "English/Music/index.md",
+    "Data Structures/DS-Tree.md",
+    "Data Structures/Untitled.md",
+    ".md",
+    "Tags",
     "Tags/#golang",
     "Untitled.canvas",
-    "Kế hoạch cá nhân.md",
-    "Developer/Fundamentals/Data Structures/Untitled.md",
-    "Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/1. Creational Design Patterns/1.2 Draw.md",
-    "Dataview Excalidraw.md",
-    "Link Docs Data structure & Algorithm.md",
-    "Viết về một thứ gì đó.md",
-    "Developer/Nestjs/Dependency Injection.md",
-    "Developer/Sentry/Enriching Events.md",
-    "Developer/Markdown/Obsidian.md",
-    "Developer/Markdown/Markdown.md",
-    "Developer/Linux-Command/Linux-Command.md",
-    "Developer/Linux-Command/Commands.md",
-    "Developer/JS/Promis_Async_Await.md",
     "1. Storaged/Images/PROJECT/CyHome-flow-cash.drawio.png",
     "1. Storaged/Images/KNOWLEDGE/heap-data-structure.png",
     "z - Inbox/test.canvas",
@@ -219,15 +216,11 @@
     "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-52.jpg",
     "Projects/FINVIET/SmartPOS/Untitled",
     "Projects/FINVIET/SmartPOS",
-    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns/3.5 Memento",
-    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns/3. Behaviral Design Patterns",
-    "[Books/Dive Into Design Pattern/IV. Catalog Of Design Patterns",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/forgot pass.canvas",
     "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas",
-    "Projects/FINVIET/Eco Web App/auth-flows.canvas"
+    "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas"
   ]
 }
