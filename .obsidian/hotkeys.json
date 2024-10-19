@@ -1,4 +1,13 @@
 {
+  "make-md:mk-reveal-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
   "file-explorer:reveal-active-file": [
     {
       "modifiers": [

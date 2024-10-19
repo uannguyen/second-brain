@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "207b49917f6e885d",
+        "id": "3a84755718093319",
         "type": "tabs",
         "children": [
           {
-            "id": "65f2b78ea4c436d9",
+            "id": "445dd4429839c3f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang/Go - convert from nodejs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Go - convert from nodejs"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:structure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/Go - convert from nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Go - convert from nodejs"
+              "title": "Backlinks"
             }
           },
           {
@@ -161,41 +155,42 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9e879b4f5a74a3d",
+  "active": "445dd4429839c3f7",
   "lastOpenFiles": [
-    "Golang.md",
-    "Golang/Go - convert from nodejs.md",
-    "Golang/Go tutorial vietnamese (zalopay).md",
-    "Golang",
-    "Data Types.md",
+    "Data Structures/Data structure define.md",
+    "Data Structures/Data structure - Tree.md",
+    "Data Structures/Data structure - Stack.md",
+    "Data Structures/Data structure - Why need use ?.md",
+    "Data Structures/Data structure - Queue.md",
+    "Data Structures/Data structure - Linked-List.md",
+    "Data Structures/Data structure - Heap.md",
+    "Data Structures/Data structure - Hash-Table.md",
+    "Data Structures/Data structure - Graph.md",
+    "Data Structures/Data structure - Dictionary.md",
+    "Data Structures/Data structure - Array.md",
+    "Data Structures/Base.md",
+    "Data Structures/Data structure Intro.md",
+    "Untitled.md",
+    "Algorithm/Algorithm Characteristics - Đặc điểm.md",
+    "JS/Promis_Async_Await.md",
+    "Git/Basic Commands.md",
+    "VS Code.md",
+    "new note.md",
+    "Vault.md",
+    "English/Phương pháp học.md",
     "Dataview Excalidraw.md",
+    "Git/Introduction.md",
+    "0. Templates/0. Templates.md",
+    "3. Books/How To Smart Note/9.5 Get Closure.md",
+    "3. Books/How To Smart Note/12.5 Use the Slip-Box as a Creativity Machine.md",
+    "Golang",
     "Knowledge/Data Structures/Untitled.canvas",
     "Knowledge/Data Structures",
     "Knowledge",
-    "TS/TS protected key (Data Modifiers).md",
-    "TS/Data Modifiers.md",
-    "TS/Generic type.md",
-    "TS/TS private key (Data Modifiers).md",
-    "TS/TS public key (Data Modifiers).md",
-    "Principles/DRY Principle.md",
-    "Principles/KISS Principle.md",
-    "Principles/SOLID Principles.md",
-    "3. Books/Dive Into Design Pattern/III. Software Design Principles/SOLID Principles/2. Open&Close Principle.md",
-    "Nestjs/Dependency Injection.md",
-    "Markdown/Obsidian.md",
-    "Linux-Command/Linux-Command.md",
-    "Linux-Command/Commands.md",
-    "JS/Promis_Async_Await.md",
-    "JS/ForEach.md",
-    "Git/Basic Commands.md",
-    "Git/Introduction.md",
-    "English/Videos/Video 1.md",
-    "English/Music/index.md",
-    "Data Structures/DS-Tree.md",
-    "Data Structures/Untitled.md",
     ".md",
     "Tags",
     "Tags/#golang",
