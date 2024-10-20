@@ -1,5 +1,11 @@
+---
+tags:
+  - english
+---
+[[List english song name]]
 
 - Shadowing - đọc theo
+    - Có thể coi những video [[English youtube video|english video]] và đọc theo 
 
 - Biến từ vựng thụ động => chủ động
 
@@ -8,6 +14,7 @@
 - Read books
 
 - Ghi âm giọng của mình
+
 
 
 =========== 

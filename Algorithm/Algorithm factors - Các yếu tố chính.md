@@ -1,3 +1,8 @@
+---
+tags:
+  - algorithm
+---
+
 
 Trong thuật toán, các yếu tố (factors) đóng vai trò quan trọng trong việc đánh giá chất lượng của một giải pháp
 

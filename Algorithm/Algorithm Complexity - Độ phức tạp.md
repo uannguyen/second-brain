@@ -1,3 +1,9 @@
+---
+tags:
+  - algorithm
+---
+
+
 Đo lường mức độ tăng của thời gian hoặc tài nguyên (thường là bộ nhớ) mà một thuật toán sử dụng khi đầu vào của nó tăng lên. Hiểu được hiệu suất của thuật toán trong các tình huống khác nhau và giúp chọn lựa thuật toán phù hợp cho một vấn đề cụ thể_
 
 

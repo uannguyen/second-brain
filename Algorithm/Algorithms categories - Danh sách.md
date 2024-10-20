@@ -1,3 +1,7 @@
+---
+tags:
+  - algorithm
+---
 
 - **Sort (Sắp xếp)**
 - **Search (Tìm kiếm)**

@@ -1,3 +1,8 @@
+---
+tags:
+  - data_structure
+---
+
 
 #  Linked List (Danh sách liên kết) 
 

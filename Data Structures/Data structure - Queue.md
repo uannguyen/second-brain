@@ -1,3 +1,8 @@
+---
+tags:
+  - data_structure
+---
+
  
 ![[queue.png]]
 

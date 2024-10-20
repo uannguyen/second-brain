@@ -1,3 +1,7 @@
+---
+tags:
+  - data_structure
+---
 
 
 # Stacks (Ngăn xếp) 

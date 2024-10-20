@@ -1,3 +1,9 @@
+---
+tags:
+  - data_structure
+---
+
+
 - Heap is a complete binary tree
 
 ![[heap-data-structure.png]]

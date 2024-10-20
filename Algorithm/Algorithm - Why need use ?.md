@@ -1,3 +1,9 @@
+---
+tags:
+  - algorithm
+---
+
+
 - **Khả năng mở rộng**: Giải quyết các vấn đề lớn & phức tạp => nhỏ => nhỏ hơn
 - **Hiệu suất**: tối ưu thời gian thực thi & tài nguyên
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - data_structure
+---
 
 - Lưu trữ data theo cặp key-value
 - Lưu data theo thứ tự của hàm băm mà không phải thứ tự chèn.

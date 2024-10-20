@@ -1,3 +1,7 @@
+---
+tags:
+  - data_structure
+---
 
 
 ***Có vô vàn lý do để sử dụng data structure***

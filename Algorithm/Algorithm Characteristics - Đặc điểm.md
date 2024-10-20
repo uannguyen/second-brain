@@ -1,3 +1,9 @@
+---
+tags:
+  - algorithm
+---
+
+
 - **Input/Output** => phải được xác định chính xác
 - **Tính rõ ràng** (**Unambiguity**) => Mỗi bước phải rõ ràng mạch lạc
 - **Tính hữu hạn** (**Finiteness**) => lệnh phải đếm được

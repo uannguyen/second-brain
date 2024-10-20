@@ -11,10 +11,15 @@
             "id": "445dd4429839c3f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Data structure define.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data structure define"
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Structures/Data structure define.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Data structure define"
             }
           },
           {
@@ -161,10 +167,24 @@
   },
   "active": "445dd4429839c3f7",
   "lastOpenFiles": [
-    "Data Structures/Data structure define.md",
-    "Data Structures/Data structure - Tree.md",
-    "Data Structures/Data structure - Stack.md",
     "Data Structures/Data structure - Why need use ?.md",
+    "Data Structures/Data structure - Tree.md",
+    "English/Phương pháp học.md",
+    "English/English youtube video.md",
+    "English/List english song name.md",
+    "English/Dách sách.md",
+    "Music.md",
+    "Docker/Overview.md",
+    "Docker/Reference/Command.md",
+    "Algorithm/Algorithms categories - Danh sách.md",
+    "Algorithm/Algorithm factors - Các yếu tố chính.md",
+    "Algorithm/Algorithm Define - Khái niệm.md",
+    "Algorithm/Algorithm Dataflow.md",
+    "Algorithm/Algorithm Complexity - Độ phức tạp.md",
+    "Algorithm/Algorithm Characteristics - Đặc điểm.md",
+    "Algorithm/Algorithm - Why need use ?.md",
+    "Data Structures/Data structure define.md",
+    "Data Structures/Data structure - Stack.md",
     "Data Structures/Data structure - Queue.md",
     "Data Structures/Data structure - Linked-List.md",
     "Data Structures/Data structure - Heap.md",
@@ -173,20 +193,6 @@
     "Data Structures/Data structure - Dictionary.md",
     "Data Structures/Data structure - Array.md",
     "Data Structures/Base.md",
-    "Data Structures/Data structure Intro.md",
-    "Untitled.md",
-    "Algorithm/Algorithm Characteristics - Đặc điểm.md",
-    "JS/Promis_Async_Await.md",
-    "Git/Basic Commands.md",
-    "VS Code.md",
-    "new note.md",
-    "Vault.md",
-    "English/Phương pháp học.md",
-    "Dataview Excalidraw.md",
-    "Git/Introduction.md",
-    "0. Templates/0. Templates.md",
-    "3. Books/How To Smart Note/9.5 Get Closure.md",
-    "3. Books/How To Smart Note/12.5 Use the Slip-Box as a Creativity Machine.md",
     "Golang",
     "Knowledge/Data Structures/Untitled.canvas",
     "Knowledge/Data Structures",
