@@ -11,10 +11,15 @@
             "id": "5a2966ddba3b0a74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Internet/What is Internet ?.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "What is Internet ?"
             }
           }
         ]
@@ -173,21 +178,21 @@
   },
   "active": "5a2966ddba3b0a74",
   "lastOpenFiles": [
+    "Internet/what is www  ?.md",
     "Internet/What is Internet ?.md",
+    "Internet/TPC,IP Protocol.md",
+    "Internet/Domain Name System (DNS).md",
+    "Internet/Hosting.md",
+    "Internet/Domain Names.md",
+    "_Excalidraw/Drawing 2024-10-21 22.38.15.excalidraw.md",
     "_Canvas/Untitled.canvas",
     "_Canvas/Untitled 1.canvas",
     "_Canvas",
     "Memory management.md",
     "Link Docs Data structure & Algorithm.md",
     "_Excalidraw/Drawing 2024-10-21 22.44.28.excalidraw.md",
-    "_Excalidraw/Drawing 2024-10-21 22.38.15.excalidraw.md",
     "_Storaged/internet.png",
     "Excalidraw",
-    "Internet/Protocol.md",
-    "Internet/Domain Name System (DNS).md",
-    "Internet/what is www  ?.md",
-    "Internet/Hosting.md",
-    "Internet/Domain Names.md",
     "TCP/IP.md",
     "TCP",
     "Docker/Overview.md",
