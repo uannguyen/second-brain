@@ -13,16 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Overview.md",
+                "file": "Internet/What is Internet ?.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "What is Internet ?"
+            }
+          },
+          {
+            "id": "39ce0c2a29ad55e9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Canvas/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Overview.md",
+                "file": "_Canvas/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overview"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,10 +131,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developer/Fundamentals/Algorithm/Base Concept.md"
+                "file": "_Canvas/Untitled.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Base Concept"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -145,8 +163,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "8823edb309d8069d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,16 +186,34 @@
       "switcher:Open quick switcher": false,
       "workspaces:Manage workspace layouts": false,
       "templates:Insert template": false,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
+      "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "445dd4429839c3f7",
+  "active": "39ce0c2a29ad55e9",
   "lastOpenFiles": [
+    "_Canvas/Untitled 1.canvas",
+    "_Canvas/Untitled.canvas",
+    "_Canvas",
+    "Memory management.md",
+    "Link Docs Data structure & Algorithm.md",
+    "_Excalidraw/Drawing 2024-10-21 22.44.28.excalidraw.md",
+    "_Excalidraw/Drawing 2024-10-21 22.38.15.excalidraw.md",
+    "_Storaged/internet.png",
+    "Internet/What is Internet ?.md",
+    "Excalidraw",
+    "Internet/Protocol.md",
+    "Internet/Domain Name System (DNS).md",
+    "Internet/what is www  ?.md",
+    "Internet/Hosting.md",
+    "Internet/Domain Names.md",
+    "TCP/IP.md",
+    "TCP",
+    "Docker/Overview.md",
     "Data Structures/Data structure define.md",
     "Data Structures/Data structure - Why need use ?.md",
     "Data Structures/Data structure - Tree.md",
@@ -175,24 +222,11 @@
     "English/List english song name.md",
     "English/Dách sách.md",
     "Music.md",
-    "Docker/Overview.md",
     "Docker/Reference/Command.md",
     "Algorithm/Algorithms categories - Danh sách.md",
     "Algorithm/Algorithm factors - Các yếu tố chính.md",
     "Algorithm/Algorithm Define - Khái niệm.md",
     "Algorithm/Algorithm Dataflow.md",
-    "Algorithm/Algorithm Complexity - Độ phức tạp.md",
-    "Algorithm/Algorithm Characteristics - Đặc điểm.md",
-    "Algorithm/Algorithm - Why need use ?.md",
-    "Data Structures/Data structure - Stack.md",
-    "Data Structures/Data structure - Queue.md",
-    "Data Structures/Data structure - Linked-List.md",
-    "Data Structures/Data structure - Heap.md",
-    "Data Structures/Data structure - Hash-Table.md",
-    "Data Structures/Data structure - Graph.md",
-    "Data Structures/Data structure - Dictionary.md",
-    "Data Structures/Data structure - Array.md",
-    "Data Structures/Base.md",
     "Golang",
     "Knowledge/Data Structures/Untitled.canvas",
     "Knowledge/Data Structures",
@@ -200,23 +234,18 @@
     ".md",
     "Tags",
     "Tags/#golang",
-    "Untitled.canvas",
-    "1. Storaged/Images/PROJECT/CyHome-flow-cash.drawio.png",
-    "1. Storaged/Images/KNOWLEDGE/heap-data-structure.png",
+    "_Storaged/Images/PROJECT/CyHome-flow-cash.drawio.png",
+    "_Storaged/Images/KNOWLEDGE/heap-data-structure.png",
     "z - Inbox/test.canvas",
     "Document Notes",
-    "3. Books/How To Smart Note",
     "Projects/Thông tư 40.canvas",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/dive-into-design-pattern.png.jpg",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-101.png",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-119.png.png",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-145.png",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-176.png",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-23.png",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-44.png",
-    "1. Storaged/Images/BOOKS/dive-into-design-pattern/oop-52.jpg",
-    "Projects/FINVIET/SmartPOS/Untitled",
-    "Projects/FINVIET/SmartPOS",
+    "_Storaged/Images/BOOKS/dive-into-design-pattern/dive-into-design-pattern.png.jpg",
+    "_Storaged/Images/BOOKS/dive-into-design-pattern/oop-101.png",
+    "_Storaged/Images/BOOKS/dive-into-design-pattern/oop-119.png.png",
+    "_Storaged/Images/BOOKS/dive-into-design-pattern/oop-145.png",
+    "_Storaged/Images/BOOKS/dive-into-design-pattern/oop-176.png",
+    "_Storaged/Images/BOOKS/dive-into-design-pattern/oop-23.png",
+    "_Storaged/Images/BOOKS/dive-into-design-pattern/oop-44.png",
     "Projects/FINVIET/Eco Consumer/Verify Method/Verify Step2.canvas",
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",

@@ -2,5 +2,7 @@
   "snapToObjects": true,
   "snapToGrid": true,
   "defaultWheelBehavior": "pan",
-  "defaultModDragBehavior": "menu"
+  "defaultModDragBehavior": "menu",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_Canvas"
 }
