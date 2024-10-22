@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3a84755718093319",
+        "id": "1474c6ce0111af55",
         "type": "tabs",
         "children": [
           {
-            "id": "445dd4429839c3f7",
+            "id": "5a2966ddba3b0a74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internet/What is Internet ?.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "What is Internet ?"
-            }
-          },
-          {
-            "id": "39ce0c2a29ad55e9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Canvas/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,17 +171,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39ce0c2a29ad55e9",
+  "active": "5a2966ddba3b0a74",
   "lastOpenFiles": [
-    "_Canvas/Untitled 1.canvas",
+    "Internet/What is Internet ?.md",
     "_Canvas/Untitled.canvas",
+    "_Canvas/Untitled 1.canvas",
     "_Canvas",
     "Memory management.md",
     "Link Docs Data structure & Algorithm.md",
     "_Excalidraw/Drawing 2024-10-21 22.44.28.excalidraw.md",
     "_Excalidraw/Drawing 2024-10-21 22.38.15.excalidraw.md",
     "_Storaged/internet.png",
-    "Internet/What is Internet ?.md",
     "Excalidraw",
     "Internet/Protocol.md",
     "Internet/Domain Name System (DNS).md",
@@ -250,7 +227,6 @@
     "Projects/FINVIET/Eco Game/LuckyWheel/flows-rule-config.canvas",
     "Projects/FINVIET/Backend/Forgot Password.canvas",
     "Projects/FINVIET/Backend/forgot pass.canvas",
-    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas",
-    "Projects/FINVIET/Eco Game/LuckyWheel/flows-gift-config.canvas"
+    "Projects/FINVIET/Eco Consumer/Verify Method/Flows SMS.canvas"
   ]
 }
